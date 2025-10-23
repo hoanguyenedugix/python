@@ -1,0 +1,119 @@
+{
+  "lesson": {
+    "id": 3
+  },
+  "lessonOverview": {
+    "title": "Unit 1 - Lesson 2",
+    "topic": "In The Park",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 5-6",
+        "activities": [
+          {
+            "name": "Activity A - Page 5"
+          },
+          {
+            "name": "Activity B - Page 5"
+          },
+          {
+            "name": "Activity Speaking - Page 6"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 59",
+        "activities": [
+          {
+            "name": "Activity A - Page 59"
+          },
+          {
+            "name": "Activity B - Page 59"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 60",
+      "materials": [
+        "Unit 1 Lesson 2 FCs"
+      ]
+    },
+    "vocabulary": [
+      "ball",
+      "bat",
+      "football",
+      "skateboard",
+      "scooter",
+      "yo-yo"
+    ],
+    "structures": [
+      "He’s/She’s got a ball.",
+      "He/She hasn’t got a ball.",
+      "A: Has he/she got a ball?",
+      "B: Yes, he/she has. / No, he/she hasn’t."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six toys (ball, bat, football, skateboard, scooter, yo-yo) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Show toy flashcards. Say the word. Ask: “Where’s the scooter?” Students point in SB."
+      ],
+      "stretchStrategies": [
+        "❝Toy Detective❞ – Describe a classmate with toy vocabulary: “He’s got a skateboard.” Students guess who it is. Then, students take turns describing classmates using “has got” sentences."
+      ]
+    },
+    {
+      "outcome": "Students can say simple statements about possessions using \"He's/She's got a.../He/She hasn't got a...\" and ask and answer simple questions using \"Has he/she got a...?\" with responses like \"Yes, he/she has.\" / \"No, he/she hasn't.\"",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Show a picture of a child. Ask: “Has he got a yo-yo?” Students answer: “Yes, he has.” or “No, he hasn’t.”"
+      ],
+      "stretchStrategies": [
+        "❝Toy Detective❞ – Describe a classmate with toy vocabulary: “He’s got a skateboard.” Students guess who it is. Then, students take turns describing classmates using “has got” sentences."
+      ]
+    },
+    {
+      "outcome": "Students can say statements using the target structure “He's/She's got a ___.” / “He/She hasn't got a ___.” and ask and answer questions using the target structure \"Has he/she got a ___?\" / \"Yes, he/she has.\" / \"No, he/she hasn't.\" to talk about possessions.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write 3 example pairs on the board: “She’s got a ball.” / “He hasn’t got a scooter.” Students make their own using SB visuals."
+      ],
+      "stretchStrategies": [
+        "❝Toy Detective❞ – Describe a classmate with toy vocabulary: “He’s got a skateboard.” Students guess who it is. Then, students take turns describing classmates using “has got” sentences."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric;",
+        "banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Holidays and travel:",
+      "items": [
+        "Certain common holiday activities are less likely to overlap with those of Western kids (eating seafood at the beach, going on tours in large groups)"
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

@@ -1,0 +1,126 @@
+{
+  "lesson": {
+    "id": 59
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 1",
+    "topic": "Things",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 33-34",
+        "activities": [
+          {
+            "name": "Activity A - Page 33"
+          },
+          {
+            "name": "Activity B - Page 33"
+          },
+          {
+            "name": "Activity C - Page 34"
+          },
+          {
+            "name": "Activity D - Page 34"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 89",
+        "activities": [
+          {
+            "name": "Activity A - Page 89"
+          },
+          {
+            "name": "Activity B - Page 89"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 90",
+      "materials": [
+        "Flashcards Unit 8 Lesson 1"
+      ]
+    },
+    "vocabulary": [
+      "lamp",
+      "mirror",
+      "bookshelf",
+      "bed",
+      "cupboard",
+      "sofa"
+    ],
+    "structures": [
+      "There’s a lamp next to the sofa.",
+      "A: Is there a lamp next to the bed?",
+      "B: Yes, there is. / No, there isn’t."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six household items (lamp, mirror, bookshelf, bed, cupboard, sofa) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Show flashcards (lamp, sofa, etc.). Students repeat and label pictures in SB. Play “Touch the…” or “What’s missing?” using a set on the board."
+      ],
+      "stretchStrategies": [
+        "“What’s in the wrong place?” – Spot and Correct",
+        "On the whiteboard, draw a simple room layout and place flashcard labels (or write words) incorrectly (e.g., lamp under bed, mirror on sofa). Students work in pairs to spot and correct at least 3 using full sentences:",
+        "“There isn’t a lamp under the bed. There’s a lamp next to the sofa.”"
+      ]
+    },
+    {
+      "outcome": "Students can say simple statements about household items using “There’s a (item) (preposition) the (item).” and ask and answer questions using “Is there a (item) (preposition) the (item)?” with responses like “Yes, there is.” / “No, there isn’t.”",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Set up a board diagram of a room. Ask: “Is there a lamp next to the bed?” Students answer. Then they ask each other using different flashcards."
+      ],
+      "stretchStrategies": [
+        "“What’s in the wrong place?” – Spot and Correct",
+        "On the whiteboard, draw a simple room layout and place flashcard labels (or write words) incorrectly (e.g., lamp under bed, mirror on sofa). Students work in pairs to spot and correct at least 3 using full sentences:",
+        "“There isn’t a lamp under the bed. There’s a lamp next to the sofa.”"
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “There’s a ___ ___ the ___.” and ask and answer using “Is there a ___ ___ the ___?” / “Yes, there is.” / “No, there isn’t.” to talk about household items.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Use sentence strips: “There’s a ___ ___ the ___.” Have students match item + preposition + item and say the full sentence aloud."
+      ],
+      "stretchStrategies": [
+        "“What’s in the wrong place?” – Spot and Correct",
+        "On the whiteboard, draw a simple room layout and place flashcard labels (or write words) incorrectly (e.g., lamp under bed, mirror on sofa). Students work in pairs to spot and correct at least 3 using full sentences:",
+        "“There isn’t a lamp under the bed. There’s a lamp next to the sofa.”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. There is vs it is:",
+      "items": [
+        "Often confused – Kindergarteners will tend to prefer 'it is' for everything, even though the Vietnamese is very different for the two structures"
+      ]
+    },
+    {
+      "section": "4. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

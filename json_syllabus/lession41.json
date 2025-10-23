@@ -1,0 +1,117 @@
+{
+  "lesson": {
+    "id": 41
+  },
+  "lessonOverview": {
+    "title": "Unit 5 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 9",
+        "activities": [
+          {
+            "name": "Activity A - Page 9"
+          },
+          {
+            "name": "Activity B - Page 9"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 103-105",
+        "activities": [
+          {
+            "name": "Activity A - Page 103"
+          },
+          {
+            "name": "Activity B - Page 103"
+          },
+          {
+            "name": "Activity A - Page 104"
+          },
+          {
+            "name": "Activity B - Page 104"
+          },
+          {
+            "name": "Activity A - Page 105"
+          },
+          {
+            "name": "Activity B - Page 105"
+          }
+        ]
+      },
+      "homework": "AB 65",
+      "materials": [
+        "PB: 103-105"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "/eɪ/ ai, /əʊ/ oa"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read a short text about daily routines in Spain and find key details such as times and activities.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read text about a Spanish routine. Ask: “When does he sleep?” Students underline times and daily activities in the SB."
+      ],
+      "stretchStrategies": [
+        "After reading about Spain’s siesta, students write a short comparison paragraph starting with a scaffold: “In Spain, people... In Vietnam, we usually... I think this is because...”"
+      ]
+    },
+    {
+      "outcome": "Students can trace and write the letter combinations “ai” and “oa” to form simple words.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say /ai/ and /oa/ sounds (e.g., rain, boat). Students repeat and sort words by sound. Then trace letters in notebooks."
+      ],
+      "stretchStrategies": [
+        "After reading about Spain’s siesta, students write a short comparison paragraph starting with a scaffold: “In Spain, people... In Vietnam, we usually... I think this is because...”"
+      ]
+    },
+    {
+      "outcome": "Students can explain that people in Spain rest during the middle of the day and compare their own routine to someone in Spain.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Make a chart: “My day / Spain.” Compare timing of lunch, school, bedtime using post-its or SB visuals."
+      ],
+      "stretchStrategies": [
+        "After reading about Spain’s siesta, students write a short comparison paragraph starting with a scaffold: “In Spain, people... In Vietnam, we usually... I think this is because...”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

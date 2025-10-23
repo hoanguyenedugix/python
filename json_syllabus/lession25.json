@@ -1,0 +1,112 @@
+{
+  "lesson": {
+    "id": 25
+  },
+  "lessonOverview": {
+    "title": "Unit 4 - Lesson 2",
+    "topic": "Jobs",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 37-38",
+        "activities": [
+          {
+            "name": "Activity A - Page 37"
+          },
+          {
+            "name": "Activity B - Page 37"
+          },
+          {
+            "name": "Activity Speaking - Page 38"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 91",
+        "activities": [
+          {
+            "name": "Activity A - Page 91"
+          },
+          {
+            "name": "Activity B - Page 91"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 92",
+      "materials": [
+        "Flashcards Unit 4 Lesson 2"
+      ]
+    },
+    "vocabulary": [
+      "singers",
+      "dancers",
+      "farmers",
+      "vets",
+      "firefighters",
+      "police officers"
+    ],
+    "structures": [
+      "They’re singers.",
+      "They aren’t singers.",
+      "A: Are they vets?",
+      "B: Yes, they are. / No, they aren’t."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six more jobs (singers, dancers, farmers, vets, firefighters, police officers) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Use SB visuals to introduce plural job names (e.g., farmers, dancers). Say the word, students repeat and identify them in a group scene."
+      ],
+      "stretchStrategies": [
+        "Picture Swap Challenge – In pairs, students describe a picture without showing it, using “They’re...” / “They aren’t...” to help their partner guess which one it is. Encourage added detail: They’re dancers. They’re wearing pink dresses."
+      ]
+    },
+    {
+      "outcome": "Students can say simple statements about people’s jobs using “They’re...” / “They aren’t...” and ask and answer simple questions using “Are they...?” and “Yes, they are.” / “No, they aren’t.”",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Ask: “Are they singers?” Show a picture. Students respond with “Yes, they are.” or “No, they aren’t.” Drill with partner pairs."
+      ],
+      "stretchStrategies": [
+        "Picture Swap Challenge – In pairs, students describe a picture without showing it, using “They’re...” / “They aren’t...” to help their partner guess which one it is. Encourage added detail: They’re dancers. They’re wearing pink dresses."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “They’re ___.” / “They aren’t ___.” and ask and answer using “Are they ___?” / “Yes, they are.” / “No, they aren’t.” to talk about people’s jobs.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write: “They’re ___.” / “They aren’t ___.” + “Are they ___?” on the board. Students practise with job flashcards in pairs."
+      ],
+      "stretchStrategies": [
+        "Picture Swap Challenge – In pairs, students describe a picture without showing it, using “They’re...” / “They aren’t...” to help their partner guess which one it is. Encourage added detail: They’re dancers. They’re wearing pink dresses."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

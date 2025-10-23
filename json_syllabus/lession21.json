@@ -1,0 +1,115 @@
+{
+  "lesson": {
+    "id": 21
+  },
+  "lessonOverview": {
+    "title": "Unit 3 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 33",
+        "activities": [
+          {
+            "name": "Activity A - Page 33"
+          },
+          {
+            "name": "Activity B - Page 33"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 117-119",
+        "activities": [
+          {
+            "name": "Activity A - Page 117"
+          },
+          {
+            "name": "Activity B - Page 117"
+          },
+          {
+            "name": "Activity A - Page 118"
+          },
+          {
+            "name": "Activity B - Page 118"
+          },
+          {
+            "name": "Activity A - Page 119"
+          },
+          {
+            "name": "Activity B - Page 119"
+          }
+        ]
+      },
+      "homework": "AB 87",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "/uː/ long oo, /ʊ/ short oo"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read a short text about what different animals eat and find key details such as animals and foods.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read text aloud. Ask: “What does the rabbit eat?” Students underline animals and foods in their SB as they listen."
+      ],
+      "stretchStrategies": [
+        "\"Sound Sorting Challenge\" – Students sort a set of picture/word cards into long “oo” and short “oo” categories, then write and illustrate two new “oo” words of their own for each sound."
+      ]
+    },
+    {
+      "outcome": "Students can trace and write the letters “oo” (long and short) to form simple words.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say and write “oo” (long and short). E.g., moon, book. Students repeat and sort words by vowel sound."
+      ],
+      "stretchStrategies": [
+        "\"Sound Sorting Challenge\" – Students sort a set of picture/word cards into long “oo” and short “oo” categories, then write and illustrate two new “oo” words of their own for each sound."
+      ]
+    },
+    {
+      "outcome": "Students can say what different animals eat and name one example.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Science) Match animals with food using picture cards: “Cow – grass, fox – chicken.” Students check answers in the SB text."
+      ],
+      "stretchStrategies": [
+        "\"Sound Sorting Challenge\" – Students sort a set of picture/word cards into long “oo” and short “oo” categories, then write and illustrate two new “oo” words of their own for each sound."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    },
+    {
+      "section": "4. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

@@ -1,0 +1,95 @@
+{
+  "lesson": {
+    "id": 12
+  },
+  "lessonOverview": {
+    "title": "Unit 2 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 19-20",
+        "activities": [
+          {
+            "name": "Activity A - Page 19"
+          },
+          {
+            "name": "Activity B - Page 19"
+          },
+          {
+            "name": "Activity Speaking - Page 20"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 73",
+        "activities": [
+          {
+            "name": "Activity A - Page 73"
+          },
+          {
+            "name": "Activity B - Page 73"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 74",
+      "materials": [
+        "Coin per pair"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can write words and sentences (e.g., “She wants fish.”) clearly and accurately.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Write: “She wants fish.” on the board. Say each word. Students copy in notebooks, then write a similar sentence with their own idea."
+      ],
+      "stretchStrategies": [
+        "Team Quiz Challenge: Divide the class into two teams. Ask advanced recall questions using flashcards: “What has she got?”, “What does he want?”, “What’s this?” Students must answer with a full sentence to earn points. Encourage peer correction and team support."
+      ]
+    },
+    {
+      "outcome": "Students can listen to spoken descriptions and select the correct foods or classroom items.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say clues: “It’s red. You use it to draw.” Students guess the item: “It’s a marker pen.” Use classroom objects and food descriptions."
+      ],
+      "stretchStrategies": [
+        "Team Quiz Challenge: Divide the class into two teams. Ask advanced recall questions using flashcards: “What has she got?”, “What does he want?”, “What’s this?” Students must answer with a full sentence to earn points. Encourage peer correction and team support."
+      ]
+    },
+    {
+      "outcome": "Students can work together politely and take turns to play a competitive game.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Collaboration) In teams, students take turns describing and guessing a classroom item or food using target structures."
+      ],
+      "stretchStrategies": [
+        "Team Quiz Challenge: Divide the class into two teams. Ask advanced recall questions using flashcards: “What has she got?”, “What does he want?”, “What’s this?” Students must answer with a full sentence to earn points. Encourage peer correction and team support."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Silent letters:",
+      "items": [
+        "Systematic kinds of silent letters, such as 'magic e' in late or mote, or silent gh in thought and bought, are entirely alien to Vietnamese. They are often acquired as sight words first; the teacher can explain at higher levels."
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}
+

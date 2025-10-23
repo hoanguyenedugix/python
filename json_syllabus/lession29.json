@@ -1,0 +1,109 @@
+{
+  "lesson": {
+    "id": 29
+  },
+  "lessonOverview": {
+    "title": "Unit 4 - Lesson 6",
+    "topic": "Grammar & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 44",
+        "activities": [
+          {
+            "name": "Activity A - Page 44"
+          },
+          {
+            "name": "Activity B - Page 44"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 126-128",
+        "activities": [
+          {
+            "name": "Activity A - Page 126"
+          },
+          {
+            "name": "Activity B - Page 126"
+          },
+          {
+            "name": "Activity A - Page 127"
+          },
+          {
+            "name": "Activity B - Page 127"
+          },
+          {
+            "name": "Activity C - Page 128"
+          },
+          {
+            "name": "Activity D - Page 128"
+          }
+        ]
+      },
+      "homework": "AB 98",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "ng, ck"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can correctly use the verb “to be” in singular and plural, positive and negative sentences.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write a sentence scramble: “is / a / She / nurse.” Students unscramble, write and read out. Repeat for “They are firefighters.”"
+      ],
+      "stretchStrategies": [
+        "Spot the Mistake Detective – Give stronger students incorrect job sentences (e.g., He are a firefighter. or They is teachers.) to correct and explain the error to their group."
+      ]
+    },
+    {
+      "outcome": "Students can recognise and identify the sounds “ng” and “ck”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say “kick,” “sing,” “wing,” “sock.” Students repeat and raise one hand for “ng” sound, two hands for “ck.”"
+      ],
+      "stretchStrategies": [
+        "Spot the Mistake Detective – Give stronger students incorrect job sentences (e.g., He are a firefighter. or They is teachers.) to correct and explain the error to their group."
+      ]
+    },
+    {
+      "outcome": "Students can complete short sentence frames using the correct form of the verb “to be”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Write: “He ___ a teacher.” Students complete with “is/isn’t.” Extend to “They ___ students.” for plural practice."
+      ],
+      "stretchStrategies": [
+        "Spot the Mistake Detective – Give stronger students incorrect job sentences (e.g., He are a firefighter. or They is teachers.) to correct and explain the error to their group."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

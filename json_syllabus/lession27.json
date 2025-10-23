@@ -1,0 +1,103 @@
+{
+  "lesson": {
+    "id": 27
+  },
+  "lessonOverview": {
+    "title": "Unit 4 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 41-42",
+        "activities": [
+          {
+            "name": "Activity A - Page 41"
+          },
+          {
+            "name": "Activity B - Page 41"
+          },
+          {
+            "name": "Activity Speaking - Page 42"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 95",
+        "activities": [
+          {
+            "name": "Activity A - Page 95"
+          },
+          {
+            "name": "Activity B - Page 95"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 96",
+      "materials": [
+        "Coin per pair"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can write words and sentences (e.g., “Is he a doctor?”) clearly and accurately.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Model: “Is he a doctor?” on the board. Students copy, then write their own question and answer based on a picture from the SB."
+      ],
+      "stretchStrategies": [
+        "Guess the Job Relay – Stronger students take on a leadership role in team games. They describe a job using clues (without saying the word) and classmates guess.",
+        "Example clues: He works at a school. He helps students. He isn’t a student."
+      ]
+    },
+    {
+      "outcome": "Students can listen to spoken descriptions and select the correct job.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say: “She works in a hospital.” “She helps sick people.” Students choose the correct job from multiple pictures."
+      ],
+      "stretchStrategies": [
+        "Guess the Job Relay – Stronger students take on a leadership role in team games. They describe a job using clues (without saying the word) and classmates guess.",
+        "Example clues: He works at a school. He helps students. He isn’t a student."
+      ]
+    },
+    {
+      "outcome": "Students can work together politely and take turns to play a competitive game.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Competition) Divide class into teams. Ask job questions. First to answer correctly earns a point. Swap roles each round."
+      ],
+      "stretchStrategies": [
+        "Guess the Job Relay – Stronger students take on a leadership role in team games. They describe a job using clues (without saying the word) and classmates guess.",
+        "Example clues: He works at a school. He helps students. He isn’t a student."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

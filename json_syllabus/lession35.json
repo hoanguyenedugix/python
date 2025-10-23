@@ -1,0 +1,54 @@
+{
+  "lesson": {
+    "id": 35
+  },
+  "lessonOverview": {
+    "title": "Reader 1",
+    "topic": "Reader 1",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Reader 1 CPT",
+        "Reader 1 worksheets",
+        "Book: The Three Hungry Goats"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can follow along, echo read, and take part in group reading to understand the sequence of events in the story.",
+      "category": "Communication",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can express character emotions through voice and facial expressions during role-play, and share their ideas confidently with a partner.",
+      "category": "Future Skills",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can discuss the story’s message about teamwork and courage, and relate it to situations in their own lives.",
+      "category": "SEL",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

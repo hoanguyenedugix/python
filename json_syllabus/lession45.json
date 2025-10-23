@@ -1,0 +1,135 @@
+{
+  "lesson": {
+    "id": 45
+  },
+  "lessonOverview": {
+    "title": "Unit 6 - Lesson 2",
+    "topic": "Sports",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 13-14",
+        "activities": [
+          {
+            "name": "Activity A - Page 13"
+          },
+          {
+            "name": "Activity B - Page 13"
+          },
+          {
+            "name": "Activity Speaking - Page 14"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 69",
+        "activities": [
+          {
+            "name": "Activity A - Page 69"
+          },
+          {
+            "name": "Activity B - Page 69"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 70",
+      "materials": [
+        "Unit 5 Lesson 2 FCs"
+      ]
+    },
+    "vocabulary": [
+      "football",
+      "tennis",
+      "basketball",
+      "badminton",
+      "volleyball",
+      "table tennis"
+    ],
+    "structures": [
+      "A: What do you do after school?",
+      "B: I play football.",
+      "A: What does he/she do after school?",
+      "B: He/She plays tennis."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six sports (football, tennis, basketball, badminton, volleyball, table tennis) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Show sport flashcards or images from SB. Ask: “What’s this?” – “It’s volleyball.” Students repeat and sort into “ball” vs. “racket” sports."
+      ],
+      "stretchStrategies": [
+        "Activity Survey",
+        "Students conduct a class survey using the target question: “What do you do after school?” Then, they write two or three sentences summarizing the data using third-person forms (e.g., “Ben plays tennis. Anna plays volleyball.”)."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about sports using “What do you do after school?” / “What does he/she do after school?” and respond with “I play...” / “He/She plays...”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Ask: “What do you do after school?” Model: “I play basketball.” Students interview partners and report back: “He plays…”"
+      ],
+      "stretchStrategies": [
+        "Activity Survey",
+        "Students conduct a class survey using the target question: “What do you do after school?” Then, they write two or three sentences summarizing the data using third-person forms (e.g., “Ben plays tennis. Anna plays volleyball.”)."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “What do you do after school?” / “I play ___.” and “What does he/she do after school?” / “He/She plays ___.” to talk about sports.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write and drill: “What does she do after school?” – “She plays badminton.” Students practise with partner swap activity using picture cues."
+      ],
+      "stretchStrategies": [
+        "Activity Survey",
+        "Students conduct a class survey using the target question: “What do you do after school?” Then, they write two or three sentences summarizing the data using third-person forms (e.g., “Ben plays tennis. Anna plays volleyball.”)."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Question formation with do-support:",
+      "items": [
+        "Bạn có thích ăn bánh mì không? >> you like eat bread? [do you like to eat bánh mì?]"
+      ]
+    },
+    {
+      "section": "2. Negatives with do-support:",
+      "items": [
+        "Con không thích >> I no/not like [I don't like]"
+      ]
+    },
+    {
+      "section": "3. Sport and play:",
+      "items": [
+        "Playground words tend to be long and phonetically difficult (slide, see-saw, swings, climbing frame)",
+        "Some sports not well known in VN (baseball, cricket, rugby, paragliding, water skiing)"
+      ]
+    },
+    {
+      "section": "4. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "5. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "6. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

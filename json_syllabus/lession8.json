@@ -1,0 +1,91 @@
+{
+  "lesson": {
+    "id": 8
+  },
+  "lessonOverview": {
+    "title": "Unit 1 - Lesson 7",
+    "topic": "Unit Test & Video",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Unit 1 Project Gallery",
+        "Unit 1 Video"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen and identify key details about Kobi and his interesting hobby by choosing correct answers (e.g., multiple choice).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Play the video in short segments. Ask: “What hobby does Kobi have?” Students tick the correct answer in the SB."
+      ],
+      "stretchStrategies": [
+        "❝Same & Different Circle❞ – After watching the video, sit in a circle. Ask, “What does Kobi like? What do you like?” Students respond using full sentences: “He’s got a kite. I’ve got a skateboard.” Encourage comparison: “That’s the same!” or “That’s different!”"
+      ]
+    },
+    {
+      "outcome": "Students can say how their lives are similar to or different from the characters in the video.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Ask: “What does Kobi like? What do you like?” Use a Venn diagram on the board to compare."
+      ],
+      "stretchStrategies": [
+        "❝Same & Different Circle❞ – After watching the video, sit in a circle. Ask, “What does Kobi like? What do you like?” Students respond using full sentences: “He’s got a kite. I’ve got a skateboard.” Encourage comparison: “That’s the same!” or “That’s different!”"
+      ]
+    },
+    {
+      "outcome": "Students can discuss the importance of preparing and give examples of what they prepare for and how.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Critical Thinking) Ask: “Why do we prepare for things?” Students list examples (e.g., pack for trips, check weather), then share with a partner."
+      ],
+      "stretchStrategies": [
+        "❝Same & Different Circle❞ – After watching the video, sit in a circle. Ask, “What does Kobi like? What do you like?” Students respond using full sentences: “He’s got a kite. I’ve got a skateboard.” Encourage comparison: “That’s the same!” or “That’s different!”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric;",
+        "banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Holidays and travel:",
+      "items": [
+        "Certain common holiday activities are less likely to overlap with those of Western kids (eating seafood at the beach, going on tours in large groups)"
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

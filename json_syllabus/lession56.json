@@ -1,0 +1,128 @@
+{
+  "lesson": {
+    "id": 56
+  },
+  "lessonOverview": {
+    "title": "Unit 7 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 31",
+        "activities": [
+          {
+            "name": "Activity A - Page 31"
+          },
+          {
+            "name": "Activity B - Page 31"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 87",
+        "activities": [
+          {
+            "name": "Activity A - Page 87"
+          },
+          {
+            "name": "Activity B - Page 87"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "Page 115-117",
+        "activities": [
+          {
+            "name": "Activity A - Page 115"
+          },
+          {
+            "name": "Activity B - Page 115"
+          },
+          {
+            "name": "Activity A - Page 116"
+          },
+          {
+            "name": "Activity B - Page 116"
+          },
+          {
+            "name": "Activity A - Page 117"
+          },
+          {
+            "name": "Activity B - Page 117"
+          }
+        ]
+      },
+      "homework": null,
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "o_e, u_e"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read a short text about the International Kite Festival and find key details such as actions and places.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read the text together. Ask: “What are people doing at the festival?” Students underline the verbs in the story."
+      ],
+      "stretchStrategies": [
+        "Kite Word Builder: Use the “o_e” and “u_e” sounds to create new action words together (e.g., “move,” “use,” “joke”). Challenge: Use each in a full sentence: “I’m using a pencil.” “He’s joking.”"
+      ]
+    },
+    {
+      "outcome": "Students can trace and write the phonics patterns “o_e” and “u_e” to form simple words.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say and write o_e/u_e words: “home,” “cube.” Students repeat, trace, and draw the correct object next to each word."
+      ],
+      "stretchStrategies": [
+        "Kite Word Builder: Use the “o_e” and “u_e” sounds to create new action words together (e.g., “move,” “use,” “joke”). Challenge: Use each in a full sentence: “I’m using a pencil.” “He’s joking.”"
+      ]
+    },
+    {
+      "outcome": "Students can describe what happens at a festival in Italy and share one interesting fact.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Ask: “Do we have festivals in our country?” Compare pictures of the Kite Festival with local celebrations using SB prompts."
+      ],
+      "stretchStrategies": [
+        "Kite Word Builder: Use the “o_e” and “u_e” sounds to create new action words together (e.g., “move,” “use,” “joke”). Challenge: Use each in a full sentence: “I’m using a pencil.” “He’s joking.”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Present continuous form:",
+      "items": [
+        "The -ing is often forgotten. Vietnamese does not have different forms of the same verb. I like eat rice."
+      ]
+    },
+    {
+      "section": "2. Silent letters:",
+      "items": [
+        "Systematic kinds of silent letters, such as 'magic e' in late or mote, or silent gh in thought and bought, are entirely alien to Vietnamese. They are often acquired as sight words first; the teacher can explain at higher levels."
+      ]
+    },
+    {
+      "section": "3. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

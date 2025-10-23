@@ -1,0 +1,115 @@
+{
+  "lesson": {
+    "id": 22
+  },
+  "lessonOverview": {
+    "title": "Unit 3 - Lesson 6",
+    "topic": "Grammar & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 34",
+        "activities": [
+          {
+            "name": "Activity A - Page 34"
+          },
+          {
+            "name": "Activity B - Page 34"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 120-122",
+        "activities": [
+          {
+            "name": "Activity A - Page 120"
+          },
+          {
+            "name": "Activity B - Page 120"
+          },
+          {
+            "name": "Activity A - Page 121"
+          },
+          {
+            "name": "Activity B - Page 121"
+          },
+          {
+            "name": "Activity C - Page 122"
+          },
+          {
+            "name": "Activity D - Page 122"
+          }
+        ]
+      },
+      "homework": "AB 88",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "/uː/ long oo, /ʊ/ short oo"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can ask about singular and plural animals that are near and far using “What’s this?” / “What are these?” / “What’s that?” / “What are those?”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write all 4 question forms on board. “What’s this?” / “What are these?” / “What’s that?” / “What are those?” Students take turns asking/answering."
+      ],
+      "stretchStrategies": [
+        "\"Animal Grammar Hunt\" – Students look around the classroom for hidden animal flashcards and describe them using the correct demonstrative pronouns in writing or speech (e.g., “That’s a cheetah. These are cows.”). Bonus challenge: add adjectives."
+      ]
+    },
+    {
+      "outcome": "Students can recognise and identify the long and short “oo” sounds.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Write “book” and “boot” on the board. Students listen and choose if it’s short /oo/ or long /oo/. Then match to pictures."
+      ],
+      "stretchStrategies": [
+        "\"Animal Grammar Hunt\" – Students look around the classroom for hidden animal flashcards and describe them using the correct demonstrative pronouns in writing or speech (e.g., “That’s a cheetah. These are cows.”). Bonus challenge: add adjectives."
+      ]
+    },
+    {
+      "outcome": "Students can choose the correct demonstrative pronoun and complete sentence frames about animals (e.g., “That’s a cheetah.” / “These are rabbits.”).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Display sentence frame: “What are ___?” – “They’re ___.” Students fill in using SB animals and correct demonstrative word."
+      ],
+      "stretchStrategies": [
+        "\"Animal Grammar Hunt\" – Students look around the classroom for hidden animal flashcards and describe them using the correct demonstrative pronouns in writing or speech (e.g., “That’s a cheetah. These are cows.”). Bonus challenge: add adjectives."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    },
+    {
+      "section": "4. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

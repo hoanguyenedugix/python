@@ -1,0 +1,121 @@
+{
+  "lesson": {
+    "id": 51
+  },
+  "lessonOverview": {
+    "title": "Review 3",
+    "topic": "Review 3",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 21-22",
+        "activities": [
+          {
+            "name": "Activity A - Page 21"
+          },
+          {
+            "name": "Activity B - Page 21"
+          },
+          {
+            "name": "Activity C - Page 22"
+          },
+          {
+            "name": "Activity D - Page 22"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 77",
+        "activities": [
+          {
+            "name": "Activity A - Page 77"
+          },
+          {
+            "name": "Activity B - Page 77"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 78",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read and understand a text containing the units' target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read the review text aloud as a class. Ask: “Can you find a [vocab/grammar point]?” Students highlight or underline examples in their books."
+      ],
+      "stretchStrategies": [
+        "“Draw and Check” Dictation – Read 4–6 short sentences using target language (e.g., “There’s a red car under the bed.”). Students draw each scene. Afterwards, show or read again so they can self-check and explain what they heard."
+      ]
+    },
+    {
+      "outcome": "Students can listen and identify the units' target language correctly.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say or play short sentences using target language from previous units. Students point, circle, or hold up the matching item or image."
+      ],
+      "stretchStrategies": [
+        "“Draw and Check” Dictation – Read 4–6 short sentences using target language (e.g., “There’s a red car under the bed.”). Students draw each scene. Afterwards, show or read again so they can self-check and explain what they heard."
+      ]
+    },
+    {
+      "outcome": "Students can reflect on their learning across the units and say what they can do.",
+      "category": "Learning to Learn",
+      "supportStrategies": [
+        "(Reflection) Write prompts: “I can name…,” “I can say…,” “I can ask…” Students complete with language they remember using speech bubbles or drawings."
+      ],
+      "stretchStrategies": [
+        "“Draw and Check” Dictation – Read 4–6 short sentences using target language (e.g., “There’s a red car under the bed.”). Students draw each scene. Afterwards, show or read again so they can self-check and explain what they heard."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Question formation with do-support:",
+      "items": [
+        "Bạn có thích ăn bánh mì không? >> you like eat bread? [do you like to eat bánh mì?]"
+      ]
+    },
+    {
+      "section": "2. Negatives with do-support:",
+      "items": [
+        "Con không thích >> I no/not like [I don't like]"
+      ]
+    },
+    {
+      "section": "3. Sport and play:",
+      "items": [
+        "Playground words tend to be long and phonetically difficult (slide, see-saw, swings, climbing frame)",
+        "Some sports not well known in VN (baseball, cricket, rugby, paragliding, water skiing)"
+      ]
+    },
+    {
+      "section": "4. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "5. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "6. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

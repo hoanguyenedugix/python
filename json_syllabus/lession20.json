@@ -1,0 +1,106 @@
+{
+  "lesson": {
+    "id": 20
+  },
+  "lessonOverview": {
+    "title": "Unit 3 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 31-32",
+        "activities": [
+          {
+            "name": "Activity A - Page 31"
+          },
+          {
+            "name": "Activity B - Page 31"
+          },
+          {
+            "name": "Activity Speaking - Page 32"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 85",
+        "activities": [
+          {
+            "name": "Activity A - Page 85"
+          },
+          {
+            "name": "Activity B - Page 85"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 86",
+      "materials": [
+        "Six bottles per group of four students"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can write words and sentences (e.g., “It’s an owl.”) clearly and accurately.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Write model sentence: “It’s an owl.” Say it aloud. Students copy carefully and then write a new sentence using a different animal."
+      ],
+      "stretchStrategies": [
+        "\"Animal Detective\" Dictation Race – Teacher describes animals and students write full sentences on mini whiteboards or paper (e.g., “It’s a goat. There are two goats.”). Fast finishers can write longer descriptions (e.g., “It’s a big goat. It’s next to the cow.”)."
+      ]
+    },
+    {
+      "outcome": "Students can listen to spoken descriptions and select the correct animal and number of animals.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say: “There are three ducks. There is one cow.” Students choose the correct image or number in SB."
+      ],
+      "stretchStrategies": [
+        "\"Animal Detective\" Dictation Race – Teacher describes animals and students write full sentences on mini whiteboards or paper (e.g., “It’s a goat. There are two goats.”). Fast finishers can write longer descriptions (e.g., “It’s a big goat. It’s next to the cow.”)."
+      ]
+    },
+    {
+      "outcome": "Students can work together politely, take turns, and play a physical collaborative game safely.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Collaboration) Play “Guess the animal”: One student gives a clue (e.g. “It’s got feathers”). Team guesses, then switch."
+      ],
+      "stretchStrategies": [
+        "\"Animal Detective\" Dictation Race – Teacher describes animals and students write full sentences on mini whiteboards or paper (e.g., “It’s a goat. There are two goats.”). Fast finishers can write longer descriptions (e.g., “It’s a big goat. It’s next to the cow.”)."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    },
+    {
+      "section": "4. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

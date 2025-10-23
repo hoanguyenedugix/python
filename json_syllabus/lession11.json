@@ -1,0 +1,97 @@
+{
+  "lesson": {
+    "id": 11
+  },
+  "lessonOverview": {
+    "title": "Unit 2 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 17-18",
+        "activities": [
+          {
+            "name": "Activity A - Page 17"
+          },
+          {
+            "name": "Activity B - Page 17"
+          },
+          {
+            "name": "Activity C - Page 18"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 18"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 71",
+        "activities": [
+          {
+            "name": "Activity A - Page 71"
+          },
+          {
+            "name": "Activity B - Page 71"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 72",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: s, z"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters and food items mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before the story, preview the food vocab. Say: “Listen for chicken, juice.” Students touch ears or raise hand when they hear the word."
+      ],
+      "stretchStrategies": [
+        "Rewrite the Ending: After acting out the story, students work in pairs to draw or act out a new ending. Encourage them to include different food items or objects from previous lessons. Let them present to the class."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Read the story aloud slowly. Students echo key lines, then act out parts in small groups using gestures or classroom props."
+      ],
+      "stretchStrategies": [
+        "Rewrite the Ending: After acting out the story, students work in pairs to draw or act out a new ending. Encourage them to include different food items or objects from previous lessons. Let them present to the class."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or acting it out.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Ask: “What happens after the story?” Students draw a new final scene and describe it in 1–2 sentences."
+      ],
+      "stretchStrategies": [
+        "Rewrite the Ending: After acting out the story, students work in pairs to draw or act out a new ending. Encourage them to include different food items or objects from previous lessons. Let them present to the class."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Silent letters:",
+      "items": [
+        "Systematic kinds of silent letters, such as 'magic e' in late or mote, or silent gh in thought and bought, are entirely alien to Vietnamese. They are often acquired as sight words first; the teacher can explain at higher levels."
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

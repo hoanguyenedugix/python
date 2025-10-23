@@ -1,0 +1,54 @@
+{
+  "lesson": {
+    "id": 71
+  },
+  "lessonOverview": {
+    "title": "Reader 4",
+    "topic": "Reader 4",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Reader 4 CPT",
+        "Reader 4 worksheets",
+        "Book: The Three Hungry Goats"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can rehearse and perform scenes from the story using clear speech and expressive movement to communicate meaning.",
+      "category": "Communication",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can work effectively in groups to prepare props, practice lines, and support each other during a group performance.",
+      "category": "Future Skills",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can reflect on their participation, celebrate their efforts and their classmates', and recognise the value of teamwork and trying their best.",
+      "category": "SEL",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

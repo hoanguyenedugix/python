@@ -1,0 +1,121 @@
+{
+  "lesson": {
+    "id": 47
+  },
+  "lessonOverview": {
+    "title": "Unit 6 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 17-18",
+        "activities": [
+          {
+            "name": "Activity A - Page 17"
+          },
+          {
+            "name": "Activity B - Page 17"
+          },
+          {
+            "name": "Activity Speaking - Page 18"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 73",
+        "activities": [
+          {
+            "name": "Activity A - Page 73"
+          },
+          {
+            "name": "Activity B - Page 73"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 74",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can write sentences (e.g., “She plays badminton.”) clearly and accurately in the correct space.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Write: “She plays badminton.” Say the sentence. Students copy it and write one more using a new sport or instrument."
+      ],
+      "stretchStrategies": [
+        "Write & Quiz a Friend",
+        "Students write 2–3 original sentences using the target language (“He plays… / She doesn’t play…”). Then, they read them without revealing the answers, and classmates must guess true or false, prompting peer correction and language reflection."
+      ]
+    },
+    {
+      "outcome": "Students can listen to spoken descriptions and select the correct instruments and sports.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say: “He plays the flute. She plays volleyball.” Students point to the matching image or circle the correct answer in SB."
+      ],
+      "stretchStrategies": [
+        "Write & Quiz a Friend",
+        "Students write 2–3 original sentences using the target language (“He plays… / She doesn’t play…”). Then, they read them without revealing the answers, and classmates must guess true or false, prompting peer correction and language reflection."
+      ]
+    },
+    {
+      "outcome": "Students can work together politely and take turns in a competitive game.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Competition) Team game: One student describes (e.g., “He plays the ___”). Others race to choose the right flashcard and answer."
+      ],
+      "stretchStrategies": [
+        "Write & Quiz a Friend",
+        "Students write 2–3 original sentences using the target language (“He plays… / She doesn’t play…”). Then, they read them without revealing the answers, and classmates must guess true or false, prompting peer correction and language reflection."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Question formation with do-support:",
+      "items": [
+        "Bạn có thích ăn bánh mì không? >> you like eat bread? [do you like to eat bánh mì?]"
+      ]
+    },
+    {
+      "section": "2. Negatives with do-support:",
+      "items": [
+        "Con không thích >> I no/not like [I don't like]"
+      ]
+    },
+    {
+      "section": "3. Sport and play:",
+      "items": [
+        "Playground words tend to be long and phonetically difficult (slide, see-saw, swings, climbing frame)",
+        "Some sports not well known in VN (baseball, cricket, rugby, paragliding, water skiing)"
+      ]
+    },
+    {
+      "section": "4. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "5. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "6. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

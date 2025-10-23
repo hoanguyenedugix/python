@@ -1,0 +1,86 @@
+{"lesson": {
+    "id": 30
+  },
+  "lessonOverview": {
+    "title": "Unit 4 - Lesson 7",
+    "topic": "Unit Test & Video",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Unit 4 Project Gallery",
+        "Unit 4 Video"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen and identify key details about two twins and the different jobs they try by choosing correct answers (e.g., circle the correct answer).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Play a segment from the video. Ask: “Who is trying the job?” “What job is it?” Students circle or tick answers in their SB."
+      ],
+      "stretchStrategies": [
+        "Job Skills Match-Up – After watching the video, stronger students match each job to a skill and explain why.",
+        "E.g., Firefighters need to be brave. Teachers need to be kind and smart."
+      ]
+    },
+    {
+      "outcome": "Students can say how animals in the video are similar to or different from animals near their homes.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Ask: “What jobs do people do near your home?” Compare with the jobs in the video using a T-chart."
+      ],
+      "stretchStrategies": [
+        "Job Skills Match-Up – After watching the video, stronger students match each job to a skill and explain why.",
+        "E.g., Firefighters need to be brave. Teachers need to be kind and smart."
+      ]
+    },
+    {
+      "outcome": "Students can discuss what people do in different jobs and name some skills needed for those jobs.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Critical Thinking) Brainstorm: “What skills does a vet need?” “What skills does a firefighter need?” Students match skills to jobs on the board."
+      ],
+      "stretchStrategies": [
+        "Job Skills Match-Up – After watching the video, stronger students match each job to a skill and explain why.",
+        "E.g., Firefighters need to be brave. Teachers need to be kind and smart."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

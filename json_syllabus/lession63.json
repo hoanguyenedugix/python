@@ -1,0 +1,119 @@
+{
+  "lesson": {
+    "id": 63
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 41",
+        "activities": [
+          {
+            "name": "Activity A - Page 41"
+          },
+          {
+            "name": "Activity B - Page 41"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 121-123",
+        "activities": [
+          {
+            "name": "Activity A - Page 121"
+          },
+          {
+            "name": "Activity B - Page 121"
+          },
+          {
+            "name": "Activity A - Page 122"
+          },
+          {
+            "name": "Activity B - Page 122"
+          },
+          {
+            "name": "Activity A - Page 123"
+          },
+          {
+            "name": "Activity B - Page 123"
+          }
+        ]
+      },
+      "homework": "AB 97",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read a short text about an interesting home and find key details such as location and rooms.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read the short text aloud. Ask: “Where is the home?” “What rooms are in it?” Students underline or highlight those words in the SB."
+      ],
+      "stretchStrategies": [
+        "“Compare Two Homes” – True or False Challenge",
+        "After reading, write sentences on the board about the home in the story—some true, some false. Students write T/F and correct any false ones using full grammar:",
+        "“False. There isn’t a kitchen in the treehouse.”"
+      ]
+    },
+    {
+      "outcome": "Students can connect spelling patterns with common sounds.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Choose 4–5 words (e.g., sofa, garage, bed). Students listen and match them to spellings. Use Elkonin boxes to break into sounds if needed."
+      ],
+      "stretchStrategies": [
+        "“Compare Two Homes” – True or False Challenge",
+        "After reading, write sentences on the board about the home in the story—some true, some false. Students write T/F and correct any false ones using full grammar:",
+        "“False. There isn’t a kitchen in the treehouse.”"
+      ]
+    },
+    {
+      "outcome": "Students can describe how other people live and compare it to their own lives.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Ask: “Do all homes look the same?” Show a few types of homes (SB or simple line drawings) and compare with students’ experiences."
+      ],
+      "stretchStrategies": [
+        "“Compare Two Homes” – True or False Challenge",
+        "After reading, write sentences on the board about the home in the story—some true, some false. Students write T/F and correct any false ones using full grammar:",
+        "“False. There isn’t a kitchen in the treehouse.”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. There is vs it is:",
+      "items": [
+        "Often confused – Kindergarteners will tend to prefer 'it is' for everything, even though the Vietnamese is very different for the two structures"
+      ]
+    },
+    {
+      "section": "4. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

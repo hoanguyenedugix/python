@@ -1,0 +1,54 @@
+{
+  "lesson": {
+    "id": 70
+  },
+  "lessonOverview": {
+    "title": "Reader 3",
+    "topic": "Reader 3",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Reader 3 CPT",
+        "Reader 3 worksheets",
+        "Book: The Three Hungry Goats"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can re-read the story aloud, role-play key scenes, and complete a story map to show their understanding of the story’s structure.",
+      "category": "Communication",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can work in pairs to retell the story using creative language and expression, and describe how characters feel at different points.",
+      "category": "Future Skills",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can explain how the goats worked together to overcome a challenge and connect this to examples of teamwork in their own lives.",
+      "category": "SEL",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

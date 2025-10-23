@@ -1,0 +1,118 @@
+{
+  "lesson": {
+    "id": 38
+  },
+  "lessonOverview": {
+    "title": "Unit 5 - Lesson 2",
+    "topic": "Daily Activities",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 3-4",
+        "activities": [
+          {
+            "name": "Activity A - Page 3"
+          },
+          {
+            "name": "Activity B - Page 3"
+          },
+          {
+            "name": "Activity Speaking - Page 4"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 59",
+        "activities": [
+          {
+            "name": "Activity A - Page 59"
+          },
+          {
+            "name": "Activity B - Page 59"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 60",
+      "materials": [
+        "Unit 5 Lesson 2 FCs"
+      ]
+    },
+    "vocabulary": [
+      "get up",
+      "have breakfast",
+      "go to school",
+      "have lunch",
+      "have dinner",
+      "go to bed"
+    ],
+    "structures": [
+      "A: What time do you get up?",
+      "B: I get up at seven thirty.",
+      "A: What time does he/she have breakfast?",
+      "B: He/She has breakfast at eight fifteen."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six daily activities (get up, have breakfast, go to school, have lunch, have dinner, go to bed) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Show daily routine visuals. Say: “Have breakfast.” Students repeat and put flashcards in order of a typical day."
+      ],
+      "stretchStrategies": [
+        "In groups, students interview each other and then write and present a mini-report about one classmate’s daily routine, using third person (e.g., “He gets up at... She goes to bed at...”)"
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about daily activities using “What time do you...?” / “What time does he/she...?” and respond with “I/He/She... at (time).”",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Ask: “What time do you have lunch?” Model: “I have lunch at twelve.” Students ask and answer in pairs using routine visuals + clock prompts."
+      ],
+      "stretchStrategies": [
+        "In groups, students interview each other and then write and present a mini-report about one classmate’s daily routine, using third person (e.g., “He gets up at... She goes to bed at...”)"
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “What time do you ___?” / “What time does he/she ___?” / “I/He/She ___ at ___.” to talk about daily activities.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write sentence frame: “What time does he/she ___?” Students complete and answer with a partner using daily activity flashcards."
+      ],
+      "stretchStrategies": [
+        "In groups, students interview each other and then write and present a mini-report about one classmate’s daily routine, using third person (e.g., “He gets up at... She goes to bed at...”)"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

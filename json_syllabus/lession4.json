@@ -1,0 +1,110 @@
+{
+  "lesson": {
+    "id": 4
+  },
+  "lessonOverview": {
+    "title": "Unit 1 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 7-8",
+        "activities": [
+          {
+            "name": "Activity A - Page 7"
+          },
+          {
+            "name": "Activity B - Page 7"
+          },
+          {
+            "name": "Activity C - Page 8"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 8"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 61",
+        "activities": [
+          {
+            "name": "Activity A - Page 61"
+          },
+          {
+            "name": "Activity B - Page 61"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 62",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters l, r"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters and toys mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before the story, preview toys in the SB. Say: “Listen for skateboard, football…” Students raise hands when they hear the word."
+      ],
+      "stretchStrategies": [
+        "❝Change-the-Story❞ – After acting out the story, ask students to imagine a new toy or location. They say or draw how the story would change (e.g., “He’s got a scooter at the zoo!”)."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Read the story aloud and pause after each sentence. Students echo with gestures. Assign roles for pair acting."
+      ],
+      "stretchStrategies": [
+        "❝Change-the-Story❞ – After acting out the story, ask students to imagine a new toy or location. They say or draw how the story would change (e.g., “He’s got a scooter at the zoo!”)."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or acting it out.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Ask: “What happens after the story?” Students draw or mime a new ending using known characters."
+      ],
+      "stretchStrategies": [
+        "❝Change-the-Story❞ – After acting out the story, ask students to imagine a new toy or location. They say or draw how the story would change (e.g., “He’s got a scooter at the zoo!”)."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric;",
+        "banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Holidays and travel:",
+      "items": [
+        "Certain common holiday activities are less likely to overlap with those of Western kids (eating seafood at the beach, going on tours in large groups)"
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}
