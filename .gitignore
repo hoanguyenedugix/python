@@ -9,8 +9,6 @@
 *.sln
 *.sw?
 .env
-# Local Netlify folder
-.netlify
-**/node_modules
+
 .venv/
 venv/
