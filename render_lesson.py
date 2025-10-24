@@ -3,10 +3,11 @@ import json
 from jinja2 import Environment, FileSystemLoader
 
 # script python render_lesson.py
+# Mục đích: Đọc các file JSON trong thư mục json_syllabus và render thành file HTML sử dụng template Jinja2
 
 # Thư mục
 JSON_DIR = "json_syllabus" # Thư mục chứa file JSON
-OUTPUT_DIR = "syllabus_full_html" # Thư mục xuất file HTML
+OUTPUT_DIR = "output_syllabus_html" # Thư mục xuất file HTML
 TEMPLATE_FILE = "syllabus_with_data_fields.jinja2.html" # File template Jinja2
 
 # Tạo folder output nếu chưa có
