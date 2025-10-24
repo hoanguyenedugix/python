@@ -1,0 +1,101 @@
+<div style="max-width:700px;margin:0 auto;padding:24px;background:#fff;border-radius:12px;
+            box-shadow:0 2px 12px rgba(0,0,0,0.08);font-family:'Segoe UI',Arial,sans-serif;
+            font-size:16px;color:#212121;" data-type="object" data-field="root">
+
+  <h1 style="color:#2c3e50;margin-bottom:20px;">Apollo Kindergarten Lesson Plan</h1>
+
+  <!-- LESSON PLAN ARRAY -->
+  <div style="margin-bottom:30px;" data-type="array" data-field="lessonPlan">
+
+    {% for lesson in lessonPlan %}
+    <div data-type="object" data-item="true"
+      style="margin-bottom:30px;padding:16px;border:1px solid #eee;border-radius:8px;background:#fafafa;">
+
+      <!-- Topic -->
+      <div style="margin-bottom:8px;" data-type="string" data-field="topic">
+        {{ lesson.topic }}
+      </div>
+
+      <!-- Timing -->
+      <div style="margin-bottom:8px;" data-type="number" data-field="timing">
+        {{ lesson.timing }}
+      </div>
+
+      <!-- ResourceId (hidden but preserved) -->
+      <div style="display:none;" data-type="number" data-field="resourceId">
+        {{ lesson.resourceId }}
+      </div>
+
+      <!-- DATA ARRAY -->
+      <div data-type="array" data-field="data">
+        {% for block in lesson.data %}
+        <div data-type="object" data-item="true"
+          style="margin-top:12px;padding:12px;border:1px solid #eee;border-radius:8px;background:#fff;">
+
+          <!-- Title -->
+          <div style="margin-bottom:6px;" data-type="string" data-field="title">
+            {{ block.title }}
+          </div>
+
+          <!-- Summary -->
+          <div style="margin-bottom:6px;" data-type="string" data-field="summary" {% if block.summary is none
+            %}data-null="true" {% endif %}>
+            {% if block.summary is not none %}
+            {{ block.summary }}
+            {% endif %}
+          </div>
+
+          <!-- Highlights -->
+          <div style="margin-bottom:6px;" data-type="array" data-field="highlights">
+            {% for h in block.highlights %}
+            <li data-type="string" data-item="true">{{ h }}</li>
+            {% endfor %}
+          </div>
+
+          <!-- Contents -->
+          <div style="margin-top:10px;" data-type="array" data-field="contents">
+            {% for section in block.contents %}
+            <div data-type="object" data-item="true" style="margin-left:10px;margin-bottom:12px;padding:10px;border:1px solid #eee;
+                        border-radius:6px;background:#fafafa;">
+
+              <!-- Section -->
+              <div style="margin-bottom:6px;" data-type="string" data-field="section">
+                {{ section.section }}
+              </div>
+
+              <!-- Items -->
+              <div data-type="array" data-field="items">
+                {% for item in section["items"] %}
+                <div data-type="object" data-item="true" style="margin-left:10px;margin-bottom:10px;padding:10px;border:1px solid #ddd;
+                            border-radius:6px;background:#f9f9f9;">
+
+                  <!-- Category -->
+                  <div data-type="string" data-field="category" {% if item.category is none %}data-null="true" {% endif
+                    %}>
+                    {% if item.category is not none %}
+                    {{ item.category }}
+                    {% endif %}
+                  </div>
+
+                  <!-- Details -->
+                  <ul data-type="array" data-field="details" style="margin-left:20px;list-style:disc;">
+                    {% for d in item["details"] %}
+                    <li data-type="string" data-item="true">{{ d }}</li>
+                    {% endfor %}
+                  </ul>
+
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+
+        </div>
+        {% endfor %}
+      </div>
+
+    </div>
+    {% endfor %}
+  </div>
+</div>
