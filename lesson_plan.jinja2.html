@@ -2,7 +2,7 @@
             box-shadow:0 2px 12px rgba(0,0,0,0.08);font-family:'Segoe UI',Arial,sans-serif;
             font-size:16px;color:#212121;" data-type="object" data-field="root">
 
-  <h1 style="color:#2c3e50;margin-bottom:20px;">Apollo Kindergarten Lesson Plan</h1>
+  <h1 style="color:#2c3e50;margin-bottom:20px;">Apollo Lesson Plan</h1>
 
   <!-- LESSON PLAN ARRAY -->
   <div style="margin-bottom:30px;" data-type="array" data-field="lessonPlan">
@@ -22,9 +22,14 @@
       </div>
 
       <!-- ResourceId (hidden but preserved) -->
-      <div style="display:none;" data-type="number" data-field="resourceId">
+      <div style="display:none;" data-type="{% if lesson.resourceId is none %}null{% else %}number{% endif %}"
+        data-field="resourceId" {% if lesson.resourceId is none %}data-null="true" {% endif %}>
+        {% if lesson.resourceId is not none %}
         {{ lesson.resourceId }}
+        {% endif %}
       </div>
+
+
 
       <!-- DATA ARRAY -->
       <div data-type="array" data-field="data">
@@ -38,7 +43,7 @@
           </div>
 
           <!-- Summary -->
-          <div style="margin-bottom:6px;" data-type="string" data-field="summary" {% if block.summary is none
+          <div style="margin-bottom:6px;" data-type="{% if block.summary is none %}null{% else %}string{% endif %}" data-field="summary" {% if block.summary is none
             %}data-null="true" {% endif %}>
             {% if block.summary is not none %}
             {{ block.summary }}
@@ -59,8 +64,11 @@
                         border-radius:6px;background:#fafafa;">
 
               <!-- Section -->
-              <div style="margin-bottom:6px;" data-type="string" data-field="section">
+              <div style="margin-bottom:6px;" data-type="{% if section.section is none %}null{% else %}string{% endif %}" data-field="section" {% if section.section is none
+                %}data-null="true" {% endif%}>
+                {% if section.section is not none %}
                 {{ section.section }}
+                {% endif %}
               </div>
 
               <!-- Items -->
@@ -70,7 +78,7 @@
                             border-radius:6px;background:#f9f9f9;">
 
                   <!-- Category -->
-                  <div data-type="string" data-field="category" {% if item.category is none %}data-null="true" {% endif
+                  <div data-type="{% if item.category is none %}null{% else %}string{% endif %}" data-field="category" {% if item.category is none %}data-null="true" {% endif
                     %}>
                     {% if item.category is not none %}
                     {{ item.category }}
