@@ -66,7 +66,7 @@
       </div>
 
       <!-- Homework -->
-      <div style="margin-bottom:12px;" data-type="string" data-field="homework" {% if lessonOverview.resources.homework
+      <div style="margin-bottom:12px;" data-type="{% if lessonOverview.resources.homework is none %}null{% else %}string{% endif %}" data-field="homework" {% if lessonOverview.resources.homework
         is none %}data-null="true" {% endif %}>
         {% if lessonOverview.resources.homework is not none %}
         {{ lessonOverview.resources.homework }}

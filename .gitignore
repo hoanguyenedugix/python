@@ -10,5 +10,6 @@
 *.sw?
 .env
 
-.venv/
 venv/
+html_lesson_plan/
+html_syllabus/
