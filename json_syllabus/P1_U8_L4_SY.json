@@ -1,0 +1,94 @@
+{
+  "lesson": {
+    "id": 62
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 39-40",
+        "activities": [
+          {
+            "name": "Activity A - Page 39"
+          },
+          {
+            "name": "Activity B - Page 39"
+          },
+          {
+            "name": "Activity Speaking - Page 40"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 93",
+        "activities": [
+          {
+            "name": "Activity A - Page 93"
+          },
+          {
+            "name": "Activity B - Page 93"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 94",
+      "materials": [
+        "Drawing paper"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can write sentences (e.g., “She’s got long fingers too.”) clearly and accurately in the correct space.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Write: “She’s got long fingers too.” Say each word clearly. Students copy sentence onto lines, checking word order."
+      ],
+      "stretchStrategies": [
+        "❝Partner Body Draw & Swap❞ – Students draw their partner and write 2–3 descriptive sentences under it (e.g., “She’s got long legs. She’s got short arms.”). Then they swap and check if the description matches."
+      ]
+    },
+    {
+      "outcome": "Students can listen to spoken descriptions and select the correct person or body part.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say: “She’s got short hair.” “He’s got a long nose.” Students point to the matching person in the SB or on the board."
+      ],
+      "stretchStrategies": [
+        "❝Partner Body Draw & Swap❞ – Students draw their partner and write 2–3 descriptive sentences under it (e.g., “She’s got long legs. She’s got short arms.”). Then they swap and check if the description matches."
+      ]
+    },
+    {
+      "outcome": "Students can work together politely and take turns in a collaborative creative activity and presentation.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creative Teamwork) Groups draw a new character with body part features. They present it using “He’s got...” or “She’s got...” sentences."
+      ],
+      "stretchStrategies": [
+        "❝Partner Body Draw & Swap❞ – Students draw their partner and write 2–3 descriptive sentences under it (e.g., “She’s got long legs. She’s got short arms.”). Then they swap and check if the description matches."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Adjective-noun ordering:",
+      "items": [
+        "tóc dài >> hair long [long hair]"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

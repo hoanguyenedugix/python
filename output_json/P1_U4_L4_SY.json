@@ -1,0 +1,111 @@
+{
+  "lesson": {
+    "id": 27
+  },
+  "lessonOverview": {
+    "title": "Unit 4 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 41-42",
+        "activities": [
+          {
+            "name": "Activity A - Page 41"
+          },
+          {
+            "name": "Activity B - Page 41"
+          },
+          {
+            "name": "Activity Speaking - Page 42"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 93",
+        "activities": [
+          {
+            "name": "Activity A - Page 93"
+          },
+          {
+            "name": "Activity B - Page 93"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 94",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can trace and write vocabulary words (friend, park, play) clearly and accurately.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Write “friend,” “park,” and “play” on the board. Students say the word, trace in air, then copy on paper."
+      ],
+      "stretchStrategies": [
+        "“Who Likes What?” Challenge: Write each student’s name on the board. In pairs, students ask each other about animal preferences and report back to the class: “Linh likes cats, but she doesn’t like frogs.” Bonus: students write one sentence about a friend using “and” or “but.”"
+      ]
+    },
+    {
+      "outcome": "Students can listen to spoken descriptions and choose the correct animals.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say: “It’s big. It has a long nose.” Students guess and point to the animal in the SB."
+      ],
+      "stretchStrategies": [
+        "“Who Likes What?” Challenge: Write each student’s name on the board. In pairs, students ask each other about animal preferences and report back to the class: “Linh likes cats, but she doesn’t like frogs.” Bonus: students write one sentence about a friend using “and” or “but.”"
+      ]
+    },
+    {
+      "outcome": "Students can work together to discuss and mark which animals they and their friends like.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Collaboration) Students interview 2 friends: “Do you like ___?” and mark a ✔ or ✖. Then share results."
+      ],
+      "stretchStrategies": [
+        "“Who Likes What?” Challenge: Write each student’s name on the board. In pairs, students ask each other about animal preferences and report back to the class: “Linh likes cats, but she doesn’t like frogs.” Bonus: students write one sentence about a friend using “and” or “but.”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    },
+    {
+      "section": "4. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "5. Question formation with do-support:",
+      "items": [
+        "Bạn có thích ăn bánh mì không? >> you like eat bread? [do you like to eat bánh mì?]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

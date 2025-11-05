@@ -1,0 +1,136 @@
+{
+  "lesson": {
+    "id": 21
+  },
+  "lessonOverview": {
+    "title": "Unit 3 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 33",
+        "activities": [
+          {
+            "name": "Activity A - Page 33"
+          },
+          {
+            "name": "Activity B - Page 33"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 115-117",
+        "activities": [
+          {
+            "name": "Activity A - Page 115"
+          },
+          {
+            "name": "Activity B - Page 115"
+          },
+          {
+            "name": "Activity A - Page 116"
+          },
+          {
+            "name": "Activity B - Page 116"
+          },
+          {
+            "name": "Activity A - Page 117"
+          },
+          {
+            "name": "Activity B - Page 117"
+          }
+        ]
+      },
+      "homework": "AB 85",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "e",
+      "d",
+      "k",
+      "m"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read a short text about a painting and find key details such as fruits.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read the text aloud. Ask: “What fruits do you see?” Students underline or circle them in their books."
+      ],
+      "stretchStrategies": [
+        "“Spot the Fruit” Reading Race – Show a short paragraph or SB page with embedded fruit/veg vocabulary. Students race to underline or call out the fruit words and then summarize what they learned:",
+        "“There are apples and bananas in the painting. I like bananas best.”",
+        "Push higher-level learners to form complete, descriptive sentences."
+      ]
+    },
+    {
+      "outcome": "Students can trace and write the letters e, d, k, m to form simple words.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say and trace the letters e, d, k, m on the board. Students repeat the sounds and practise writing them in their notebooks."
+      ],
+      "stretchStrategies": [
+        "“Spot the Fruit” Reading Race – Show a short paragraph or SB page with embedded fruit/veg vocabulary. Students race to underline or call out the fruit words and then summarize what they learned:",
+        "“There are apples and bananas in the painting. I like bananas best.”",
+        "Push higher-level learners to form complete, descriptive sentences."
+      ]
+    },
+    {
+      "outcome": "Students can describe one object they see in a painting and say if they like it or not.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Art) Show the painting in the SB. Ask: “What do you see?” “What colours?” “What fruits?” Students respond using words or short phrases."
+      ],
+      "stretchStrategies": [
+        "“Spot the Fruit” Reading Race – Show a short paragraph or SB page with embedded fruit/veg vocabulary. Students race to underline or call out the fruit words and then summarize what they learned:",
+        "“There are apples and bananas in the painting. I like bananas best.”",
+        "Push higher-level learners to form complete, descriptive sentences."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    },
+    {
+      "section": "5. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "6. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric; banh mi >> bread"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

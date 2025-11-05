@@ -1,0 +1,124 @@
+{
+  "lesson": {
+    "id": 19
+  },
+  "lessonOverview": {
+    "title": "Unit 3 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 29-30",
+        "activities": [
+          {
+            "name": "Activity A - Page 29"
+          },
+          {
+            "name": "Activity B - Page 29"
+          },
+          {
+            "name": "Activity C - Page 30"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 30"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 81",
+        "activities": [
+          {
+            "name": "Activity A - Page 81"
+          },
+          {
+            "name": "Activity B - Page 81"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 82",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: c, g"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters and the fruits and vegetables mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before the story, preview pictures. Say: “Listen for orange, carrot, banana.” Students raise hand when they hear them."
+      ],
+      "stretchStrategies": [
+        "“Story Mash-Up” – Pause before the story ends and ask high-level students:",
+        "“What do you think happens next?” Let them act it out in small groups using target fruit/veg language. Encourage them to add one new twist or problem in their ending."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Assign roles from the story. Students act out each part while echoing short sentences with you."
+      ],
+      "stretchStrategies": [
+        "“Story Mash-Up” – Pause before the story ends and ask high-level students:",
+        "“What do you think happens next?” Let them act it out in small groups using target fruit/veg language. Encourage them to add one new twist or problem in their ending."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or acting it out.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Show last story picture. Ask: “What could happen next?” Students draw or act out their ideas."
+      ],
+      "stretchStrategies": [
+        "“Story Mash-Up” – Pause before the story ends and ask high-level students:",
+        "“What do you think happens next?” Let them act it out in small groups using target fruit/veg language. Encourage them to add one new twist or problem in their ending."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    },
+    {
+      "section": "5. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "6. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric; banh mi >> bread"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

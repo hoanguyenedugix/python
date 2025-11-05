@@ -1,0 +1,118 @@
+{
+  "lesson": {
+    "id": 57
+  },
+  "lessonOverview": {
+    "title": "Unit 7 - Lesson 6",
+    "topic": "Grammar & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 32",
+        "activities": [
+          {
+            "name": "Activity A - Page 32"
+          },
+          {
+            "name": "Activity B - Page 32"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 116-118",
+        "activities": [
+          {
+            "name": "Activity A - Page 116"
+          },
+          {
+            "name": "Activity B - Page 116"
+          },
+          {
+            "name": "Activity A - Page 117"
+          },
+          {
+            "name": "Activity B - Page 117"
+          },
+          {
+            "name": "Activity C - Page 118"
+          },
+          {
+            "name": "Activity D - Page 118"
+          }
+        ]
+      },
+      "homework": "AB 86",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "b",
+      "f",
+      "y",
+      "z"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can correctly use “can” and “can’t” to describe ability.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write two sentence types on board: “I can ___.” and “I can’t ___.” Students practise with verbs from previous lessons."
+      ],
+      "stretchStrategies": [
+        "Can–Can’t Corners: Label four corners of the room: Can swim, Can’t swim, Can cook, Can’t cook. You say: “She can’t swim.” Students run to the correct corner and shout it back: “She can’t swim!” Then they say a new one together."
+      ]
+    },
+    {
+      "outcome": "Students can recognise and identify the initial sounds (x, y, w).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say and write the letters x, y, w. Students echo and identify one word from SB that starts with each."
+      ],
+      "stretchStrategies": [
+        "Can–Can’t Corners: Label four corners of the room: Can swim, Can’t swim, Can cook, Can’t cook. You say: “She can’t swim.” Students run to the correct corner and shout it back: “She can’t swim!” Then they say a new one together."
+      ]
+    },
+    {
+      "outcome": "Students can complete short sentence frames (e.g., “I can ride a bike.” / “He can’t cook.”) using “can” or “can’t”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Show frame: “He ___ wink.” Students circle “can/can’t” and complete full sentence using an action word."
+      ],
+      "stretchStrategies": [
+        "Can–Can’t Corners: Label four corners of the room: Can swim, Can’t swim, Can cook, Can’t cook. You say: “She can’t swim.” Students run to the correct corner and shout it back: “She can’t swim!” Then they say a new one together."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    },
+    {
+      "section": "2. Silent letters:",
+      "items": [
+        "Systematic kinds of silent letters, such as 'magic e' in late or mote, or silent gh in thought and bought, are entirely alien to Vietnamese. They are often acquired as sight words first; the teacher can explain at higher levels."
+      ]
+    },
+    {
+      "section": "3. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "4. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

@@ -1,0 +1,78 @@
+{
+  "lesson": {
+    "id": 65
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 7",
+    "topic": "Unit Test & Video",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Unit 8 Project Gallery",
+        "Unit 8 Video"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen and identify key details about Zion and his brother by choosing correct answers (e.g., True or False).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Play the video in short sections. Ask: “Is this True or False?” Students tick or cross statements on the board or in their SB."
+      ],
+      "stretchStrategies": [
+        "❝Same or Different?❞ – After watching the video, ask students to draw themselves with one thing that’s the same and one that’s different from the character (e.g., “Zion has short legs. I’ve got long legs.”) and then share with a partner or the class."
+      ]
+    },
+    {
+      "outcome": "Students can say how their lives or families are similar to or different from the characters in the video.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Ask: “Who is Zion?” “How is his life different from yours?” Students point to or describe examples from the SB."
+      ],
+      "stretchStrategies": [
+        "❝Same or Different?❞ – After watching the video, ask students to draw themselves with one thing that’s the same and one that’s different from the character (e.g., “Zion has short legs. I’ve got long legs.”) and then share with a partner or the class."
+      ]
+    },
+    {
+      "outcome": "Students can talk about how to stay safe while doing different activities and share their ideas with classmates.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Safety Thinking) Ask: “What is dangerous in this video?” Students share how to stay safe in different activities using images for support."
+      ],
+      "stretchStrategies": [
+        "❝Same or Different?❞ – After watching the video, ask students to draw themselves with one thing that’s the same and one that’s different from the character (e.g., “Zion has short legs. I’ve got long legs.”) and then share with a partner or the class."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Adjective-noun ordering:",
+      "items": [
+        "tóc dài >> hair long [long hair]"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

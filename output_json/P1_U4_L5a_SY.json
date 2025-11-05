@@ -1,0 +1,125 @@
+{
+  "lesson": {
+    "id": 28
+  },
+  "lessonOverview": {
+    "title": "Unit 4 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 43",
+        "activities": [
+          {
+            "name": "Activity A - Page 43"
+          },
+          {
+            "name": "Activity B - Page 43"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 121-123",
+        "activities": [
+          {
+            "name": "Activity A - Page 121"
+          },
+          {
+            "name": "Activity B - Page 121"
+          },
+          {
+            "name": "Activity A - Page 122"
+          },
+          {
+            "name": "Activity B - Page 122"
+          },
+          {
+            "name": "Activity A - Page 123"
+          },
+          {
+            "name": "Activity B - Page 123"
+          }
+        ]
+      },
+      "homework": "AB 95",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "r",
+      "g",
+      "l",
+      "o"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read a short text about animals (squirrels and elephants) and find key details about people’s likes and what they do with animals.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read the text aloud. Stop after each sentence and ask: “Who likes squirrels?” “What animal is in the park?” Students underline it."
+      ],
+      "stretchStrategies": [
+        "Secret Word Builders: Write the letters r, g, l, o on the board. Students work in pairs to create and write as many real animal-related or nature-related words as possible using those letters (e.g. log, frog, gorilla). For stretch, ask them to use one word in a sentence."
+      ]
+    },
+    {
+      "outcome": "Students can trace and write the letters r, g, l, o to form simple words.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Write r, g, l, o on the board. Say: “/r/ – rabbit.” Students repeat and write the letter in notebooks."
+      ],
+      "stretchStrategies": [
+        "Secret Word Builders: Write the letters r, g, l, o on the board. Students work in pairs to create and write as many real animal-related or nature-related words as possible using those letters (e.g. log, frog, gorilla). For stretch, ask them to use one word in a sentence."
+      ]
+    },
+    {
+      "outcome": "Students can say one fact about squirrels in Canada and one fact about elephants in India.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Point to the map/photo of Canada or India. Ask: “What animals live here?” Use the SB to support responses."
+      ],
+      "stretchStrategies": [
+        "Secret Word Builders: Write the letters r, g, l, o on the board. Students work in pairs to create and write as many real animal-related or nature-related words as possible using those letters (e.g. log, frog, gorilla). For stretch, ask them to use one word in a sentence."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    },
+    {
+      "section": "4. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "5. Question formation with do-support:",
+      "items": [
+        "Bạn có thích ăn bánh mì không? >> you like eat bread? [do you like to eat bánh mì?]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

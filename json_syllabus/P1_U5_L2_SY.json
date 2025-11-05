@@ -1,0 +1,110 @@
+{
+  "lesson": {
+    "id": 38
+  },
+  "lessonOverview": {
+    "title": "Unit 5 - Lesson 2",
+    "topic": "Things",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 3-4",
+        "activities": [
+          {
+            "name": "Activity A - Page 3"
+          },
+          {
+            "name": "Activity B - Page 3"
+          },
+          {
+            "name": "Activity Speaking - Page 4"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 57",
+        "activities": [
+          {
+            "name": "Activity A - Page 57"
+          },
+          {
+            "name": "Activity B - Page 57"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 58",
+      "materials": [
+        "Unit 5 Lesson 2 FCs"
+      ]
+    },
+    "vocabulary": [
+      "camera",
+      "bag",
+      "umbrella",
+      "skipping rope",
+      "puzzle",
+      "picture"
+    ],
+    "structures": [
+      "A: Is it a new camera? / Is it an old bag?",
+      "B: Yes, it is. / No, it isn’t."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six personal items (camera, bag, umbrella, skipping rope, puzzle, picture) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Show flashcards of personal items. Say: “This is a skipping rope.” Students repeat and then identify in the SB."
+      ],
+      "stretchStrategies": [
+        "Mystery Bag Game (No bag needed) – Say: “I’m thinking of something. It’s small and new. Is it a puzzle?” Students ask Yes/No questions using the target structure (“Is it a big picture?”, “Is it a new skipping rope?”). Once they guess correctly, they take over as the clue-giver. Use flashcards or drawn pictures if needed for support."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about personal items using \"Is it a (adjective) (item)?\" and respond with \"Yes, it is.\" / \"No, it isn't.\"",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Ask: “Is it a red umbrella?” Show a picture. Students answer: “Yes, it is.” or “No, it isn’t.” Practise with 3–4 items."
+      ],
+      "stretchStrategies": [
+        "Mystery Bag Game (No bag needed) – Say: “I’m thinking of something. It’s small and new. Is it a puzzle?” Students ask Yes/No questions using the target structure (“Is it a big picture?”, “Is it a new skipping rope?”). Once they guess correctly, they take over as the clue-giver. Use flashcards or drawn pictures if needed for support."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer questions using the target structure “Is it a ___?” / “Yes, it is.\" / \"No, it isn't.” to talk about personal items.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write question & answer on board: “Is it a ___ ___?” – “Yes, it is.” Drill in pairs with picture cards or SB images."
+      ],
+      "stretchStrategies": [
+        "Mystery Bag Game (No bag needed) – Say: “I’m thinking of something. It’s small and new. Is it a puzzle?” Students ask Yes/No questions using the target structure (“Is it a big picture?”, “Is it a new skipping rope?”). Once they guess correctly, they take over as the clue-giver. Use flashcards or drawn pictures if needed for support."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Adjective-noun ordering:",
+      "items": [
+        "tóc dài >> hair long [long hair]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

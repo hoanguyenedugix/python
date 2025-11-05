@@ -1,0 +1,105 @@
+{
+  "lesson": {
+    "id": 14
+  },
+  "lessonOverview": {
+    "title": "Unit 2 - Lesson 6",
+    "topic": "Grammar & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 22",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 112-114",
+        "activities": [
+          {
+            "name": "Activity A - Page 112"
+          },
+          {
+            "name": "Activity B - Page 112"
+          },
+          {
+            "name": "Activity A - Page 113"
+          },
+          {
+            "name": "Activity B - Page 113"
+          },
+          {
+            "name": "Activity C - Page 114"
+          },
+          {
+            "name": "Activity D - Page 114"
+          }
+        ]
+      },
+      "homework": "AB 74",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "i",
+      "n",
+      "s",
+      "h"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can ask about objects that are near and far away using \"What's this?\" and \"What's that?\" .",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Hold two real objects, one near and one far. Ask: “What’s this?” / “What’s that?” Students repeat and practise in pairs."
+      ],
+      "stretchStrategies": [
+        "Use a “Near and Far Show & Tell.” Give a flashcard or object to a student and whisper: “This!” or “That!” They must walk near or stay far and say, “It’s a ___.” Challenge with silly voices or double objects: “That’s a bag and this is a pen!"
+      ]
+    },
+    {
+      "outcome": "Students can recognise and identify the initial sounds (s, h, n). ",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say the sounds /s/, /n/, /h/ aloud. Write them on the board. Students find and circle matching letters in the SB."
+      ],
+      "stretchStrategies": [
+        "Use a “Near and Far Show & Tell.” Give a flashcard or object to a student and whisper: “This!” or “That!” They must walk near or stay far and say, “It’s a ___.” Challenge with silly voices or double objects: “That’s a bag and this is a pen!"
+      ]
+    },
+    {
+      "outcome": "Students can complete short sentence frames (e.g., What's _____? It’s a ____.) using \"this\" and \"that\" and target nouns.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Write: “What’s this? It’s a ___.” on the board. Students complete the sentence using classroom objects from the book."
+      ],
+      "stretchStrategies": [
+        "Use a “Near and Far Show & Tell.” Give a flashcard or object to a student and whisper: “This!” or “That!” They must walk near or stay far and say, “It’s a ___.” Challenge with silly voices or double objects: “That’s a bag and this is a pen!"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

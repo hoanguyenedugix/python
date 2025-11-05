@@ -163,8 +163,8 @@
     </div>
     {% endfor %}
   </div>
-  <!-- Lession Plan Template End -->
-  <div style="margin-top:30px;" data-type="string" data-field="lessonPlan" {% if lessonPlan is none %}data-null="true"
+  <!-- Lession Plan End -->
+  <div style="margin-top:30px;" data-type="{% if lessonPlan is none %}null{% else %}string{% endif %}" data-field="lessonPlan" {% if lessonPlan is none %}data-null="true"
     {% endif %}>
     {% if lessonPlan is not none %}
     {{ lessonPlan }}

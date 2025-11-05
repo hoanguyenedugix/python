@@ -1,0 +1,97 @@
+{
+  "lesson": {
+    "id": 30
+  },
+  "lessonOverview": {
+    "title": "Unit 4 - Lesson 7",
+    "topic": "Unit Test & Video",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Unit 4 Project Gallery",
+        "Unit 4 Video"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen and identify key details about Dan and his interesting home by choosing correct answers (e.g., ticking boxes).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Play short video segments. Ask: “What animals did you hear?” Students tick the correct image or word in SB."
+      ],
+      "stretchStrategies": [
+        "Animal Fact Share: After the video, ask students to write or draw one animal fact they learned. Then, in small groups, each student shares their fact and says why it’s interesting or how it compares to animals in Vietnam. Scaffold with: “I learned…”, “It’s interesting because…”, “In Vietnam, we have…”"
+      ]
+    },
+    {
+      "outcome": "Students can recognise the animals in the video and say how they are the same or different from animals near their home.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Ask: “Which animals are near your home?” Show images of Dan’s home and compare together."
+      ],
+      "stretchStrategies": [
+        "Animal Fact Share: After the video, ask students to write or draw one animal fact they learned. Then, in small groups, each student shares their fact and says why it’s interesting or how it compares to animals in Vietnam. Scaffold with: “I learned…”, “It’s interesting because…”, “In Vietnam, we have…”"
+      ]
+    },
+    {
+      "outcome": "Students can share something they learned about the animals in the video and say why it’s important to learn from documentaries.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Critical Thinking) Ask: “Why do people make documentaries?” List answers (e.g. learn, protect animals). Students match ideas to the video."
+      ],
+      "stretchStrategies": [
+        "Animal Fact Share: After the video, ask students to write or draw one animal fact they learned. Then, in small groups, each student shares their fact and says why it’s interesting or how it compares to animals in Vietnam. Scaffold with: “I learned…”, “It’s interesting because…”, “In Vietnam, we have…”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    },
+    {
+      "section": "4. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "5. Question formation with do-support:",
+      "items": [
+        "Bạn có thích ăn bánh mì không? >> you like eat bread? [do you like to eat bánh mì?]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

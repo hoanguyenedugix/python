@@ -1,0 +1,118 @@
+{
+  "lesson": {
+    "id": 56
+  },
+  "lessonOverview": {
+    "title": "Unit 7 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 31",
+        "activities": [
+          {
+            "name": "Activity A - Page 31"
+          },
+          {
+            "name": "Activity B - Page 31"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 113-115",
+        "activities": [
+          {
+            "name": "Activity A - Page 113"
+          },
+          {
+            "name": "Activity B - Page 113"
+          },
+          {
+            "name": "Activity A - Page 114"
+          },
+          {
+            "name": "Activity B - Page 114"
+          },
+          {
+            "name": "Activity A - Page 115"
+          },
+          {
+            "name": "Activity B - Page 115"
+          }
+        ]
+      },
+      "homework": "AB 85",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "b",
+      "f",
+      "y",
+      "z"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read a short text about a girl’s dream and find key details such as actions and ability.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read the text aloud. Ask: “What can the girl do?” Students underline or point to abilities in the SB text."
+      ],
+      "stretchStrategies": [
+        "Super Sound Chain: Choose one phonics letter (e.g., b). The first student says a word: “bike”. The next must say a new word that starts with the same letter: “ball”, and so on. To stretch, have them spell the word out loud or use it in a full sentence."
+      ]
+    },
+    {
+      "outcome": "Students can trace and write the letters b, y, z to form simple words.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Write and say /b/, /y/, /z/. Students repeat. Then trace and write those letters in their notebooks or on mini whiteboards."
+      ],
+      "stretchStrategies": [
+        "Super Sound Chain: Choose one phonics letter (e.g., b). The first student says a word: “bike”. The next must say a new word that starts with the same letter: “ball”, and so on. To stretch, have them spell the word out loud or use it in a full sentence."
+      ]
+    },
+    {
+      "outcome": "Students can say what different superheroes can do and talk about dreams people have.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Show pictures of superheroes or dream jobs. Ask: “What can they do?” Students match or mime based on the SB content."
+      ],
+      "stretchStrategies": [
+        "Super Sound Chain: Choose one phonics letter (e.g., b). The first student says a word: “bike”. The next must say a new word that starts with the same letter: “ball”, and so on. To stretch, have them spell the word out loud or use it in a full sentence."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    },
+    {
+      "section": "2. Silent letters:",
+      "items": [
+        "Systematic kinds of silent letters, such as 'magic e' in late or mote, or silent gh in thought and bought, are entirely alien to Vietnamese. They are often acquired as sight words first; the teacher can explain at higher levels."
+      ]
+    },
+    {
+      "section": "3. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "4. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

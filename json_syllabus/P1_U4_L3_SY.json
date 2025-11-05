@@ -1,0 +1,116 @@
+{
+  "lesson": {
+    "id": 26
+  },
+  "lessonOverview": {
+    "title": "Unit 4 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 39-40",
+        "activities": [
+          {
+            "name": "Activity A - Page 39"
+          },
+          {
+            "name": "Activity B - Page 39"
+          },
+          {
+            "name": "Activity C - Page 40"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 40"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 91",
+        "activities": [
+          {
+            "name": "Activity A - Page 91"
+          },
+          {
+            "name": "Activity B - Page 91"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 92",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: d, t"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters and animals mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say: “Listen for these animals: bear, lion, frog.” Play story audio. Students raise hands or tap the table when they hear one."
+      ],
+      "stretchStrategies": [
+        "Story Switch Up: After reading the story, choose 2–3 animals from Unit 4. In pairs or small groups, students change the story by replacing the original animals with new ones and acting out a new version. Encourage them to adjust what happens based on animal type (e.g. the lion is loud, the frog jumps)."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Read the story aloud, assigning roles to students. Pause often for them to echo their lines with gestures."
+      ],
+      "stretchStrategies": [
+        "Story Switch Up: After reading the story, choose 2–3 animals from Unit 4. In pairs or small groups, students change the story by replacing the original animals with new ones and acting out a new version. Encourage them to adjust what happens based on animal type (e.g. the lion is loud, the frog jumps)."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or acting it out.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Show the final story scene. Ask: “What happens next?” Students act out or draw a new ending in pairs."
+      ],
+      "stretchStrategies": [
+        "Story Switch Up: After reading the story, choose 2–3 animals from Unit 4. In pairs or small groups, students change the story by replacing the original animals with new ones and acting out a new version. Encourage them to adjust what happens based on animal type (e.g. the lion is loud, the frog jumps)."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    },
+    {
+      "section": "4. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "5. Question formation with do-support:",
+      "items": [
+        "Bạn có thích ăn bánh mì không? >> you like eat bread? [do you like to eat bánh mì?]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

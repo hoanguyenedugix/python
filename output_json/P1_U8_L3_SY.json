@@ -1,0 +1,100 @@
+{
+  "lesson": {
+    "id": 61
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 37-38",
+        "activities": [
+          {
+            "name": "Activity A - Page 37"
+          },
+          {
+            "name": "Activity B - Page 37"
+          },
+          {
+            "name": "Activity C - Page 38"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 38"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 91",
+        "activities": [
+          {
+            "name": "Activity A - Page 91"
+          },
+          {
+            "name": "Activity B - Page 91"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 92",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: i"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters and body parts mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before story, say: “Listen for mouth, neck, legs.” As they hear them, students touch or circle the body part in the SB."
+      ],
+      "stretchStrategies": [
+        "❝Add-a-Line❞ – After reading and acting the story, challenge students to extend it by suggesting one more sentence each using a familiar body part. They can act out the new part too.",
+        "e.g., “Then the cat jumped up!” → “He’s got strong legs!”"
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Read story aloud. Assign roles and repeat key lines chorally. Students act out while saying their lines."
+      ],
+      "stretchStrategies": [
+        "❝Add-a-Line❞ – After reading and acting the story, challenge students to extend it by suggesting one more sentence each using a familiar body part. They can act out the new part too.",
+        "e.g., “Then the cat jumped up!” → “He’s got strong legs!”"
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or acting it out.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Show last story picture. Ask: “What could happen next?” Students act, draw, or describe a creative ending."
+      ],
+      "stretchStrategies": [
+        "❝Add-a-Line❞ – After reading and acting the story, challenge students to extend it by suggesting one more sentence each using a familiar body part. They can act out the new part too.",
+        "e.g., “Then the cat jumped up!” → “He’s got strong legs!”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Adjective-noun ordering:",
+      "items": [
+        "tóc dài >> hair long [long hair]"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

@@ -1,0 +1,137 @@
+{
+  "lesson": {
+    "id": 17
+  },
+  "lessonOverview": {
+    "title": "Unit 3 - Lesson 1",
+    "topic": "Fruit and Vegetables ",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 25-26",
+        "activities": [
+          {
+            "name": "Activity A - Page 25"
+          },
+          {
+            "name": "Activity B - Page 25"
+          },
+          {
+            "name": "Activity C - Page 26"
+          },
+          {
+            "name": "Activity D - Page 26"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 77",
+        "activities": [
+          {
+            "name": "Activity A - Page 77"
+          },
+          {
+            "name": "Activity B - Page 77"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 78",
+      "materials": [
+        "Unit 3 Lesson 1 FCs"
+      ]
+    },
+    "vocabulary": [
+      "apple",
+      "orange",
+      "banana",
+      "carrot",
+      "onion",
+      "potato"
+    ],
+    "structures": [
+      "A: Is it a carrot? / Is it an apple?",
+      "B: Yes, it is. / No, it isn’t."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six fruits and vegetables (apple, orange, banana, carrot, onion, potato) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Show fruit and vegetable flashcards. Say each one and have students repeat. Then ask: “Which one is the carrot?”"
+      ],
+      "stretchStrategies": [
+        "“Mystery Drawing” – After practicing the target structure with flashcards, draw part of a fruit or vegetable on the board (e.g., just the top of a carrot). Have students guess using full questions:",
+        "“Is it a carrot?” → “No, it isn’t.” / “Yes, it is.”",
+        "Gradually increase difficulty by drawing more obscure angles or leaving out color cues."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about fruits and vegetables using \"Is it a/an...?\" and respond with \"Yes, it is.\" / \"No, it isn't.\"",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Hold up a picture of a banana. Ask: “Is it a banana?” Students answer “Yes, it is” or “No, it isn’t.” Drill with several items."
+      ],
+      "stretchStrategies": [
+        "“Mystery Drawing” – After practicing the target structure with flashcards, draw part of a fruit or vegetable on the board (e.g., just the top of a carrot). Have students guess using full questions:",
+        "“Is it a carrot?” → “No, it isn’t.” / “Yes, it is.”",
+        "Gradually increase difficulty by drawing more obscure angles or leaving out color cues."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer questions using “Is it...?” / “Yes, it is.” / “No, it isn’t.” to talk about fruits and vegetables.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write “Is it a/an ___?” and “Yes, it is./No, it isn’t.” on the board. Students practise with flashcards or realia."
+      ],
+      "stretchStrategies": [
+        "“Mystery Drawing” – After practicing the target structure with flashcards, draw part of a fruit or vegetable on the board (e.g., just the top of a carrot). Have students guess using full questions:",
+        "“Is it a carrot?” → “No, it isn’t.” / “Yes, it is.”",
+        "Gradually increase difficulty by drawing more obscure angles or leaving out color cues."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    },
+    {
+      "section": "5. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "6. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric; banh mi >> bread"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

@@ -1,0 +1,105 @@
+{
+  "lesson": {
+    "id": 60
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 2",
+    "topic": "My Face",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 35-36",
+        "activities": [
+          {
+            "name": "Activity A - Page 35"
+          },
+          {
+            "name": "Activity B - Page 35"
+          },
+          {
+            "name": "Activity Speaking - Page 36"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 89",
+        "activities": [
+          {
+            "name": "Activity A - Page 89"
+          },
+          {
+            "name": "Activity B - Page 89"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 90",
+      "materials": [
+        "Unit 8 Lesson 2 FCs",
+        "Coin per pair"
+      ]
+    },
+    "vocabulary": [
+      "head",
+      "ears",
+      "mouth",
+      "eyes",
+      "nose",
+      "neck"
+    ],
+    "structures": [
+      "He’s/She’s got a small head.",
+      "He’s/She’s got big eyes."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six more body parts (head, ears, mouth, eyes, nose, neck) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Show head/face flashcards. Say each word and ask: “Where is it?” Students point to the correct part on a picture or their body."
+      ],
+      "stretchStrategies": [
+        "❝Mystery Student Description❞ – Describe a classmate without saying their name (e.g., “He’s got big eyes and a small mouth”). The class guesses who it is. Students then take turns describing someone else."
+      ]
+    },
+    {
+      "outcome": "Students can say simple statements about body parts using “He’s/She’s got…” and an adjective.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Point to a face in the SB. Ask: “What has she got?” Students say: “She’s got big eyes.” Drill with different adjectives."
+      ],
+      "stretchStrategies": [
+        "❝Mystery Student Description❞ – Describe a classmate without saying their name (e.g., “He’s got big eyes and a small mouth”). The class guesses who it is. Students then take turns describing someone else."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “He’s/She’s got ___.” to describe body parts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write: “He’s got ___.” and “She’s got ___.” Students complete sentences orally using images or puppets."
+      ],
+      "stretchStrategies": [
+        "❝Mystery Student Description❞ – Describe a classmate without saying their name (e.g., “He’s got big eyes and a small mouth”). The class guesses who it is. Students then take turns describing someone else."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Adjective-noun ordering:",
+      "items": [
+        "tóc dài >> hair long [long hair]"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

@@ -1,0 +1,127 @@
+{"lesson": {
+   "id": 45
+ },
+ "lessonOverview": {
+   "title": "Unit 6 - Lesson 2",
+   "topic": "Food",
+   "resources": {
+     "studentBook": {
+       "pages": "Page 13-14",
+       "activities": [
+         {
+           "name": "Activity A - Page 13"
+         },
+         {
+           "name": "Activity B - Page 13"
+         },
+         {
+           "name": "Activity Speaking - Page 14"
+         }
+       ]
+     },
+     "activityBook": {
+       "pages": "Page 67",
+       "activities": [
+         {
+           "name": "Activity A - Page 67"
+         },
+         {
+           "name": "Activity B - Page 67"
+         }
+       ]
+     },
+     "phonicsBook": {
+       "pages": "",
+       "activities": []
+     },
+     "homework": "AB 68",
+     "materials": [
+       "Unit 6 Lesson 2 FCs"
+     ]
+   },
+   "vocabulary": [
+     "biscuit",
+     "biscuits",
+     "sandwich",
+     "sandwiches",
+     "peach",
+     "peaches"
+   ],
+   "structures": [
+     "A: Where is the biscuit?",
+     "B: It’s in the box.",
+     "A: Where are the biscuits?",
+     "B: They’re in the box."
+   ],
+   "phonics": []
+ },
+ "lessonOutcomes": [
+   {
+     "outcome": "Students can recognise and name six foods (biscuit, biscuits, sandwich, sandwiches, peach, peaches) and three prepositions (in, on, under) when listening and looking at visual prompts.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Vocab) Use realia or flashcards of food and objects (e.g., box, table). Place a flashcard “under/on/in” and ask: “Where is the sandwich?”"
+     ],
+     "stretchStrategies": [
+       "“Preposition Puzzle Challenge”",
+       "Place flashcards around the classroom (on, in, under various classroom items). In small groups, students secretly choose two cards and create riddles using “Where is/are the ___?” and prepositions. Example: “Where are the sandwiches? They’re under the chair.” Others guess. Stretch by requiring at least one plural and one preposition in each riddle."
+     ]
+   },
+   {
+     "outcome": "Students can ask and answer simple questions about foods using "Where is/are the ___?" and respond with "It’s/They’re ___ (preposition) the ___ (object)."",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Speaking) Model: “Where are the peaches?” – “They’re on the table.” Use gestures and repeat for clarity. Let students ask/answer in pairs."
+     ],
+     "stretchStrategies": [
+       "“Preposition Puzzle Challenge”",
+       "Place flashcards around the classroom (on, in, under various classroom items). In small groups, students secretly choose two cards and create riddles using “Where is/are the ___?” and prepositions. Example: “Where are the sandwiches? They’re under the chair.” Others guess. Stretch by requiring at least one plural and one preposition in each riddle."
+     ]
+   },
+   {
+     "outcome": "Students can use the target structure “Where is/are the ___?” / “It’s/They’re ___.” to talk about foods and location.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Grammar) Draw a table on the board. Place food flashcards in different positions. Ask: “Where is the ___?” Students respond with “It’s/They’re...”"
+     ],
+     "stretchStrategies": [
+       "“Preposition Puzzle Challenge”",
+       "Place flashcards around the classroom (on, in, under various classroom items). In small groups, students secretly choose two cards and create riddles using “Where is/are the ___?” and prepositions. Example: “Where are the sandwiches? They’re under the chair.” Others guess. Stretch by requiring at least one plural and one preposition in each riddle."
+     ]
+   }
+ ],
+ "languageTransferAnalysis": [
+   {
+     "section": "1. Food:",
+     "items": [
+       "Food in syllabi typically Western-centric; banh mi >> bread"
+     ]
+   },
+   {
+     "section": "2. Vowels with multiple sounds (phonics mismatch):",
+     "items": [
+       "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+     ]
+   },
+   {
+     "section": "3. Plural nouns:",
+     "items": [
+       "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]",
+       "4. Unstressed vowels (schwa)",
+       "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+     ]
+   },
+   {
+     "section": "5. There is vs it is:",
+     "items": [
+       "Often confused – Kindergarteners will tend to prefer 'it is' for everything, even though the Vietnamese is very different for the two structures"
+     ]
+   },
+   {
+     "section": "6. Plural forms of it is and there is:",
+     "items": [
+       "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+     ]
+   }
+ ],
+ "lessonPlan": null}

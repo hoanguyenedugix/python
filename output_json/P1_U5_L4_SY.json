@@ -1,0 +1,98 @@
+{
+  "lesson": {
+    "id": 40
+  },
+  "lessonOverview": {
+    "title": "Unit 5 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 7-8",
+        "activities": [
+          {
+            "name": "Activity A - Page 7"
+          },
+          {
+            "name": "Activity B - Page 7"
+          },
+          {
+            "name": "Activity Speaking - Page 8"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 61",
+        "activities": [
+          {
+            "name": "Activity A - Page 61"
+          },
+          {
+            "name": "Activity B - Page 61"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 62",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can write sentences (e.g., “Is it an umbrella?”) clearly and accurately in the correct space.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Model writing a sentence from the board: “Is it an umbrella?” Have students copy into their books with correct spacing."
+      ],
+      "stretchStrategies": [
+        "Find and Describe Race – Stick flashcards or draw quick item pictures around the room. In pairs, one student finds an item, the other must write a sentence using the correct structure (“It’s a short ruler.”). Set a timer and rotate roles. Emphasise sentence accuracy under pressure."
+      ]
+    },
+    {
+      "outcome": "Students can listen to spoken descriptions and choose the correct item.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say a description: “It’s old. It’s a puzzle.” Students point to the matching image in the SB."
+      ],
+      "stretchStrategies": [
+        "Find and Describe Race – Stick flashcards or draw quick item pictures around the room. In pairs, one student finds an item, the other must write a sentence using the correct structure (“It’s a short ruler.”). Set a timer and rotate roles. Emphasise sentence accuracy under pressure."
+      ]
+    },
+    {
+      "outcome": "Students can work together politely and take turns to play a competitive game.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Turn-taking) In small groups, play a game where students describe an item and take turns guessing which one it is."
+      ],
+      "stretchStrategies": [
+        "Find and Describe Race – Stick flashcards or draw quick item pictures around the room. In pairs, one student finds an item, the other must write a sentence using the correct structure (“It’s a short ruler.”). Set a timer and rotate roles. Emphasise sentence accuracy under pressure."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Adjective-noun ordering:",
+      "items": [
+        "tóc dài >> hair long [long hair]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

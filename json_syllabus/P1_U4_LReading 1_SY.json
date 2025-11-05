@@ -1,0 +1,54 @@
+{
+  "lesson": {
+    "id": 35
+  },
+  "lessonOverview": {
+    "title": "Reader 1",
+    "topic": "Reader 1",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Reader 1 CPT",
+        "Reader 1 worksheets",
+        "Book: Little Red Riding Hood"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read along with a familiar story, echo key phrases, and take part in group role-plays to show understanding of the text.",
+      "category": "Communication",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can use role-play to confidently express their ideas, show creativity in retelling the story, and recognise how the characters feel at different moments.",
+      "category": "Future Skills",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can reflect on the importance of listening to trusted adults and being cautious with strangers, discussing the moral of the story and how it applies to real-life situations.",
+      "category": "SEL",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

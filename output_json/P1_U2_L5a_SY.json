@@ -1,0 +1,112 @@
+{
+  "lesson": {
+    "id": 13
+  },
+  "lessonOverview": {
+    "title": "Unit 2 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 21",
+        "activities": [
+          {
+            "name": "Activity A - Page 21"
+          },
+          {
+            "name": "Activity B - Page 21"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 109-111",
+        "activities": [
+          {
+            "name": "Activity A - Page 109"
+          },
+          {
+            "name": "Activity B - Page 109"
+          },
+          {
+            "name": "Activity A - Page 110"
+          },
+          {
+            "name": "Activity B - Page 110"
+          },
+          {
+            "name": "Activity A - Page 111"
+          },
+          {
+            "name": "Activity B - Page 111"
+          }
+        ]
+      },
+      "homework": "AB 73",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "i",
+      "n",
+      "s",
+      "h"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read a short text about someone's photo and find key details such as classroom objects and colours.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read the short photo text aloud. Pause after each line and ask: “What can you see in the photo?” Students point to the object."
+      ],
+      "stretchStrategies": [
+        "Play “Sound Train.” Draw a train with different letters (e.g. s, h, i, n) as train cars. Say a CVC word (e.g. “sit”) and students “ride” the sound train by hopping to each sound in order while saying the sounds aloud. Then try blending them together."
+      ]
+    },
+    {
+      "outcome": "Students can trace and write the letters i, n, s, h to form simple words.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Write “in,” “his,” “sit” on the board. Say slowly and have students repeat, clapping for each sound."
+      ],
+      "stretchStrategies": [
+        "Play “Sound Train.” Draw a train with different letters (e.g. s, h, i, n) as train cars. Say a CVC word (e.g. “sit”) and students “ride” the sound train by hopping to each sound in order while saying the sounds aloud. Then try blending them together."
+      ]
+    },
+    {
+      "outcome": "Students can name one thing that is the same and one thing that is different about classrooms in two countries",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Show pictures of 2 different classrooms (or use SB). Ask: “What is the same? What is different?” Accept responses in L1 or English."
+      ],
+      "stretchStrategies": [
+        "Play “Sound Train.” Draw a train with different letters (e.g. s, h, i, n) as train cars. Say a CVC word (e.g. “sit”) and students “ride” the sound train by hopping to each sound in order while saying the sounds aloud. Then try blending them together."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

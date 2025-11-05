@@ -1,0 +1,113 @@
+{
+  "lesson": {
+    "id": 9
+  },
+  "lessonOverview": {
+    "title": "Unit 2 - Lesson 1",
+    "topic": "School Items",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 13-14",
+        "activities": [
+          {
+            "name": "Activity A - Page 13"
+          },
+          {
+            "name": "Activity B - Page 13"
+          },
+          {
+            "name": "Activity C - Page 14"
+          },
+          {
+            "name": "Activity D - Page 14"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 65",
+        "activities": [
+          {
+            "name": "Activity A - Page 65"
+          },
+          {
+            "name": "Activity B - Page 65"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 66",
+      "materials": [
+        "Unit 2 Lesson 1 FCs"
+      ]
+    },
+    "vocabulary": [
+      "pencil",
+      "crayon",
+      "rubber",
+      "ruler",
+      "pencil case",
+      "notebook"
+    ],
+    "structures": [
+      "A: What’s this?",
+      "B: It’s a pencil."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six classroom items (pencil, crayon, rubber, ruler, pencil case, notebook) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Hold up flashcards of classroom items. Say the name and have students repeat. Then ask: “Which one is the rubber?”"
+      ],
+      "stretchStrategies": [
+        "Play “Mystery Bag.” Hide classroom flashcards or real objects in a paper bag. Give clues: “It’s on the table… You write with it.” Students guess and ask, “Is it a pencil?” Encourage full questions and multiple guesses."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about classroom objects using \"What's this?\" and respond with \"It's a...\".",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Point to a pencil case in the SB. Ask: “What’s this?” Model and then let students practise in pairs."
+      ],
+      "stretchStrategies": [
+        "Play “Mystery Bag.” Hide classroom flashcards or real objects in a paper bag. Give clues: “It’s on the table… You write with it.” Students guess and ask, “Is it a pencil?” Encourage full questions and multiple guesses."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer questions using the target structure “What’s this?” / “It’s a ___” to talk about classroom items.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write Q&A frame on the board: “What’s this?” – “It’s a ___.” Students complete with classroom object flashcards."
+      ],
+      "stretchStrategies": [
+        "Play “Mystery Bag.” Hide classroom flashcards or real objects in a paper bag. Give clues: “It’s on the table… You write with it.” Students guess and ask, “Is it a pencil?” Encourage full questions and multiple guesses."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

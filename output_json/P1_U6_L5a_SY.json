@@ -1,0 +1,128 @@
+{
+  "lesson": {
+    "id": 48
+  },
+  "lessonOverview": {
+    "title": "Unit 6 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 19",
+        "activities": [
+          {
+            "name": "Activity A - Page 19"
+          },
+          {
+            "name": "Activity B - Page 19"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 107-109",
+        "activities": [
+          {
+            "name": "Activity A - Page 107"
+          },
+          {
+            "name": "Activity B - Page 107"
+          },
+          {
+            "name": "Activity A - Page 108"
+          },
+          {
+            "name": "Activity B - Page 108"
+          },
+          {
+            "name": "Activity A - Page 109"
+          },
+          {
+            "name": "Activity B - Page 109"
+          }
+        ]
+      },
+      "homework": "AB 73",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "v",
+      "w",
+      "qu"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read a short text about two children’s lunches and find key details such as foods.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read the lunch text aloud. Pause and ask: “What food does Anna have?” Students underline or circle the answers in the SB."
+      ],
+      "stretchStrategies": [
+        "“Sound Sort & Match”",
+        "Students fold a paper into 3 columns (v, w, qu). Teacher says or writes words on the board. Students sort them by initial sound and write one matching food next to each (e.g., “v – vegetables”). Stretch by asking them to write full sentences using “There is/are...” for each word (e.g., “There are vegetables in the bag.”)"
+      ]
+    },
+    {
+      "outcome": "Students can trace and write the letters v, w, qu to form simple words.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say /v/, /w/, /qu/. Write them on the board with words (e.g., van, window, queen). Students repeat and trace letters in notebooks."
+      ],
+      "stretchStrategies": [
+        "“Sound Sort & Match”",
+        "Students fold a paper into 3 columns (v, w, qu). Teacher says or writes words on the board. Students sort them by initial sound and write one matching food next to each (e.g., “v – vegetables”). Stretch by asking them to write full sentences using “There is/are...” for each word (e.g., “There are vegetables in the bag.”)"
+      ]
+    },
+    {
+      "outcome": "Students can say that fruits and vegetables are healthy and chips are unhealthy.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Health) Show a T-chart: Healthy / Unhealthy. Students sort foods from the SB text into the correct category together."
+      ],
+      "stretchStrategies": [
+        "“Sound Sort & Match”",
+        "Students fold a paper into 3 columns (v, w, qu). Teacher says or writes words on the board. Students sort them by initial sound and write one matching food next to each (e.g., “v – vegetables”). Stretch by asking them to write full sentences using “There is/are...” for each word (e.g., “There are vegetables in the bag.”)"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric; banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "3. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]",
+        "4. Unstressed vowels (schwa)",
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "5. There is vs it is:",
+      "items": [
+        "Often confused – Kindergarteners will tend to prefer 'it is' for everything, even though the Vietnamese is very different for the two structures"
+      ]
+    },
+    {
+      "section": "6. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

@@ -1,0 +1,128 @@
+{"lesson": {
+   "id": 44
+ },
+ "lessonOverview": {
+   "title": "Unit 6 - Lesson 1",
+   "topic": "Food",
+   "resources": {
+     "studentBook": {
+       "pages": "Page 11-12",
+       "activities": [
+         {
+           "name": "Activity A - Page 11"
+         },
+         {
+           "name": "Activity B - Page 11"
+         },
+         {
+           "name": "Activity C - Page 12"
+         },
+         {
+           "name": "Activity D - Page 12"
+         }
+       ]
+     },
+     "activityBook": {
+       "pages": "Page 65",
+       "activities": [
+         {
+           "name": "Activity A - Page 65"
+         },
+         {
+           "name": "Activity B - Page 65"
+         }
+       ]
+     },
+     "phonicsBook": {
+       "pages": "",
+       "activities": []
+     },
+     "homework": "AB 66",
+     "materials": [
+       "Unit 6 Lesson 1 FCs"
+     ]
+   },
+   "vocabulary": [
+     "burger",
+     "burgers",
+     "egg",
+     "eggs",
+     "tomato",
+     "tomatoes"
+   ],
+   "structures": [
+     "There is an egg.",
+     "There are six eggs."
+   ],
+   "phonics": []
+ },
+ "lessonOutcomes": [
+   {
+     "outcome": "Students can recognise and name six foods (burger, burgers, egg, eggs, tomato, tomatoes) when listening and looking at visual prompts.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Vocab) Show food flashcards: burger, egg, tomato (singular/plural). Students repeat each word and point to matching images in the SB."
+     ],
+     "stretchStrategies": [
+       "“Speed Sketch & Speak”",
+       "Students draw quick sketches of 1–2 foods on paper (e.g., one egg, six eggs). In pairs, they take turns saying sentences using “There is/There are...” for their partner’s sketch. To stretch, ask them to add a number and an adjective: “There are six small eggs.”"
+     ]
+   },
+   {
+     "outcome": "Students can say simple statements about foods using "There is a/an..." and "There are (number) (foods)."",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Speaking) Point to pictures and say: “There is a tomato.” Then ask: “What do you see?” Prompt students to respond using “There is...” or “There are...”"
+     ],
+     "stretchStrategies": [
+       "“Speed Sketch & Speak”",
+       "Students draw quick sketches of 1–2 foods on paper (e.g., one egg, six eggs). In pairs, they take turns saying sentences using “There is/There are...” for their partner’s sketch. To stretch, ask them to add a number and an adjective: “There are six small eggs.”"
+     ]
+   },
+   {
+     "outcome": "Students can use the target structure “There is a/an ___.” / “There are ___.” to talk about foods.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Grammar) Write two examples on the board: “There is a burger.” / “There are two eggs.” Students repeat and fill in their own food words."
+     ],
+     "stretchStrategies": [
+       "“Speed Sketch & Speak”",
+       "Students draw quick sketches of 1–2 foods on paper (e.g., one egg, six eggs). In pairs, they take turns saying sentences using “There is/There are...” for their partner’s sketch. To stretch, ask them to add a number and an adjective: “There are six small eggs.”"
+     ]
+   }
+ ],
+ "languageTransferAnalysis": [
+   {
+     "section": "1. Food:",
+     "items": [
+       "Food in syllabi typically Western-centric; banh mi >> bread"
+     ]
+   },
+   {
+     "section": "2. Vowels with multiple sounds (phonics mismatch):",
+     "items": [
+       "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+     ]
+   },
+   {
+     "section": "3. Plural nouns:",
+     "items": [
+       "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]",
+       "4. Unstressed vowels (schwa)",
+       "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+     ]
+   },
+   {
+     "section": "5. There is vs it is:",
+     "items": [
+       "Often confused – Kindergarteners will tend to prefer 'it is' for everything, even though the Vietnamese is very different for the two structures"
+     ]
+   },
+   {
+     "section": "6. Plural forms of it is and there is:",
+     "items": [
+       "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+     ]
+   }
+ ],
+ "lessonPlan": null}

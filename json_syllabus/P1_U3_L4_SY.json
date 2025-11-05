@@ -1,0 +1,122 @@
+{
+  "lesson": {
+    "id": 20
+  },
+  "lessonOverview": {
+    "title": "Unit 3 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 31-32",
+        "activities": [
+          {
+            "name": "Activity A - Page 31"
+          },
+          {
+            "name": "Activity B - Page 31"
+          },
+          {
+            "name": "Activity Speaking - Page 32"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 83",
+        "activities": [
+          {
+            "name": "Activity A - Page 83"
+          },
+          {
+            "name": "Activity B - Page 83"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 84",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can write vocabulary words (basket, cherry, pear) clearly and accurately.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Write “cherry,” “basket,” and “pear” on the board. Students trace in the air, then copy on paper."
+      ],
+      "stretchStrategies": [
+        "“Write & Switch” – Students write a sentence with a fruit/veg word (e.g., “I like onions in my soup”). Then they switch papers with a partner who must underline the food word and respond aloud with an opinion:",
+        "“I don’t like onions!” / “Me too!”",
+        "Students are encouraged to extend the sentence if they’re confident (e.g., “because they are spicy”)."
+      ]
+    },
+    {
+      "outcome": "Students can listen to spoken descriptions and choose the correct fruit or vegetable.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say clues: “It’s red. It’s small.” Students point to the correct fruit or vegetable in the SB."
+      ],
+      "stretchStrategies": [
+        "“Write & Switch” – Students write a sentence with a fruit/veg word (e.g., “I like onions in my soup”). Then they switch papers with a partner who must underline the food word and respond aloud with an opinion:",
+        "“I don’t like onions!” / “Me too!”",
+        "Students are encouraged to extend the sentence if they’re confident (e.g., “because they are spicy”)."
+      ]
+    },
+    {
+      "outcome": "Students can work together politely and take turns to play a collaborative game.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Collaboration) Play a turn-taking game: One student says a fruit; the next repeats and adds one more. Continue around the circle."
+      ],
+      "stretchStrategies": [
+        "“Write & Switch” – Students write a sentence with a fruit/veg word (e.g., “I like onions in my soup”). Then they switch papers with a partner who must underline the food word and respond aloud with an opinion:",
+        "“I don’t like onions!” / “Me too!”",
+        "Students are encouraged to extend the sentence if they’re confident (e.g., “because they are spicy”)."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    },
+    {
+      "section": "5. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "6. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric; banh mi >> bread"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

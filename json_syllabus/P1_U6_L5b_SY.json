@@ -1,0 +1,128 @@
+{
+  "lesson": {
+    "id": 49
+  },
+  "lessonOverview": {
+    "title": "Unit 6 - Lesson 6",
+    "topic": "Grammar & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 20",
+        "activities": [
+          {
+            "name": "Activity A - Page 20"
+          },
+          {
+            "name": "Activity B - Page 20"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 110-112",
+        "activities": [
+          {
+            "name": "Activity A - Page 110"
+          },
+          {
+            "name": "Activity B - Page 110"
+          },
+          {
+            "name": "Activity A - Page 111"
+          },
+          {
+            "name": "Activity B - Page 111"
+          },
+          {
+            "name": "Activity C - Page 112"
+          },
+          {
+            "name": "Activity D - Page 112"
+          }
+        ]
+      },
+      "homework": "AB 74",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "v",
+      "w",
+      "qu"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can correctly use “There is” and “There are” with singular and plural nouns (e.g., “There is a burger.” / “There are three burgers.”) and the prepositions “in,” “on,” and “under.”",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write: “There is a ____.” “There are ____.” “It’s under the ____.” Students choose food/preposition and complete sentences orally."
+      ],
+      "stretchStrategies": [
+        "“Mystery Bag Sentences”",
+        "Teacher describes what’s in a mystery lunch bag: “There is a peach. There are three sandwiches. They’re in the box.” Students must write what they hear on whiteboards. Stretch by having them write their own lunch bag description using both “is” and “are” and at least one preposition."
+      ]
+    },
+    {
+      "outcome": "Students can recognise and identify the initial sounds (v, w, qu).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say and write v, w, qu. Students repeat and find words in the SB that begin with each sound."
+      ],
+      "stretchStrategies": [
+        "“Mystery Bag Sentences”",
+        "Teacher describes what’s in a mystery lunch bag: “There is a peach. There are three sandwiches. They’re in the box.” Students must write what they hear on whiteboards. Stretch by having them write their own lunch bag description using both “is” and “are” and at least one preposition."
+      ]
+    },
+    {
+      "outcome": "Students can circle \"is\" or \"are\" to complete a sentence and finish short frames (e.g., “The ___ is/are ___ the ___.”) using the correct preposition.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Display 2 options on board: “There ___ a peach.” Students circle “is” or “are” and write a full sentence with preposition support."
+      ],
+      "stretchStrategies": [
+        "“Mystery Bag Sentences”",
+        "Teacher describes what’s in a mystery lunch bag: “There is a peach. There are three sandwiches. They’re in the box.” Students must write what they hear on whiteboards. Stretch by having them write their own lunch bag description using both “is” and “are” and at least one preposition."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric; banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "3. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]",
+        "4. Unstressed vowels (schwa)",
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "5. There is vs it is:",
+      "items": [
+        "Often confused – Kindergarteners will tend to prefer 'it is' for everything, even though the Vietnamese is very different for the two structures"
+      ]
+    },
+    {
+      "section": "6. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

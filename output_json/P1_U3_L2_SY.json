@@ -1,0 +1,132 @@
+{"lesson": {
+   "id": 18
+ },
+ "lessonOverview": {
+   "title": "Unit 3 - Lesson 2",
+   "topic": "Fruit and Vegetables ",
+   "resources": {
+     "studentBook": {
+       "pages": "Page 27-28",
+       "activities": [
+         {
+           "name": "Activity A - Page 25"
+         },
+         {
+           "name": "Activity B - Page 25"
+         },
+         {
+           "name": "Activity Speaking - Page 28"
+         }
+       ]
+     },
+     "activityBook": {
+       "pages": "Page 79",
+       "activities": [
+         {
+           "name": "Activity A - Page 79"
+         },
+         {
+           "name": "Activity B - Page 79"
+         }
+       ]
+     },
+     "phonicsBook": {
+       "pages": "",
+       "activities": []
+     },
+     "homework": "AB 80",
+     "materials": [
+       "Unit 3 Lesson 2 FCs"
+     ]
+   },
+   "vocabulary": [
+     "apples",
+     "oranges",
+     "bananas",
+     "carrots",
+     "onions",
+     "potatoes"
+   ],
+   "structures": [
+     "A: Are they apples?",
+     "B: Yes, they are. / No, they aren’t."
+   ],
+   "phonics": []
+ },
+ "lessonOutcomes": [
+   {
+     "outcome": "Students can recognise and name six plural fruits and vegetables (apples, oranges, bananas, carrots, onions, potatoes) when listening and looking at visual prompts.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Vocab) Show images of plural fruits/vegetables. Say: “These are bananas.” Students repeat and match words in the SB."
+     ],
+     "stretchStrategies": [
+       "“Grammar Switch” – Flash a picture of one item (e.g., 1 banana) or many (e.g., 5 bananas). Students must quickly decide whether to ask:",
+       "“Is it…?” or “Are they…?”",
+       "Then follow up with the correct question and answer. Challenge stronger students to lead the class or create “trick questions” to stump peers."
+     ]
+   },
+   {
+     "outcome": "Students can ask and answer simple questions about fruits and vegetables using "Are they...?" and respond with "Yes, they are." / "No, they aren't."",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Speaking) Ask: “Are they apples?” while pointing to images. Students respond with “Yes, they are” or “No, they aren’t.”"
+     ],
+     "stretchStrategies": [
+       "“Grammar Switch” – Flash a picture of one item (e.g., 1 banana) or many (e.g., 5 bananas). Students must quickly decide whether to ask:",
+       "“Is it…?” or “Are they…?”",
+       "Then follow up with the correct question and answer. Challenge stronger students to lead the class or create “trick questions” to stump peers."
+     ]
+   },
+   {
+     "outcome": "Students can ask and answer questions using “Are they...?” / “Yes, they are.” / “No, they aren’t.” to talk about fruits and vegetables.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Grammar) Write “Are they ___?” and “Yes, they are./No, they aren’t.” on the board. Pair students for Q&A practice."
+     ],
+     "stretchStrategies": [
+       "“Grammar Switch” – Flash a picture of one item (e.g., 1 banana) or many (e.g., 5 bananas). Students must quickly decide whether to ask:",
+       "“Is it…?” or “Are they…?”",
+       "Then follow up with the correct question and answer. Challenge stronger students to lead the class or create “trick questions” to stump peers."
+     ]
+   }
+ ],
+ "languageTransferAnalysis": [
+   {
+     "section": "1. Plural nouns:",
+     "items": [
+       "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+     ]
+   },
+   {
+     "section": "2. Unstressed vowels (schwa):",
+     "items": [
+       "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+     ]
+   },
+   {
+     "section": "3. Released final consonants:",
+     "items": [
+       "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+     ]
+   },
+   {
+     "section": "4. Plural forms of it is and there is:",
+     "items": [
+       "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+     ]
+   },
+   {
+     "section": "5. Vowels with multiple sounds (phonics mismatch):",
+     "items": [
+       "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+     ]
+   },
+   {
+     "section": "6. Food:",
+     "items": [
+       "Food in syllabi typically Western-centric; banh mi >> bread"
+     ]
+   }
+ ],
+ "lessonPlan": null}

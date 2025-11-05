@@ -1,0 +1,113 @@
+{
+  "lesson": {
+    "id": 7
+  },
+  "lessonOverview": {
+    "title": "Unit 1 - Lesson 6",
+    "topic": "Grammar & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 12",
+        "activities": [
+          {
+            "name": "Activity A - Page 12"
+          },
+          {
+            "name": "Activity B - Page 12"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 106-108",
+        "activities": [
+          {
+            "name": "Activity A - Page 106"
+          },
+          {
+            "name": "Activity B - Page 106"
+          },
+          {
+            "name": "Activity A - Page 107"
+          },
+          {
+            "name": "Activity B - Page 107"
+          },
+          {
+            "name": "Activity C - Page 108"
+          },
+          {
+            "name": "Activity D - Page 108"
+          }
+        ]
+      },
+      "homework": "AB 64",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "c",
+      "a",
+      "t",
+      "p"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognize and correctly use a or an before singular nouns (e.g., a train, an apple).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write “a train / an apple.” Circle first letter. Explain a/an rule."
+      ],
+      "stretchStrategies": [
+        "Play a/an swap game. Write nouns on paper strips (e.g. apple, train). Students pick one, walk around asking, “Is it a/an ___?” When correct, they swap strips and continue."
+      ]
+    },
+    {
+      "outcome": "Students can recognise and identify the initial sounds (c, t, p, a). ",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say /c/, /t/, /a/, /p/. Students repeat, then match to a word in SB."
+      ],
+      "stretchStrategies": [
+        "Play a/an swap game. Write nouns on paper strips (e.g. apple, train). Students pick one, walk around asking, “Is it a/an ___?” When correct, they swap strips and continue."
+      ]
+    },
+    {
+      "outcome": "Students can complete short sentence frames (e.g., It’s a ____.) using the correct article (a or an) and target nouns.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Show board frame: “It’s ___ ___.” Students complete with a/an + toy."
+      ],
+      "stretchStrategies": [
+        "Play a/an swap game. Write nouns on paper strips (e.g. apple, train). Students pick one, walk around asking, “Is it a/an ___?” When correct, they swap strips and continue."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Colours:",
+      "items": [
+        "VYL: colours do not map onto one another (blue/green = blue)",
+        "màu x >> colour x"
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

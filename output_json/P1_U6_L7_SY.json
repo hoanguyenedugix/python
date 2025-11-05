@@ -1,0 +1,98 @@
+{
+  "lesson": {
+    "id": 50
+  },
+  "lessonOverview": {
+    "title": "Unit 6 - Lesson 7",
+    "topic": "Unit Test & Video",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Unit 6 Project Gallery",
+        "Unit 6 Video"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen and identify key details about Brody’s birthday party by choosing correct answers (e.g., multiple choice).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Play the video. Ask: “What food does Brody have?” Pause and check with multiple-choice images in the SB."
+      ],
+      "stretchStrategies": [
+        "Turn the video review into a “Freeze and Speak” game. Play the video and freeze it at any scene. Students describe what’s happening."
+      ]
+    },
+    {
+      "outcome": "Students can say how the birthday party in the video is similar to or different from their own.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Ask: “What do you eat at birthday parties?” Students compare their experience with Brody’s using picture prompts."
+      ],
+      "stretchStrategies": [
+        "Turn the video review into a “Freeze and Speak” game. Play the video and freeze it at any scene. Students describe what’s happening."
+      ]
+    },
+    {
+      "outcome": "Students can share why birthdays and other celebrations are important and what makes them special.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Discussion) Ask: “Why are birthdays special?” Brainstorm answers as a class. Prompt with: “We give presents…” / “We eat cake because…”"
+      ],
+      "stretchStrategies": [
+        "Turn the video review into a “Freeze and Speak” game. Play the video and freeze it at any scene. Students describe what’s happening."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric; banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "3. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]",
+        "4. Unstressed vowels (schwa)",
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "5. There is vs it is:",
+      "items": [
+        "Often confused – Kindergarteners will tend to prefer 'it is' for everything, even though the Vietnamese is very different for the two structures"
+      ]
+    },
+    {
+      "section": "6. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

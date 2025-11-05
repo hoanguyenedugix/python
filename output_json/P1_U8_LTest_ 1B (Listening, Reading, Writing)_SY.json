@@ -1,0 +1,31 @@
+{
+  "lesson": {
+    "id": 69
+  },
+  "lessonOverview": {
+    "title": "P1B: Listening, Reading, Writing Test",
+    "topic": "P1B: Listening, Reading, Writing Test",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

@@ -1,0 +1,119 @@
+{
+  "lesson": {
+    "id": 52
+  },
+  "lessonOverview": {
+    "title": "Unit 7 - Lesson 1",
+    "topic": "My Family Members",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 23-24",
+        "activities": [
+          {
+            "name": "Activity A - Page 23"
+          },
+          {
+            "name": "Activity B - Page 23"
+          },
+          {
+            "name": "Activity C - Page 24"
+          },
+          {
+            "name": "Activity D - Page 24"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 77",
+        "activities": [
+          {
+            "name": "Activity A - Page 77"
+          },
+          {
+            "name": "Activity B - Page 77"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 78",
+      "materials": [
+        "Unit 7 Lesson 1 FCs"
+      ]
+    },
+    "vocabulary": [
+      "father",
+      "mother",
+      "sister",
+      "brother",
+      "grandfather",
+      "grandmother"
+    ],
+    "structures": [
+      "A: Who is he? / Who is she?",
+      "B: He’s my brother. / She’s my sister."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six family members (father, mother, sister, brother, grandfather, grandmother) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Show flashcards or SB images of family members. Say: “This is my sister.” Students repeat and match words to pictures."
+      ],
+      "stretchStrategies": [
+        "Memory Drawing: After practising the vocabulary, remove the flashcards. Give students 1 minute to draw as many family members as they can from memory on a piece of paper. They then turn to a partner and say who each person is: “This is my grandfather.” The partner can ask: “Who is she?”"
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about family members using \"Who is he/she?\" and respond with \"He’s/She’s my...\".",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Use stick puppets or point to SB: Ask “Who is he?” – “He’s my father.” Drill with 4–5 examples and let students take turns."
+      ],
+      "stretchStrategies": [
+        "Memory Drawing: After practising the vocabulary, remove the flashcards. Give students 1 minute to draw as many family members as they can from memory on a piece of paper. They then turn to a partner and say who each person is: “This is my grandfather.” The partner can ask: “Who is she?”"
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “Who is he/she?” / “He’s/She’s my ___.” to talk about family members.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write Q&A on board: “Who is she?” / “She’s my ___.” Students practise in pairs using pictures from the SB."
+      ],
+      "stretchStrategies": [
+        "Memory Drawing: After practising the vocabulary, remove the flashcards. Give students 1 minute to draw as many family members as they can from memory on a piece of paper. They then turn to a partner and say who each person is: “This is my grandfather.” The partner can ask: “Who is she?”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    },
+    {
+      "section": "2. Silent letters:",
+      "items": [
+        "Systematic kinds of silent letters, such as 'magic e' in late or mote, or silent gh in thought and bought, are entirely alien to Vietnamese. They are often acquired as sight words first; the teacher can explain at higher levels."
+      ]
+    },
+    {
+      "section": "3. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "4. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

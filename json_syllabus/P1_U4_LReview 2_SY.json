@@ -1,0 +1,79 @@
+{
+  "lesson": {
+    "id": 31
+  },
+  "lessonOverview": {
+    "title": "Review 2",
+    "topic": "Review 2",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 45-46",
+        "activities": [
+          {
+            "name": "Activity A - Page 45"
+          },
+          {
+            "name": "Activity B - Page 45"
+          },
+          {
+            "name": "Activity C - Page 46"
+          },
+          {
+            "name": "Activity D - Page 46"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 97",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": []
+    },
+    "vocabulary": [
+      "Unit 3-4"
+    ],
+    "structures": [
+      "Unit 3-4"
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read and understand a text containing the units' target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read the review text aloud as a class. Ask: “Can you find a [vocab/grammar point]?” Students highlight or underline examples in their books."
+      ],
+      "stretchStrategies": [
+        "“Draw and Check” Dictation – Read 4–6 short sentences using target language (e.g., “There’s a red car under the bed.”). Students draw each scene. Afterwards, show or read again so they can self-check and explain what they heard."
+      ]
+    },
+    {
+      "outcome": "Students can listen and identify the units' target language correctly.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say or play short sentences using target language from previous units. Students point, circle, or hold up the matching item or image."
+      ],
+      "stretchStrategies": [
+        "“Draw and Check” Dictation – Read 4–6 short sentences using target language (e.g., “There’s a red car under the bed.”). Students draw each scene. Afterwards, show or read again so they can self-check and explain what they heard."
+      ]
+    },
+    {
+      "outcome": "Students can reflect on their learning across the units and say what they can do.",
+      "category": "Learning to Learn",
+      "supportStrategies": [
+        "(Reflection) Write prompts: “I can name…,” “I can say…,” “I can ask…” Students complete with language they remember using speech bubbles or drawings."
+      ],
+      "stretchStrategies": [
+        "“Draw and Check” Dictation – Read 4–6 short sentences using target language (e.g., “There’s a red car under the bed.”). Students draw each scene. Afterwards, show or read again so they can self-check and explain what they heard."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

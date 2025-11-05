@@ -1,0 +1,71 @@
+{
+  "lesson": {
+    "id": 1
+  },
+  "lessonOverview": {
+    "title": "Unit 0 - Starter",
+    "topic": "Starter",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 1-2",
+        "activities": [
+          {
+            "name": "Activity A - Page 1"
+          },
+          {
+            "name": "Activity B - Page 1"
+          },
+          {
+            "name": "Activity C - Page 2"
+          },
+          {
+            "name": "Activity D - Page 2"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 101-102",
+        "activities": [
+          {
+            "name": "Activity A - Page 101"
+          },
+          {
+            "name": "Activity B - Page 101"
+          },
+          {
+            "name": "Activity A - Page 102"
+          },
+          {
+            "name": "Activity B - Page 102"
+          }
+        ]
+      },
+      "homework": null,
+      "materials": [
+        "Starter FCs"
+      ]
+    },
+    "vocabulary": [
+      "Aa-Zz",
+      "1-10",
+      "red",
+      "yellow",
+      "green",
+      "blue"
+    ],
+    "structures": [
+      "A: Hello. What’s your name?",
+      "B: My name is Nick."
+    ],
+    "phonics": [
+      "A-Z"
+    ]
+  },
+  "lessonOutcomes": [],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

@@ -1,0 +1,101 @@
+{
+  "lesson": {
+    "id": 64
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 6",
+    "topic": "Grammar & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 42",
+        "activities": [
+          {
+            "name": "Activity A - Page 42"
+          },
+          {
+            "name": "Activity B - Page 42"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 122-124",
+        "activities": [
+          {
+            "name": "Activity A - Page 122"
+          },
+          {
+            "name": "Activity B - Page 122"
+          },
+          {
+            "name": "Activity A - Page 123"
+          },
+          {
+            "name": "Activity B - Page 123"
+          },
+          {
+            "name": "Activity C - Page 124"
+          },
+          {
+            "name": "Activity D - Page 124"
+          }
+        ]
+      },
+      "homework": "AB 96",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can correctly use “’ve got” and “’s got” in statements (e.g., “We’ve got short legs.” / “She’s got short legs.”).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write “We’ve got short legs.” / “She’s got long arms.” Students identify subject and verb. Then make their own sentence from SB images."
+      ],
+      "stretchStrategies": [
+        "❝Team Grammar Race❞ – Write mixed-up sentences on the board (e.g., “short legs got I’ve”). In small groups, students race to fix them by writing the correct form underneath. Use only a whiteboard and markers."
+      ]
+    },
+    {
+      "outcome": "Students can recognise and identify CVC words (e.g., bat, cat, fox).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say bat, cat, fox. Students repeat and circle the words with matching initial or final sounds in their SB or worksheet."
+      ],
+      "stretchStrategies": [
+        "❝Team Grammar Race❞ – Write mixed-up sentences on the board (e.g., “short legs got I’ve”). In small groups, students race to fix them by writing the correct form underneath. Use only a whiteboard and markers."
+      ]
+    },
+    {
+      "outcome": "Students can complete sentence frames (e.g., “I’ve got short legs.” / “He’s got big feet.”) using “’ve got” or “’s got” correctly.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Show frame: “I’ve got ___.” or “They’ve got ___.” Students complete with correct structure and descriptive word."
+      ],
+      "stretchStrategies": [
+        "❝Team Grammar Race❞ – Write mixed-up sentences on the board (e.g., “short legs got I’ve”). In small groups, students race to fix them by writing the correct form underneath. Use only a whiteboard and markers."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Adjective-noun ordering:",
+      "items": [
+        "tóc dài >> hair long [long hair]"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

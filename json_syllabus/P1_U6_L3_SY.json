@@ -1,0 +1,120 @@
+{
+  "lesson": {
+    "id": 46
+  },
+  "lessonOverview": {
+    "title": "Unit 6 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 15-16",
+        "activities": [
+          {
+            "name": "Activity A - Page 15"
+          },
+          {
+            "name": "Activity B - Page 15"
+          },
+          {
+            "name": "Activity C - Page 16"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 16"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 69",
+        "activities": [
+          {
+            "name": "Activity A - Page 69"
+          },
+          {
+            "name": "Activity B - Page 69"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 70",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: a"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters, foods, and prepositions mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before the story, say: “Listen for burger, under, peach.” Play story. Students hold up hand or point when they hear the target words."
+      ],
+      "stretchStrategies": [
+        "“Act & Ask”",
+        "After listening to the story, assign groups a scene to act out. Then each group must ask the class one creative question about their scene using “Where is/are...?” or “What food...?” Stretch by requiring the use of a location preposition and one plural form in their question or dialogue."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Read the story aloud. Assign students to act out characters using flashcards and gestures while repeating their lines."
+      ],
+      "stretchStrategies": [
+        "“Act & Ask”",
+        "After listening to the story, assign groups a scene to act out. Then each group must ask the class one creative question about their scene using “Where is/are...?” or “What food...?” Stretch by requiring the use of a location preposition and one plural form in their question or dialogue."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or acting it out.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Stop the story before the final event. Ask: “What could happen next?” Students draw or act out their own ending."
+      ],
+      "stretchStrategies": [
+        "“Act & Ask”",
+        "After listening to the story, assign groups a scene to act out. Then each group must ask the class one creative question about their scene using “Where is/are...?” or “What food...?” Stretch by requiring the use of a location preposition and one plural form in their question or dialogue."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric; banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "3. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]",
+        "4. Unstressed vowels (schwa)",
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "5. There is vs it is:",
+      "items": [
+        "Often confused – Kindergarteners will tend to prefer 'it is' for everything, even though the Vietnamese is very different for the two structures"
+      ]
+    },
+    {
+      "section": "6. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

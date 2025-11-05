@@ -1,0 +1,84 @@
+{
+  "lesson": {
+    "id": 15
+  },
+  "lessonOverview": {
+    "title": "Unit 2 - Lesson 7",
+    "topic": "Unit Test & Video",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Unit 2 Project Gallery",
+        "Unit 2 Video"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen and identify key details about Ruma's school by choosing correct answers (e.g., matching sentence halves).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Play part of the video. Pause and ask: “What does Ruma have?” Students point to matching pictures in their books."
+      ],
+      "stretchStrategies": [
+        "Turn the video review into a “Freeze and Speak” game. Play the video and freeze it at any scene. Students describe what’s happening: “The boy is sitting.” “She’s opening her book.” Add thinking questions: “Is she happy or sad?” “What will happen next?”"
+      ]
+    },
+    {
+      "outcome": "Students can identify one thing Ruma likes about school and explain if they feel the same or different.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Draw a Venn diagram on the board: “Ruma’s school / My school.” Students suggest similarities and differences."
+      ],
+      "stretchStrategies": [
+        "Turn the video review into a “Freeze and Speak” game. Play the video and freeze it at any scene. Students describe what’s happening: “The boy is sitting.” “She’s opening her book.” Add thinking questions: “Is she happy or sad?” “What will happen next?”"
+      ]
+    },
+    {
+      "outcome": "Students can talk about why school is important and name one reason some children can’t go every day.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Critical Thinking) Ask: “Why do some children not go to school?” Write ideas on the board. Prompt with visuals if needed."
+      ],
+      "stretchStrategies": [
+        "Turn the video review into a “Freeze and Speak” game. Play the video and freeze it at any scene. Students describe what’s happening: “The boy is sitting.” “She’s opening her book.” Add thinking questions: “Is she happy or sad?” “What will happen next?”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

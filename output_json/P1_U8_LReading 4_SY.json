@@ -1,0 +1,54 @@
+{
+  "lesson": {
+    "id": 71
+  },
+  "lessonOverview": {
+    "title": "Reader 4",
+    "topic": "Reader 4",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Reader 4 CPT",
+        "Reader 4 worksheets",
+        "Book: Little Red Riding Hood"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can rehearse and perform short scenes from a story using clear speech, facial expression, and body language to communicate meaning.",
+      "category": "Communication",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can work collaboratively in groups to assign roles, create simple props, and support each other during rehearsals and performance, showing confidence and creativity.",
+      "category": "Future Skills",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can participate positively in group work and class performance, show appreciation for others' efforts, and reflect on their own role and feelings during the activity.",
+      "category": "SEL",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

@@ -1,0 +1,124 @@
+{"lesson": {
+   "id": 24
+ },
+ "lessonOverview": {
+   "title": "Unit 4 - Lesson 1",
+   "topic": "Pets",
+   "resources": {
+     "studentBook": {
+       "pages": "Page 35-36",
+       "activities": [
+         {
+           "name": "Activity A - Page 35"
+         },
+         {
+           "name": "Activity B - Page 35"
+         },
+         {
+           "name": "Activity C - Page 36"
+         },
+         {
+           "name": "Activity D - Page 36"
+         }
+       ]
+     },
+     "activityBook": {
+       "pages": "Page 87",
+       "activities": [
+         {
+           "name": "Activity A - Page 87"
+         },
+         {
+           "name": "Activity B - Page 87"
+         }
+       ]
+     },
+     "phonicsBook": {
+       "pages": "",
+       "activities": []
+     },
+     "homework": "AB 88",
+     "materials": [
+       "Unit 4 Lesson 1 FCs"
+     ]
+   },
+   "vocabulary": [
+     "birds",
+     "cats",
+     "dogs",
+     "frogs",
+     "squirrels",
+     "turtles"
+   ],
+   "structures": [
+     "I like cats.",
+     "I don’t like dogs."
+   ],
+   "phonics": []
+ },
+ "lessonOutcomes": [
+   {
+     "outcome": "Students can recognise and name six pets (birds, cats, dogs, frogs, squirrels, turtles) when listening and looking at visual prompts.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Vocab) Show pet flashcards or SB images. Say each pet’s name and have students repeat. Ask: “Which one is the turtle?”"
+     ],
+     "stretchStrategies": [
+       "Class Pet Debate: Draw 3–4 pets on the board (e.g. dog, cat, turtle). Ask students to stand on one side of the room if they like the pet, and on the other if they don’t. Then, students on each side must say their sentence (e.g. “I like cats.” “I don’t like cats.”), and explain why in 1 extra sentence (e.g. “They’re soft.” / “They’re noisy.”). Scaffold with adjectives from previous units if needed."
+     ]
+   },
+   {
+     "outcome": "Students can say simple statements about pets using "I like..." / "I don't like...".",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Speaking) Draw a heart and cross on the board. Point to an animal and say: “I like dogs.” “I don’t like frogs.” Students repeat with their own choices."
+     ],
+     "stretchStrategies": [
+       "Class Pet Debate: Draw 3–4 pets on the board (e.g. dog, cat, turtle). Ask students to stand on one side of the room if they like the pet, and on the other if they don’t. Then, students on each side must say their sentence (e.g. “I like cats.” “I don’t like cats.”), and explain why in 1 extra sentence (e.g. “They’re soft.” / “They’re noisy.”). Scaffold with adjectives from previous units if needed."
+     ]
+   },
+   {
+     "outcome": "Students can use the target structure “I like ___.” / “I don't like ___.” to talk about pets.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Grammar) Write sentence stems: “I like ___.” / “I don’t like ___.” on the board. Students complete orally using pet images."
+     ],
+     "stretchStrategies": [
+       "Class Pet Debate: Draw 3–4 pets on the board (e.g. dog, cat, turtle). Ask students to stand on one side of the room if they like the pet, and on the other if they don’t. Then, students on each side must say their sentence (e.g. “I like cats.” “I don’t like cats.”), and explain why in 1 extra sentence (e.g. “They’re soft.” / “They’re noisy.”). Scaffold with adjectives from previous units if needed."
+     ]
+   }
+ ],
+ "languageTransferAnalysis": [
+   {
+     "section": "1. Plural nouns:",
+     "items": [
+       "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+     ]
+   },
+   {
+     "section": "2. Unstressed vowels (schwa):",
+     "items": [
+       "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+     ]
+   },
+   {
+     "section": "3. Inversion in questions:",
+     "items": [
+       "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+       "This is extremely difficult to master, especially combined with do-support."
+     ]
+   },
+   {
+     "section": "4. Vowels with multiple sounds (phonics mismatch):",
+     "items": [
+       "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+     ]
+   },
+   {
+     "section": "5. Question formation with do-support:",
+     "items": [
+       "Bạn có thích ăn bánh mì không? >> you like eat bread? [do you like to eat bánh mì?]"
+     ]
+   }
+ ],
+ "lessonPlan": null}

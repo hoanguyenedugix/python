@@ -1,0 +1,108 @@
+{
+  "lesson": {
+    "id": 54
+  },
+  "lessonOverview": {
+    "title": "Unit 7 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 27-28",
+        "activities": [
+          {
+            "name": "Activity A - Page 27"
+          },
+          {
+            "name": "Activity B - Page 27"
+          },
+          {
+            "name": "Activity C - Page 28"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 28"
+          },
+          {
+            "name": "Activity A - Page 81"
+          },
+          {
+            "name": "Activity B - Page 81"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 81",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 82",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: e"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters and actions mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before the story, say: “Listen for read, cook, drive.” Play audio. Students raise hand or clap when they hear those actions."
+      ],
+      "stretchStrategies": [
+        "Secret Character Mime: Whisper a character and an action from the story to one student (e.g., “Grandma – swim”). That student mimes it. Class guesses: “She’s the grandma. She can swim!” Great for review and inference."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Read story aloud with students echoing. Assign simple parts. Students act it out using flashcards to support."
+      ],
+      "stretchStrategies": [
+        "Secret Character Mime: Whisper a character and an action from the story to one student (e.g., “Grandma – swim”). That student mimes it. Class guesses: “She’s the grandma. She can swim!” Great for review and inference."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or acting it out.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Show final story frame. Ask: “What could happen next?” Students act out or draw an ending with a new action or family twist."
+      ],
+      "stretchStrategies": [
+        "Secret Character Mime: Whisper a character and an action from the story to one student (e.g., “Grandma – swim”). That student mimes it. Class guesses: “She’s the grandma. She can swim!” Great for review and inference."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    },
+    {
+      "section": "2. Silent letters:",
+      "items": [
+        "Systematic kinds of silent letters, such as 'magic e' in late or mote, or silent gh in thought and bought, are entirely alien to Vietnamese. They are often acquired as sight words first; the teacher can explain at higher levels."
+      ]
+    },
+    {
+      "section": "3. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "4. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

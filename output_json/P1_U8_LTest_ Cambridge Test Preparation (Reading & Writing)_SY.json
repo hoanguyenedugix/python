@@ -1,0 +1,55 @@
+{
+  "lesson": {
+    "id": 67
+  },
+  "lessonOverview": {
+    "title": "Cambridge Test Prep",
+    "topic": "Cambridge Test Preparation (Reading and Writing)",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Reading & Writing LP",
+        "Reading & Writing PPT",
+        "Reading & Writing worksheets",
+        "Reading & Writing Bingo"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise different test formats and activity types (e.g., match, circle, choose) with confidence.",
+      "category": "Test Prep",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can understand and follow basic tes question instructions (e.g., match, circle, choose) with confidence.",
+      "category": "Test Prep",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can compare how prepared and confident they are before and after test prep lessons",
+      "category": "Learning to Learn",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

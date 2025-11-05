@@ -5,7 +5,7 @@ batch_fix_json_quotes.py
 Tự động load tất cả file JSON từ thư mục input, fix lỗi dấu " không escape,
 và ghi ra thư mục output cùng tên file.
 Usage:
-    python fix_json_quotes.py input_json output_json
+    python fix_json_quotes.py output_json json_syllabus
 """
 
 import json

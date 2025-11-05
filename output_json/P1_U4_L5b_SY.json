@@ -1,0 +1,118 @@
+{
+  "lesson": {
+    "id": 29
+  },
+  "lessonOverview": {
+    "title": "Unit 4 - Lesson 6",
+    "topic": "Grammar & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 44",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 124-126",
+        "activities": [
+          {
+            "name": "Activity A - Page 124"
+          },
+          {
+            "name": "Activity B - Page 124"
+          },
+          {
+            "name": "Activity A - Page 125"
+          },
+          {
+            "name": "Activity B - Page 125"
+          },
+          {
+            "name": "Activity C - Page 126"
+          },
+          {
+            "name": "Activity D - Page 126"
+          }
+        ]
+      },
+      "homework": "AB 96",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "r",
+      "g",
+      "l",
+      "o"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and correctly use “like” in positive and negative sentences and Yes/No questions.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) On the board, sort examples: “I like cats.” / “I don’t like frogs.” / “Do you like turtles?” Students sort into columns."
+      ],
+      "stretchStrategies": [
+        "Like Ladder: On the board, draw a 4-step “ladder.” Model a sentence: “I like cats.” Students must take turns making new sentences that build on the last (e.g. “I like cats and frogs.” → “I don’t like cats, but I like turtles.”). Encourage longer compound sentences and creativity."
+      ]
+    },
+    {
+      "outcome": "Students can recognise and identify the initial sounds (r, l, o).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say /r/, /l/, /o/. Students repeat, then circle those sounds in a list of simple words in the SB."
+      ],
+      "stretchStrategies": [
+        "Like Ladder: On the board, draw a 4-step “ladder.” Model a sentence: “I like cats.” Students must take turns making new sentences that build on the last (e.g. “I like cats and frogs.” → “I don’t like cats, but I like turtles.”). Encourage longer compound sentences and creativity."
+      ]
+    },
+    {
+      "outcome": "Students can complete short sentence frames (e.g., I ____ ____) using the correct form of “like”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Show sentence frame: “I like ___.” or “I don’t like ___.” Students write 1–2 sentences using animal words."
+      ],
+      "stretchStrategies": [
+        "Like Ladder: On the board, draw a 4-step “ladder.” Model a sentence: “I like cats.” Students must take turns making new sentences that build on the last (e.g. “I like cats and frogs.” → “I don’t like cats, but I like turtles.”). Encourage longer compound sentences and creativity."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    },
+    {
+      "section": "4. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "5. Question formation with do-support:",
+      "items": [
+        "Bạn có thích ăn bánh mì không? >> you like eat bread? [do you like to eat bánh mì?]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

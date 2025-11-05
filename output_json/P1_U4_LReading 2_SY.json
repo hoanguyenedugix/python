@@ -1,0 +1,54 @@
+{
+  "lesson": {
+    "id": 36
+  },
+  "lessonOverview": {
+    "title": "Reader 2",
+    "topic": "Reader 2",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Reader 2 CPT",
+        "Reader 2 worksheets",
+        "Book: Book: Little Red Riding Hood"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can follow along in their storybooks, read aloud with others, and use role-play to show understanding of the story and its alternative endings.",
+      "category": "Communication",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can share their predictions and preferences with confidence, express creative ideas through role-play, and discuss how characters might feel in different versions of the story.",
+      "category": "Future Skills",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can compare two different endings and explain the lesson or value they learn from each one, making connections to their own experiences.",
+      "category": "SEL",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

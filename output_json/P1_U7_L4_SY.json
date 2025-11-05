@@ -1,0 +1,104 @@
+{
+  "lesson": {
+    "id": 55
+  },
+  "lessonOverview": {
+    "title": "Unit 7 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 29-30",
+        "activities": [
+          {
+            "name": "Activity A - Page 29"
+          },
+          {
+            "name": "Activity B - Page 29"
+          },
+          {
+            "name": "Activity Speaking - Page 30"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 83",
+        "activities": [
+          {
+            "name": "Activity A - Page 83"
+          },
+          {
+            "name": "Activity B - Page 83"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 84",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can write sentences (e.g., “She’s my sister.”) clearly and accurately in the correct space.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Model: “She’s my sister.” Write it on board. Say it. Students copy with correct spacing and punctuation."
+      ],
+      "stretchStrategies": [
+        "Action Puzzle: Write different abilities on the board (e.g., cook, read, swim). Students draw a line from a family member to a possible action (e.g., “My brother – can cook”). Then, in pairs, they ask and answer using the board: “Can your brother cook?” / “Yes, he can.”"
+      ]
+    },
+    {
+      "outcome": "Students can listen to spoken descriptions and identify the action or ability being described.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say: “He can cook. She can’t drive.” Students point to matching pictures or choose from 2 options on the board."
+      ],
+      "stretchStrategies": [
+        "Action Puzzle: Write different abilities on the board (e.g., cook, read, swim). Students draw a line from a family member to a possible action (e.g., “My brother – can cook”). Then, in pairs, they ask and answer using the board: “Can your brother cook?” / “Yes, he can.”"
+      ]
+    },
+    {
+      "outcome": "Students can work together politely and take turns in a collaborative game.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Collaboration) In pairs, students describe a family member: “He can wink.” Partner guesses: “Your brother?” Take turns."
+      ],
+      "stretchStrategies": [
+        "Action Puzzle: Write different abilities on the board (e.g., cook, read, swim). Students draw a line from a family member to a possible action (e.g., “My brother – can cook”). Then, in pairs, they ask and answer using the board: “Can your brother cook?” / “Yes, he can.”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    },
+    {
+      "section": "2. Silent letters:",
+      "items": [
+        "Systematic kinds of silent letters, such as 'magic e' in late or mote, or silent gh in thought and bought, are entirely alien to Vietnamese. They are often acquired as sight words first; the teacher can explain at higher levels."
+      ]
+    },
+    {
+      "section": "3. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "4. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

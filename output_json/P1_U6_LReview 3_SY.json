@@ -1,0 +1,119 @@
+{
+  "lesson": {
+    "id": 51
+  },
+  "lessonOverview": {
+    "title": "Review 3",
+    "topic": "Review 3",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 21-22",
+        "activities": [
+          {
+            "name": "Activity A - Page 21"
+          },
+          {
+            "name": "Activity B - Page 21"
+          },
+          {
+            "name": "Activity C - Page 22"
+          },
+          {
+            "name": "Activity D - Page 22"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 75",
+        "activities": [
+          {
+            "name": "Activity A - Page 75"
+          },
+          {
+            "name": "Activity B - Page 75"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 76",
+      "materials": []
+    },
+    "vocabulary": [
+      "Unit 5-6"
+    ],
+    "structures": [
+      "Unit 5-6"
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read and understand a text containing the units' target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read the review text aloud as a class. Ask: “Can you find a [vocab/grammar point]?” Students highlight or underline examples in their books."
+      ],
+      "stretchStrategies": [
+        "“Draw and Check” Dictation – Read 4–6 short sentences using target language (e.g., “There’s a red car under the bed.”). Students draw each scene. Afterwards, show or read again so they can self-check and explain what they heard."
+      ]
+    },
+    {
+      "outcome": "Students can listen and identify the units' target language correctly.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say or play short sentences using target language from previous units. Students point, circle, or hold up the matching item or image."
+      ],
+      "stretchStrategies": [
+        "“Draw and Check” Dictation – Read 4–6 short sentences using target language (e.g., “There’s a red car under the bed.”). Students draw each scene. Afterwards, show or read again so they can self-check and explain what they heard."
+      ]
+    },
+    {
+      "outcome": "Students can reflect on their learning across the units and say what they can do.",
+      "category": "Learning to Learn",
+      "supportStrategies": [
+        "(Reflection) Write prompts: “I can name…,” “I can say…,” “I can ask…” Students complete with language they remember using speech bubbles or drawings."
+      ],
+      "stretchStrategies": [
+        "“Draw and Check” Dictation – Read 4–6 short sentences using target language (e.g., “There’s a red car under the bed.”). Students draw each scene. Afterwards, show or read again so they can self-check and explain what they heard."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric; banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "3. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]",
+        "4. Unstressed vowels (schwa)",
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "5. There is vs it is:",
+      "items": [
+        "Often confused – Kindergarteners will tend to prefer 'it is' for everything, even though the Vietnamese is very different for the two structures"
+      ]
+    },
+    {
+      "section": "6. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

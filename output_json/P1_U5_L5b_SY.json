@@ -1,0 +1,112 @@
+{
+  "lesson": {
+    "id": 42
+  },
+  "lessonOverview": {
+    "title": "Unit 5 - Lesson 6",
+    "topic": "Grammar & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 10",
+        "activities": [
+          {
+            "name": "Activity A - Page 10"
+          },
+          {
+            "name": "Activity B - Page 10"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 104-106",
+        "activities": [
+          {
+            "name": "Activity A - Page 104"
+          },
+          {
+            "name": "Activity B - Page 104"
+          },
+          {
+            "name": "Activity A - Page 105"
+          },
+          {
+            "name": "Activity B - Page 105"
+          },
+          {
+            "name": "Activity C - Page 106"
+          },
+          {
+            "name": "Activity D - Page 106"
+          }
+        ]
+      },
+      "homework": "AB 64",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "f",
+      "u",
+      "j",
+      "b"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and correctly use adjectives with and without nouns (e.g., “It’s long.” / “It’s a long ruler.”).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) On the board write: “It’s long.” and “It’s a long rope.” Ask students to match sentence types with images from the SB."
+      ],
+      "stretchStrategies": [
+        "Adjective Switch-Up – Write 3–5 sentence frames on the board with missing adjectives (“It’s a ___ teddy.” “It’s ___.”). Students must race to complete each with a different adjective than their partner, using correct structure. Encourage them not to repeat any adjective they’ve already used."
+      ]
+    },
+    {
+      "outcome": "Students can recognise and identify the initial sounds (b, f, u, j).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say /b/, /f/, /u/, /j/. Students repeat and circle those letters in words in the SB."
+      ],
+      "stretchStrategies": [
+        "Adjective Switch-Up – Write 3–5 sentence frames on the board with missing adjectives (“It’s a ___ teddy.” “It’s ___.”). Students must race to complete each with a different adjective than their partner, using correct structure. Encourage them not to repeat any adjective they’ve already used."
+      ]
+    },
+    {
+      "outcome": "Students can complete short sentence frames (e.g., “It’s ___.” and “It’s a ___ teddy bear.”) using the correct adjectives.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Display sentence frames: “It’s ___.” and “It’s a ___ teddy bear.” Students complete with their own adjectives and items."
+      ],
+      "stretchStrategies": [
+        "Adjective Switch-Up – Write 3–5 sentence frames on the board with missing adjectives (“It’s a ___ teddy.” “It’s ___.”). Students must race to complete each with a different adjective than their partner, using correct structure. Encourage them not to repeat any adjective they’ve already used."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Adjective-noun ordering:",
+      "items": [
+        "tóc dài >> hair long [long hair]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

@@ -1,0 +1,121 @@
+{"lesson": {
+   "id": 25
+ },
+ "lessonOverview": {
+   "title": "Unit 4 - Lesson 2",
+   "topic": "Zoo Animals",
+   "resources": {
+     "studentBook": {
+       "pages": "Page 37-38",
+       "activities": [
+         {
+           "name": "Activity A - Page 37"
+         },
+         {
+           "name": "Activity B - Page 37"
+         },
+         {
+           "name": "Activity Speaking - Page 38"
+         }
+       ]
+     },
+     "activityBook": {
+       "pages": "Page 89",
+       "activities": [
+         {
+           "name": "Activity A - Page 89"
+         },
+         {
+           "name": "Activity B - Page 89"
+         }
+       ]
+     },
+     "phonicsBook": {
+       "pages": "",
+       "activities": []
+     },
+     "homework": "AB 90",
+     "materials": [
+       "Coin per pair"
+     ]
+   },
+   "vocabulary": [
+     "monkeys",
+     "bears",
+     "elephants",
+     "lions",
+     "zebras",
+     "giraffes"
+   ],
+   "structures": [
+     "A: Do you like monkeys?",
+     "B: Yes, I do. / No, I don’t."
+   ],
+   "phonics": []
+ },
+ "lessonOutcomes": [
+   {
+     "outcome": "Students can recognise and name six zoo animals (monkeys, bears, elephants, lions, zebras, giraffes) when listening and looking at visual prompts.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Vocab) Use zoo animal images. Say: “This is a zebra.” Students repeat. Then play “Find the animal” in the SB or on the board."
+     ],
+     "stretchStrategies": [
+       "Animal Survey Challenge: Students draw a 6-box table in their notebooks with each zoo animal name. They walk around the class asking, “Do you like ___?” and recording Yes/No answers from 5 classmates. Then they report back to the class: “Three students like lions. Two don’t like monkeys.”"
+     ]
+   },
+   {
+     "outcome": "Students can ask and answer simple questions about zoo animals using "Do you like...?" and respond with "Yes, I do." / "No, I don't."",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Speaking) Ask: “Do you like lions?” Students answer: “Yes, I do.” or “No, I don’t.” Use thumbs up/down gestures to reinforce."
+     ],
+     "stretchStrategies": [
+       "Animal Survey Challenge: Students draw a 6-box table in their notebooks with each zoo animal name. They walk around the class asking, “Do you like ___?” and recording Yes/No answers from 5 classmates. Then they report back to the class: “Three students like lions. Two don’t like monkeys.”"
+     ]
+   },
+   {
+     "outcome": "Students can ask and answer questions using the target structure “Do you like...?” / “Yes, I do." / "No, I don't.” to talk about zoo animals.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Grammar) Write Q&A on board: “Do you like ___?” – “Yes, I do.” / “No, I don’t.” Students ask/answer in pairs using flashcards."
+     ],
+     "stretchStrategies": [
+       "Animal Survey Challenge: Students draw a 6-box table in their notebooks with each zoo animal name. They walk around the class asking, “Do you like ___?” and recording Yes/No answers from 5 classmates. Then they report back to the class: “Three students like lions. Two don’t like monkeys.”"
+     ]
+   }
+ ],
+ "languageTransferAnalysis": [
+   {
+     "section": "1. Plural nouns:",
+     "items": [
+       "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+     ]
+   },
+   {
+     "section": "2. Unstressed vowels (schwa):",
+     "items": [
+       "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+     ]
+   },
+   {
+     "section": "3. Inversion in questions:",
+     "items": [
+       "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+       "This is extremely difficult to master, especially combined with do-support."
+     ]
+   },
+   {
+     "section": "4. Vowels with multiple sounds (phonics mismatch):",
+     "items": [
+       "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+     ]
+   },
+   {
+     "section": "5. Question formation with do-support:",
+     "items": [
+       "Bạn có thích ăn bánh mì không? >> you like eat bread? [do you like to eat bánh mì?]"
+     ]
+   }
+ ],
+ "lessonPlan": null}

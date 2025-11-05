@@ -1,0 +1,104 @@
+{
+  "lesson": {
+    "id": 63
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 41",
+        "activities": [
+          {
+            "name": "Activity A - Page 41"
+          },
+          {
+            "name": "Activity B - Page 41"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 119-121",
+        "activities": [
+          {
+            "name": "Activity A - Page 119"
+          },
+          {
+            "name": "Activity B - Page 119"
+          },
+          {
+            "name": "Activity A - Page 120"
+          },
+          {
+            "name": "Activity B - Page 120"
+          },
+          {
+            "name": "Activity A - Page 121"
+          },
+          {
+            "name": "Activity B - Page 121"
+          }
+        ]
+      },
+      "homework": "AB 95",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read a short text about ostriches and find key details such as body parts and what they can or can’t do.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read the text aloud. Ask: “What can ostriches do?” “What body part is strong?” Students underline key info."
+      ],
+      "stretchStrategies": [
+        "❝True or Silly?❞ – After reading about the ostrich, give students statements using body part language (e.g., “Ostriches have big arms.”). Students decide if it’s true or silly, and explain why using “It’s got…”",
+        "“No! It’s got wings, not arms!”"
+      ]
+    },
+    {
+      "outcome": "Students can trace and write CVC words (e.g., ham, jam, web).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say and trace CVC words like “jam,” “ham,” “web.” Students repeat and write them, matching to pictures."
+      ],
+      "stretchStrategies": [
+        "❝True or Silly?❞ – After reading about the ostrich, give students statements using body part language (e.g., “Ostriches have big arms.”). Students decide if it’s true or silly, and explain why using “It’s got…”",
+        "“No! It’s got wings, not arms!”"
+      ]
+    },
+    {
+      "outcome": "Students can describe what ostriches look like and say what they can or can’t do.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Science) Show ostrich images. Ask: “Is it fast?” “Can it fly?” Students answer yes/no with gestures and simple sentences."
+      ],
+      "stretchStrategies": [
+        "❝True or Silly?❞ – After reading about the ostrich, give students statements using body part language (e.g., “Ostriches have big arms.”). Students decide if it’s true or silly, and explain why using “It’s got…”",
+        "“No! It’s got wings, not arms!”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Adjective-noun ordering:",
+      "items": [
+        "tóc dài >> hair long [long hair]"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

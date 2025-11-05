@@ -1,0 +1,109 @@
+{"lesson": {
+   "id": 10
+ },
+ "lessonOverview": {
+   "title": "Unit 2 - Lesson 2",
+   "topic": "Classroom Objects",
+   "resources": {
+     "studentBook": {
+       "pages": "Page 15-16",
+       "activities": [
+         {
+           "name": "Activity A - Page 15"
+         },
+         {
+           "name": "Activity B - Page 15"
+         },
+         {
+           "name": "Activity Speaking - Page 16"
+         }
+       ]
+     },
+     "activityBook": {
+       "pages": "Page 67",
+       "activities": [
+         {
+           "name": "Activity A - Page 67"
+         },
+         {
+           "name": "Activity B - Page 67"
+         }
+       ]
+     },
+     "phonicsBook": {
+       "pages": "",
+       "activities": []
+     },
+     "homework": "AB 68",
+     "materials": [
+       "Unit 2 Lesson 2 FCs",
+       "Guessing Game cards"
+     ]
+   },
+   "vocabulary": [
+     "desk",
+     "chair",
+     "whiteboard",
+     "computer",
+     "backpack",
+     "map"
+   ],
+   "structures": [
+     "A: What’s that?",
+     "B: It’s a desk."
+   ],
+   "phonics": []
+ },
+ "lessonOutcomes": [
+   {
+     "outcome": "Students can recognize and name six classroom objects (desk, chair, whiteboard, computer, backpack, map)  when listening and looking at visual prompts.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Vocab) Place 3–4 classroom object flashcards on the board. Say one item. Students point to the correct one. Rotate several times."
+     ],
+     "stretchStrategies": [
+       "Create a “Mini Classroom Map” on the whiteboard together. Students help place drawings of a window, table, chair, etc. on the board. Then take turns describing: “The chair is next to the table.” Add directions like “Draw a pencil under the window.”"
+     ]
+   },
+   {
+     "outcome": "Students can ask and answer simple questions about colours, using "What's that?" and responding with "It's a...".",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Speaking) Point across the room and ask: “What’s that?” Use a distant object (e.g., board). Students respond chorally."
+     ],
+     "stretchStrategies": [
+       "Create a “Mini Classroom Map” on the whiteboard together. Students help place drawings of a window, table, chair, etc. on the board. Then take turns describing: “The chair is next to the table.” Add directions like “Draw a pencil under the window.”"
+     ]
+   },
+   {
+     "outcome": "Students can ask and answer questions using the target structure “What's that?” / “It’s ___” to talk about classroom objects.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Grammar) Write two questions on the board: “What’s this?” / “What’s that?” Circle “this” and “that” to emphasise difference. Drill together."
+     ],
+     "stretchStrategies": [
+       "Create a “Mini Classroom Map” on the whiteboard together. Students help place drawings of a window, table, chair, etc. on the board. Then take turns describing: “The chair is next to the table.” Add directions like “Draw a pencil under the window.”"
+     ]
+   }
+ ],
+ "languageTransferAnalysis": [
+   {
+     "section": "1. Unstressed vowels (schwa):",
+     "items": [
+       "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+     ]
+   },
+   {
+     "section": "2. Released final consonants:",
+     "items": [
+       "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+     ]
+   },
+   {
+     "section": "3. Contractions:",
+     "items": [
+       "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+     ]
+   }
+ ],
+ "lessonPlan": null}

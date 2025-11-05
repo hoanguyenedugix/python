@@ -1,0 +1,101 @@
+{
+  "lesson": {
+    "id": 4
+  },
+  "lessonOverview": {
+    "title": "Unit 1 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 7-8",
+        "activities": [
+          {
+            "name": "Activity A - Page 7"
+          },
+          {
+            "name": "Activity B - Page 7"
+          },
+          {
+            "name": "Activity C - Page 8"
+          },
+          {
+            "name": "Activity Tongue Twister - Page 8"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 59",
+        "activities": [
+          {
+            "name": "Activity A - Page 59"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 60",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: b, p"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can actively listen and identify key characters and toys mentioned in the story.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before audio, point to story characters/toys and ask: “Who’s this?” / “What is it?”"
+      ],
+      "stretchStrategies": [
+        "After acting out the story, ask students to draw their own version of the ending. Volunteers use the story characters to describe: “The robot plays with the teddy.”"
+      ]
+    },
+    {
+      "outcome": "Students can read the story, act it out and then answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Read and act out the story. Students echo lines and gesture."
+      ],
+      "stretchStrategies": [
+        "After acting out the story, ask students to draw their own version of the ending. Volunteers use the story characters to describe: “The robot plays with the teddy.”"
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story orally or visually.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Show last image in story. Ask: “What happens next?” Students say one sentence each."
+      ],
+      "stretchStrategies": [
+        "After acting out the story, ask students to draw their own version of the ending. Volunteers use the story characters to describe: “The robot plays with the teddy.”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Colours:",
+      "items": [
+        "VYL: colours do not map onto one another (blue/green = blue)",
+        "màu x >> colour x"
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

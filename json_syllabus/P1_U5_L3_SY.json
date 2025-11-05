@@ -1,0 +1,103 @@
+{
+  "lesson": {
+    "id": 39
+  },
+  "lessonOverview": {
+    "title": "Unit 5 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 5-6",
+        "activities": [
+          {
+            "name": "Activity A - Page 5"
+          },
+          {
+            "name": "Activity B - Page 5"
+          },
+          {
+            "name": "Activity C - Page 6"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 6"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 59",
+        "activities": [
+          {
+            "name": "Activity A - Page 59"
+          },
+          {
+            "name": "Activity B - Page 59"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 60",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: f, v"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters and adjectives mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before the story, say: “Listen for these words: big, small, long.” Students raise hands when they hear them."
+      ],
+      "stretchStrategies": [
+        "Role-Play with a Twist – After reading the story, assign characters and challenge students to retell or extend the story using one new adjective in every sentence they say (e.g., “It’s a small boat!” “That’s a big fish!”). Encourage acting and exaggeration to embed adjectives naturally into speech."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Read the story aloud. Students echo each sentence. Assign simple roles and act out with gestures."
+      ],
+      "stretchStrategies": [
+        "Role-Play with a Twist – After reading the story, assign characters and challenge students to retell or extend the story using one new adjective in every sentence they say (e.g., “It’s a small boat!” “That’s a big fish!”). Encourage acting and exaggeration to embed adjectives naturally into speech."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or acting it out.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Pause the story at the end. Ask: “What could happen next?” Students draw or mime the next part."
+      ],
+      "stretchStrategies": [
+        "Role-Play with a Twist – After reading the story, assign characters and challenge students to retell or extend the story using one new adjective in every sentence they say (e.g., “It’s a small boat!” “That’s a big fish!”). Encourage acting and exaggeration to embed adjectives naturally into speech."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Adjective-noun ordering:",
+      "items": [
+        "tóc dài >> hair long [long hair]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

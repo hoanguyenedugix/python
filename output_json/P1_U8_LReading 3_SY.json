@@ -1,0 +1,54 @@
+{
+  "lesson": {
+    "id": 70
+  },
+  "lessonOverview": {
+    "title": "Reader 3",
+    "topic": "Reader 3",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Reader 3 CPT",
+        "Reader 3 worksheets",
+        "Book: Little Red Riding Hood"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read along with the story, participate in group role-plays, and complete sentences to show their understanding of the text.",
+      "category": "Communication",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can express ideas confidently through role-play, work creatively with a partner to retell key parts of the story, and recognise how the characters feel during the events.",
+      "category": "Future Skills",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can work together to complete a story map and reflect on what the characters learned, discussing the story’s message and how it applies to their own lives.",
+      "category": "SEL",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

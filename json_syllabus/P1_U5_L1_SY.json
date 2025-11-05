@@ -1,0 +1,106 @@
+{
+  "lesson": {
+    "id": 37
+  },
+  "lessonOverview": {
+    "title": "Unit 5 - Lesson 1",
+    "topic": "Describing Things",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 1-2",
+        "activities": [
+          {
+            "name": "Activity A - Page 1"
+          },
+          {
+            "name": "Activity B - Page 1"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 55",
+        "activities": [
+          {
+            "name": "Activity A - Page 55"
+          },
+          {
+            "name": "Activity B - Page 55"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 56",
+      "materials": [
+        "Unit 5 Lesson 1 FCs"
+      ]
+    },
+    "vocabulary": [
+      "long",
+      "short",
+      "small",
+      "big",
+      "new",
+      "old"
+    ],
+    "structures": [
+      "The ruler is long."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six adjectives (long, short, small, big, new, old) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Show pictures of school items in different sizes/conditions. Say: “This is big. This is small.” Students repeat and match to SB visuals."
+      ],
+      "stretchStrategies": [
+        "Adjective Speed Draw – Call out two adjectives (e.g., long and old). On the board, quickly draw a random classroom item and say, “What is it? Describe it!” Students must work in pairs to write or say a full sentence using both adjectives (e.g., “The pencil is long and old.”). Encourage full sentences and creativity."
+      ]
+    },
+    {
+      "outcome": "Students can say simple statements about school items using adjectives and the structure \"The (item) is (adjective).\"",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Point to items in SB or classroom. Say: “The pencil is long.” Students take turns making similar sentences about objects they see."
+      ],
+      "stretchStrategies": [
+        "Adjective Speed Draw – Call out two adjectives (e.g., long and old). On the board, quickly draw a random classroom item and say, “What is it? Describe it!” Students must work in pairs to write or say a full sentence using both adjectives (e.g., “The pencil is long and old.”). Encourage full sentences and creativity."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “The ___ is ___.” to describe school items.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write the sentence frame: “The ___ is ___.” on the board. Fill in examples as a class using pictures (e.g., The ruler is short)."
+      ],
+      "stretchStrategies": [
+        "Adjective Speed Draw – Call out two adjectives (e.g., long and old). On the board, quickly draw a random classroom item and say, “What is it? Describe it!” Students must work in pairs to write or say a full sentence using both adjectives (e.g., “The pencil is long and old.”). Encourage full sentences and creativity."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "3. Adjective-noun ordering:",
+      "items": [
+        "tóc dài >> hair long [long hair]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

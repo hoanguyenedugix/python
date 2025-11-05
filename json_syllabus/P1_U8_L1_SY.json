@@ -1,0 +1,109 @@
+{
+  "lesson": {
+    "id": 59
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 1",
+    "topic": "My Body Parts",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 33-34",
+        "activities": [
+          {
+            "name": "Activity A - Page 33"
+          },
+          {
+            "name": "Activity B - Page 33"
+          },
+          {
+            "name": "Activity C - Page 34"
+          },
+          {
+            "name": "Activity D - Page 34"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 87",
+        "activities": [
+          {
+            "name": "Activity A - Page 87"
+          },
+          {
+            "name": "Activity B - Page 87"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 88",
+      "materials": [
+        "Unit 8 Lesson 1 FCs"
+      ]
+    },
+    "vocabulary": [
+      "arms",
+      "hands",
+      "fingers",
+      "legs",
+      "feet",
+      "toes"
+    ],
+    "structures": [
+      "I’ve got long arms."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six body parts (arms, hands, fingers, legs, feet, toes) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Show body part flashcards (arms, legs, toes, etc.). Say each word and have students touch the part on their body or in the SB."
+      ],
+      "stretchStrategies": [
+        "❝Call-and-Move Challenge❞ – After naming each body part (“arms,” “legs,” etc.), challenge students to create a silly action that uses that part (e.g., wiggle your fingers, flap your arms). Then, have students give each other a movement instruction using full sentences:",
+        "“I’ve got long arms! Flap your arms!”"
+      ]
+    },
+    {
+      "outcome": "Students can say simple statements about body parts using “I’ve got…” and an adjective.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Say: “I’ve got long arms.” Write it on the board. Students repeat and point to their own arms. Then practise with other body parts."
+      ],
+      "stretchStrategies": [
+        "❝Call-and-Move Challenge❞ – After naming each body part (“arms,” “legs,” etc.), challenge students to create a silly action that uses that part (e.g., wiggle your fingers, flap your arms). Then, have students give each other a movement instruction using full sentences:",
+        "“I’ve got long arms! Flap your arms!”"
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “I’ve got ___.” to describe body parts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write sentence frame: “I’ve got ___.” Students choose a body part from the board and say a sentence aloud using correct structure."
+      ],
+      "stretchStrategies": [
+        "❝Call-and-Move Challenge❞ – After naming each body part (“arms,” “legs,” etc.), challenge students to create a silly action that uses that part (e.g., wiggle your fingers, flap your arms). Then, have students give each other a movement instruction using full sentences:",
+        "“I’ve got long arms! Flap your arms!”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Adjective-noun ordering:",
+      "items": [
+        "tóc dài >> hair long [long hair]"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

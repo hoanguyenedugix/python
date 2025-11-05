@@ -1,0 +1,115 @@
+{
+  "lesson": {
+    "id": 47
+  },
+  "lessonOverview": {
+    "title": "Unit 6 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 17-18",
+        "activities": [
+          {
+            "name": "Activity A - Page 17"
+          },
+          {
+            "name": "Activity B - Page 17"
+          },
+          {
+            "name": "Activity Speaking - Page 18"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 71",
+        "activities": [
+          {
+            "name": "Activity A - Page 71"
+          },
+          {
+            "name": "Activity B - Page 71"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 72",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can write sentences (e.g., “They’re under the chair.”) clearly and accurately in the correct space.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Write: “They’re under the chair.” on the board. Say each word and have students copy slowly into their books, checking spacing and punctuation."
+      ],
+      "stretchStrategies": [
+        "“Find & Write Race”",
+        "Teacher reads out clues (e.g., “There are three sandwiches under the desk”). Students race to draw the correct scene on paper and write the matching sentence. Stretch for faster groups by having them write two sentences: one using “There is...” and one using “There are...”."
+      ]
+    },
+    {
+      "outcome": "Students can listen to spoken descriptions and choose the correct foods.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say: “It’s on the table. It’s red and round.” Students choose the correct food from their book (e.g., tomato)."
+      ],
+      "stretchStrategies": [
+        "“Find & Write Race”",
+        "Teacher reads out clues (e.g., “There are three sandwiches under the desk”). Students race to draw the correct scene on paper and write the matching sentence. Stretch for faster groups by having them write two sentences: one using “There is...” and one using “There are...”."
+      ]
+    },
+    {
+      "outcome": "Students can work together politely and take turns in a collaborative speaking activity.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Collaboration) Students play a partner guessing game: one hides a card and says where it is; the other guesses using “It’s under the ____.”"
+      ],
+      "stretchStrategies": [
+        "“Find & Write Race”",
+        "Teacher reads out clues (e.g., “There are three sandwiches under the desk”). Students race to draw the correct scene on paper and write the matching sentence. Stretch for faster groups by having them write two sentences: one using “There is...” and one using “There are...”."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric; banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Vowels with multiple sounds (phonics mismatch):",
+      "items": [
+        "Phonics introduces each vowel with one sound, which quickly breaks down past the Kindergarten 2 level. Think of the es in elephant or the as in banana. This does not happen in Vietnamese, where every vowel is pronounced as written."
+      ]
+    },
+    {
+      "section": "3. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]",
+        "4. Unstressed vowels (schwa)",
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "5. There is vs it is:",
+      "items": [
+        "Often confused – Kindergarteners will tend to prefer 'it is' for everything, even though the Vietnamese is very different for the two structures"
+      ]
+    },
+    {
+      "section": "6. Plural forms of it is and there is:",
+      "items": [
+        "Plural forms of these structures do not exist in Vietnamese. It's difficult for kids to remember to produce them, particularly because the plural element comes before the noun phrase. There are two houses"
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

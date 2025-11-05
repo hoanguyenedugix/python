@@ -1,0 +1,117 @@
+{
+  "lesson": {
+    "id": 53
+  },
+  "lessonOverview": {
+    "title": "Unit 7 - Lesson 2",
+    "topic": "What We Can Do",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 25-26",
+        "activities": [
+          {
+            "name": "Activity A - Page 25"
+          },
+          {
+            "name": "Activity B - Page 25"
+          },
+          {
+            "name": "Activity Speaking - Page 26"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 79",
+        "activities": [
+          {
+            "name": "Activity A - Page 79"
+          },
+          {
+            "name": "Activity B - Page 79"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 80",
+      "materials": [
+        "Unit 7 Lesson 2 FCs",
+        "Coin per pair"
+      ]
+    },
+    "vocabulary": [
+      "swim",
+      "drive",
+      "cook",
+      "read",
+      "wink",
+      "ride a bike"
+    ],
+    "structures": [
+      "I can swim. / I can’t swim.",
+      "He/She can drive. / He/She can’t drive."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six actions (swim, drive, cook, read, wink, ride a bike) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Mime each action (e.g., swim, wink). Say the word. Students repeat and guess the action. Then match to visuals in SB."
+      ],
+      "stretchStrategies": [
+        "Line Up by Ability: Say an action (e.g. “swim”). Students line up in order based on how confident they feel: “I can swim very well.” → front of line; “I can’t swim.” → end of line. Then, students turn to the person next to them and say: “Can you swim?” / “Yes, I can.” / “No, I can’t.”"
+      ]
+    },
+    {
+      "outcome": "Students can say simple statements about ability using \"I/He/She can...\" or \"can't...\".",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Point to a picture and say: “I can cook.” Ask: “Can she swim?” Students answer “Yes, she can.” or “No, she can’t.”"
+      ],
+      "stretchStrategies": [
+        "Line Up by Ability: Say an action (e.g. “swim”). Students line up in order based on how confident they feel: “I can swim very well.” → front of line; “I can’t swim.” → end of line. Then, students turn to the person next to them and say: “Can you swim?” / “Yes, I can.” / “No, I can’t.”"
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “I/He/She can/can’t ___.” to talk about ability.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) On the board, write “He can ___.” “She can’t ___.” Students complete with action words from SB or flashcards."
+      ],
+      "stretchStrategies": [
+        "Line Up by Ability: Say an action (e.g. “swim”). Students line up in order based on how confident they feel: “I can swim very well.” → front of line; “I can’t swim.” → end of line. Then, students turn to the person next to them and say: “Can you swim?” / “Yes, I can.” / “No, I can’t.”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    },
+    {
+      "section": "2. Silent letters:",
+      "items": [
+        "Systematic kinds of silent letters, such as 'magic e' in late or mote, or silent gh in thought and bought, are entirely alien to Vietnamese. They are often acquired as sight words first; the teacher can explain at higher levels."
+      ]
+    },
+    {
+      "section": "3. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "4. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

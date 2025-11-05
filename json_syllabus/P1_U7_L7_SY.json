@@ -1,0 +1,90 @@
+{
+  "lesson": {
+    "id": 58
+  },
+  "lessonOverview": {
+    "title": "Unit 7 - Lesson 7",
+    "topic": "Unit Test & Video",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Unit 7 Project Gallery",
+        "Unit 7 Video"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen and identify key details about Nadiya’s family by choosing correct answers (e.g., ticking boxes).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Play the video. Pause after each section and ask: “Who is Nadiya talking about?” Students tick or point to the correct answer."
+      ],
+      "stretchStrategies": [
+        "Turn the video review into a “Freeze and Speak” game. Play the video and freeze it at any scene. Students describe what’s happening."
+      ]
+    },
+    {
+      "outcome": "Students can say how their family is similar to or different from the family in the video.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Ask: “Who do you live with?” “Who do you miss?” Students compare using SB visuals or their own families."
+      ],
+      "stretchStrategies": [
+        "Turn the video review into a “Freeze and Speak” game. Play the video and freeze it at any scene. Students describe what’s happening."
+      ]
+    },
+    {
+      "outcome": "Students can talk about where their family members live and share if they miss them, showing empathy when listening to classmates.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Empathy) Pair students to talk about a family member they don’t see often. Ask: “How do you feel?” Prompt with sentence starters"
+      ],
+      "stretchStrategies": [
+        "Turn the video review into a “Freeze and Speak” game. Play the video and freeze it at any scene. Students describe what’s happening."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    },
+    {
+      "section": "2. Silent letters:",
+      "items": [
+        "Systematic kinds of silent letters, such as 'magic e' in late or mote, or silent gh in thought and bought, are entirely alien to Vietnamese. They are often acquired as sight words first; the teacher can explain at higher levels."
+      ]
+    },
+    {
+      "section": "3. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "4. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}
