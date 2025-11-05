@@ -1,0 +1,127 @@
+{
+  "lesson": {
+    "id": 6
+  },
+  "lessonOverview": {
+    "title": "Unit 1 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 11",
+        "activities": [
+          {
+            "name": "Activity A - Page 11"
+          },
+          {
+            "name": "Activity B - Page 11"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 105-107",
+        "activities": [
+          {
+            "name": "Activity A - Page 105"
+          },
+          {
+            "name": "Activity B - Page 105"
+          },
+          {
+            "name": "Activity A - Page 106"
+          },
+          {
+            "name": "Activity B - Page 106"
+          },
+          {
+            "name": "Activity A - Page 107"
+          },
+          {
+            "name": "Activity B - Page 107"
+          }
+        ]
+      },
+      "homework": "AB 65",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "ar, or"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can pronounce words with the “ar” and “or” sounds accurately.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say: “shark” and “horse.” Students repeat, underline “ar” and “or” on flashcards or in SB words. Sort into columns."
+      ],
+      "stretchStrategies": [
+        "Students design a “Did You Know?” card about a sea animal, including 1 fact, 1 picture, and a highlighted “ar/or” word."
+      ]
+    },
+    {
+      "outcome": "Students can read a short text about amazing sea animals and find key details such as descriptions and interesting actions.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read text in pairs. Students highlight facts (e.g., size, movement). Answer 3 written questions in notebooks."
+      ],
+      "stretchStrategies": [
+        "Students design a “Did You Know?” card about a sea animal, including 1 fact, 1 picture, and a highlighted “ar/or” word."
+      ]
+    },
+    {
+      "outcome": "Students can learn interesting facts about sea creatures through guided reading.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Science) Show photos of 3 sea animals. Ask: “What do you know?” Students complete a fact chart using guided reading."
+      ],
+      "stretchStrategies": [
+        "Students design a “Did You Know?” card about a sea animal, including 1 fact, 1 picture, and a highlighted “ar/or” word."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "3. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Holidays and travel:",
+      "items": [
+        "Certain common holiday activities are less likely to overlap with those of Western kids (eating seafood at the beach, going on tours in large groups)"
+      ]
+    },
+    {
+      "section": "6. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

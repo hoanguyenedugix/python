@@ -1,0 +1,121 @@
+{
+  "lesson": {
+    "id": 21
+  },
+  "lessonOverview": {
+    "title": "Unit 3 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 33",
+        "activities": [
+          {
+            "name": "Activity A - Page 33"
+          },
+          {
+            "name": "Activity B - Page 33"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 117-119",
+        "activities": [
+          {
+            "name": "Activity A - Page 117"
+          },
+          {
+            "name": "Activity B - Page 117"
+          },
+          {
+            "name": "Activity A - Page 118"
+          },
+          {
+            "name": "Activity B - Page 118"
+          },
+          {
+            "name": "Activity A - Page 119"
+          },
+          {
+            "name": "Activity B - Page 119"
+          }
+        ]
+      },
+      "homework": "AB 87",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "ay, oy"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can practise pronouncing words with the “ay” and “oy” sounds accurately.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say: “boy, toy, play, stay.” Students repeat, circle the sound pattern (-ay / -oy), and sort words on the board."
+      ],
+      "stretchStrategies": [
+        "Students create a short “Fruit Fact Card” about one fruit. They must include a fact (where it grows), a colour word, and at least one “-ay” or “-oy” word. Share with a partner."
+      ]
+    },
+    {
+      "outcome": "Students can read a short text about interesting fruits and find key details such as descriptions and where they grow.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Students read in pairs and highlight words describing fruit. Then answer: “Where do watermelons grow?” or “Which fruit is purple?”"
+      ],
+      "stretchStrategies": [
+        "Students create a short “Fruit Fact Card” about one fruit. They must include a fact (where it grows), a colour word, and at least one “-ay” or “-oy” word. Share with a partner."
+      ]
+    },
+    {
+      "outcome": "Students can learn interesting facts about how different fruits grow in different parts of the world.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Show images of fruit farms. Ask: “Where do these grow?” Students match fruits to countries using a map or labelled visuals."
+      ],
+      "stretchStrategies": [
+        "Students create a short “Fruit Fact Card” about one fruit. They must include a fact (where it grows), a colour word, and at least one “-ay” or “-oy” word. Share with a partner."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric: banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "3. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

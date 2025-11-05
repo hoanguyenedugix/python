@@ -1,0 +1,109 @@
+{
+  "lesson": {
+    "id": 14
+  },
+  "lessonOverview": {
+    "title": "Unit 2 - Lesson 6",
+    "topic": "Grammar & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 22",
+        "activities": [
+          {
+            "name": "Activity A - Page 22"
+          },
+          {
+            "name": "Activity B - Page 22"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 114-116",
+        "activities": [
+          {
+            "name": "Activity A - Page 114"
+          },
+          {
+            "name": "Activity B - Page 114"
+          },
+          {
+            "name": "Activity A - Page 115"
+          },
+          {
+            "name": "Activity B - Page 115"
+          },
+          {
+            "name": "Activity C - Page 116"
+          },
+          {
+            "name": "Activity D - Page 116"
+          }
+        ]
+      },
+      "homework": "AB 76",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "/aɪ/ ie, y, igh"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can revise the impersonal subject “it” and recognise its usage in weather and date sentences.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write example sentences using “It’s…” (e.g., It’s sunny. It’s the 3rd of May.). Students identify the subject and practise making their own."
+      ],
+      "stretchStrategies": [
+        "Students write and present a “Class Weather Report” combining date + weather. Groups take turns presenting their report as if on TV."
+      ]
+    },
+    {
+      "outcome": "Students can write full sentences using “It”, weather vocabulary, and dates.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Provide sentence starters: “It’s ___ in ___.” “It’s the ___ of ___.” Students write their own two-sentence mini weather report."
+      ],
+      "stretchStrategies": [
+        "Students write and present a “Class Weather Report” combining date + weather. Groups take turns presenting their report as if on TV."
+      ]
+    },
+    {
+      "outcome": "Students can pronounce words with the “-ie”, “-y”, and “-igh” patterns correctly.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Dictate: “tie, fly, light.” Students repeat and write the correct spelling. Then practise spelling with a partner."
+      ],
+      "stretchStrategies": [
+        "Students write and present a “Class Weather Report” combining date + weather. Groups take turns presenting their report as if on TV."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

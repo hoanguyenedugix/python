@@ -1,0 +1,31 @@
+{
+  "lesson": {
+    "id": 72
+  },
+  "lessonOverview": {
+    "title": "EOCC",
+    "topic": "",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

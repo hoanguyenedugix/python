@@ -1,0 +1,112 @@
+{
+  "lesson": {
+    "id": 10
+  },
+  "lessonOverview": {
+    "title": "Unit 2 - Lesson 2",
+    "topic": "Today's Weather",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 15-16",
+        "activities": [
+          {
+            "name": "Activity A - Page 15"
+          },
+          {
+            "name": "Activity B - Page 15"
+          },
+          {
+            "name": "Activity Speaking - Page 16"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 69",
+        "activities": [
+          {
+            "name": "Activity A - Page 69"
+          },
+          {
+            "name": "Activity B - Page 69"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 70",
+      "materials": [
+        "Unit 2 Lesson 2 FCs"
+      ]
+    },
+    "vocabulary": [
+      "sunny",
+      "cloudy",
+      "rainy",
+      "snowy",
+      "foggy",
+      "windy"
+    ],
+    "structures": [
+      "A: What’s the weather like today?",
+      "B: It’s sunny.",
+      "A: What’s the weather like in Paris?",
+      "B: It’s snowy."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six types of weather (sunny, cloudy, rainy, snowy, foggy, windy) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Use weather flashcards. Say: “It’s sunny.” Students point to the correct card. Mix cards up and repeat as a speed game."
+      ],
+      "stretchStrategies": [
+        "Students give a “Weather Report” for 2 different cities (real or imagined), saying both the weather and date. Volunteers present to the class like a TV forecast."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about the weather using “What’s the weather like today?” / “What’s the weather like in...?” and respond with “It’s...”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Daily weather report: Ask a volunteer each day: “What’s the weather like today?” They respond using the correct structure from the board."
+      ],
+      "stretchStrategies": [
+        "Students give a “Weather Report” for 2 different cities (real or imagined), saying both the weather and date. Volunteers present to the class like a TV forecast."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structures “What’s the weather like today? It’s ___.” and “What’s the weather like in ___? It’s ___.” to talk about weather.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Display images of cities (e.g., Hanoi, London). Ask: “What’s the weather like in Hanoi?” Students answer using “It’s ___.”"
+      ],
+      "stretchStrategies": [
+        "Students give a “Weather Report” for 2 different cities (real or imagined), saying both the weather and date. Volunteers present to the class like a TV forecast."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

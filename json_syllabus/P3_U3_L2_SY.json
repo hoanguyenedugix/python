@@ -1,0 +1,124 @@
+{
+  "lesson": {
+    "id": 18
+  },
+  "lessonOverview": {
+    "title": "Unit 3 - Lesson 2",
+    "topic": "Meat & Dairy",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 27-28",
+        "activities": [
+          {
+            "name": "Activity A - Page 27"
+          },
+          {
+            "name": "Activity B - Page 27"
+          },
+          {
+            "name": "Activity Speaking - Page 28"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 81",
+        "activities": [
+          {
+            "name": "Activity A - Page 81"
+          },
+          {
+            "name": "Activity B - Page 81"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 82",
+      "materials": [
+        "Unit 3 Lesson 2 FCs"
+      ]
+    },
+    "vocabulary": [
+      "beef",
+      "lamb",
+      "milk",
+      "butter",
+      "cheese",
+      "yoghurt"
+    ],
+    "structures": [
+      "A: Have you got any beef?",
+      "B: Yes, I have. / No, I haven’t.",
+      "A: Has he/she got any milk?",
+      "B: Yes, he/she has. / No, he/she hasn’t."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six foods (beef, lamb, milk, butter, cheese, yoghurt) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Show food flashcards. Say: “This is cheese.” Students listen and hold up cards or point in their SB. Extend by asking: “Is it a drink or a food?”"
+      ],
+      "stretchStrategies": [
+        "Students role-play a “Supermarket Checkout” in pairs. One is the cashier asking “Have you got any…?” / “Has she got any…?” The other answers, adding 1 extra food item not on their list."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about food using “Have you got any...?” / “Has he/she got any...?” and respond with “Yes, I have.” / “No, I haven’t.” / “Yes, he/she has.” / “No, he/she hasn’t.”",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Use pair cards: one has a shopping list; one has a fridge picture. Ask and answer: “Have you got any…?” “Yes, I have / No, I haven’t.”"
+      ],
+      "stretchStrategies": [
+        "Students role-play a “Supermarket Checkout” in pairs. One is the cashier asking “Have you got any…?” / “Has she got any…?” The other answers, adding 1 extra food item not on their list."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “Have you got any ___?” / “Yes, I have.” / “No, I haven’t.” and “Has he/she got any ___?” / “Yes, he/she has.” / “No, he/she hasn’t.” to talk about food.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write “Have you got any ___?” and “Has he/she got any ___?” on the board. Do quick pair drills, swapping subject and food."
+      ],
+      "stretchStrategies": [
+        "Students role-play a “Supermarket Checkout” in pairs. One is the cashier asking “Have you got any…?” / “Has she got any…?” The other answers, adding 1 extra food item not on their list."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric: banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "3. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

@@ -1,0 +1,109 @@
+{
+  "lesson": {
+    "id": 41
+  },
+  "lessonOverview": {
+    "title": "Unit 5 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 9",
+        "activities": [
+          {
+            "name": "Activity A - Page 9"
+          },
+          {
+            "name": "Activity B - Page 9"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 101-103",
+        "activities": [
+          {
+            "name": "Activity A - Page 101"
+          },
+          {
+            "name": "Activity B - Page 101"
+          },
+          {
+            "name": "Activity A - Page 102"
+          },
+          {
+            "name": "Activity B - Page 102"
+          },
+          {
+            "name": "Activity A - Page 103"
+          },
+          {
+            "name": "Activity B - Page 103"
+          }
+        ]
+      },
+      "homework": "AB 63",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "ir, er, ur"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can practise pronouncing words with the “ir”, “er”, and “ur” sounds accurately.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say: “bird, nurse, tiger.” Students repeat and underline “ir,” “ur,” or “er.” Sort words into columns on the board and practise pronunciation."
+      ],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can read a short text about interesting animals and find key details such as what they eat and where they live.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Students skim the text and highlight 3 appearance features of animals. Then answer: “Where does it live?” and “What does it eat?”"
+      ],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can learn interesting facts about animals through guided reading.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Science) Show photos of animals mentioned. Ask: “What does it look like?” or “Why is it special?” Students describe using new adjectives."
+      ],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Adjective-noun ordering:",
+      "items": [
+        "Tóc dài >> hair long [long hair]"
+      ]
+    },
+    {
+      "section": "2. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

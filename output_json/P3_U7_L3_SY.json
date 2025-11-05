@@ -1,0 +1,112 @@
+{
+  "lesson": {
+    "id": 54
+  },
+  "lessonOverview": {
+    "title": "Unit 7 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 27-28",
+        "activities": [
+          {
+            "name": "Activity A - Page 27"
+          },
+          {
+            "name": "Activity B - Page 27"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 28"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 81",
+        "activities": [
+          {
+            "name": "Activity A - Page 81"
+          },
+          {
+            "name": "Activity B - Page 81"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 82",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: o_e, u_e"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters, school subjects, and class activities mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Give 3 focus words to listen for (e.g. “science,” “maps,” “sports”). Students tick the words as they hear them in the story."
+      ],
+      "stretchStrategies": [
+        "Story Change-Up – After acting out the story, students create an extra scene where characters swap clothes or find lost objects. Perform or draw the new scene, using appearance and clothing language."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Assign roles for group act-out. Before performing, ask questions: “What does she do in PE?” Students respond using SB support."
+      ],
+      "stretchStrategies": [
+        "Story Change-Up – After acting out the story, students create an extra scene where characters swap clothes or find lost objects. Perform or draw the new scene, using appearance and clothing language."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or performing it.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Students create an extra page of the story: “What happens after class?” Draw and write or present in groups."
+      ],
+      "stretchStrategies": [
+        "Story Change-Up – After acting out the story, students create an extra scene where characters swap clothes or find lost objects. Perform or draw the new scene, using appearance and clothing language."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "3. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

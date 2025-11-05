@@ -1,0 +1,100 @@
+{
+  "lesson": {
+    "id": 39
+  },
+  "lessonOverview": {
+    "title": "Unit 5 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 5-6",
+        "activities": [
+          {
+            "name": "Activity A - Page 5"
+          },
+          {
+            "name": "Activity B - Page 5"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 6"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 59",
+        "activities": [
+          {
+            "name": "Activity A - Page 59"
+          },
+          {
+            "name": "Activity B - Page 59"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 60",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: oa, ow"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters, appearances, and preferences mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Ask students to listen for three specific features in the story. Use a checklist to tick: e.g., “round face, freckles, tall.”"
+      ],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Group read and act: Assign roles from the SB story. After acting, ask Qs: “Who has long hair?” “Who’s handsome?”"
+      ],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or performing it.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Show the story’s last page. Ask: “What happens one year later?” Students create new story panels or write endings in groups."
+      ],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Adjective-noun ordering:",
+      "items": [
+        "Tóc dài >> hair long [long hair]"
+      ]
+    },
+    {
+      "section": "2. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

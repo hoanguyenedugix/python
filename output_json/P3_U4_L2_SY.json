@@ -1,0 +1,117 @@
+{
+  "lesson": {
+    "id": 25
+  },
+  "lessonOverview": {
+    "title": "Unit 4 - Lesson 2",
+    "topic": "What They Do",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 37-38",
+        "activities": [
+          {
+            "name": "Activity A - Page 37"
+          },
+          {
+            "name": "Activity B - Page 37"
+          },
+          {
+            "name": "Activity Speaking - Page 38"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 91",
+        "activities": [
+          {
+            "name": "Activity A - Page 91"
+          },
+          {
+            "name": "Activity B - Page 91"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 92",
+      "materials": [
+        "Flashcards Unit 4 Lesson 2",
+        "Paperclip per pair"
+      ]
+    },
+    "vocabulary": [
+      "fly planes",
+      "take care of teeth",
+      "take pictures",
+      "deliver letters",
+      "repair cars",
+      "design buildings"
+    ],
+    "structures": [
+      "A: What do pilots do?",
+      "B: They fly planes."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six job roles (fly planes, take care of teeth, take pictures, deliver letters, repair cars, design buildings) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Match job titles with job roles on the board: “fly planes – pilot”. Students match SB images to actions through a simple matching line task."
+      ],
+      "stretchStrategies": [
+        "Students work in pairs to make a mini “Jobs & Roles Poster.” They draw or choose two jobs and write what they do (e.g., “Dentists take care of teeth.”). Then share with the class."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about job roles using “What do (job plural) do?” and respond with “They...”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Group quiz: Show a job (e.g., architect). Ask: “What do architects do?” Group says: “They design buildings.” Rotate roles quickly."
+      ],
+      "stretchStrategies": [
+        "Students work in pairs to make a mini “Jobs & Roles Poster.” They draw or choose two jobs and write what they do (e.g., “Dentists take care of teeth.”). Then share with the class."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “What do ___ do?” / “They ___.” to talk about job roles.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Display “What do ___ do? – They ___.” on board. Students fill in a mini worksheet using job roles and job names from SB."
+      ],
+      "stretchStrategies": [
+        "Students work in pairs to make a mini “Jobs & Roles Poster.” They draw or choose two jobs and write what they do (e.g., “Dentists take care of teeth.”). Then share with the class."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "3. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

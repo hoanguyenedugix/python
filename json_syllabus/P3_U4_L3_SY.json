@@ -1,0 +1,106 @@
+{
+  "lesson": {
+    "id": 26
+  },
+  "lessonOverview": {
+    "title": "Unit 4 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 39-40",
+        "activities": [
+          {
+            "name": "Activity A - Page 39"
+          },
+          {
+            "name": "Activity B - Page 39"
+          },
+          {
+            "name": "Activity Tongue twisters - Page 40"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 93",
+        "activities": [
+          {
+            "name": "Activity A - Page 93"
+          },
+          {
+            "name": "Activity B - Page 93"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 94",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: ar, or"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters, jobs, and job roles mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Pre-teach key job words before playing the story. Students tick jobs/roles they hear using a printed or SB checklist."
+      ],
+      "stretchStrategies": [
+        "After reading, students rewrite the story ending with a “new job” for one character. They act it out and explain what the new job role is."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Assign story roles. Students rehearse with books, then perform without them. Ask follow-up questions about job roles in the story."
+      ],
+      "stretchStrategies": [
+        "After reading, students rewrite the story ending with a “new job” for one character. They act it out and explain what the new job role is."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or performing it.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Pause story before ending. Ask: “What happens next in their job?” Students draw the final page and share it with a partner."
+      ],
+      "stretchStrategies": [
+        "After reading, students rewrite the story ending with a “new job” for one character. They act it out and explain what the new job role is."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "3. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

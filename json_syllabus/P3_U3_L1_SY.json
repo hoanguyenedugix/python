@@ -1,0 +1,127 @@
+{
+  "lesson": {
+    "id": 17
+  },
+  "lessonOverview": {
+    "title": "Unit 3 - Lesson 1",
+    "topic": "Fruit & Vegetables",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 25-26",
+        "activities": [
+          {
+            "name": "Activity A - Page 25"
+          },
+          {
+            "name": "Activity B - Page 25"
+          },
+          {
+            "name": "Activity C - Page 26"
+          },
+          {
+            "name": "Activity D - Page 26"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 79",
+        "activities": [
+          {
+            "name": "Activity A - Page 79"
+          },
+          {
+            "name": "Activity B - Page 79"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 80",
+      "materials": [
+        "Unit 3 Lesson 1 FCs"
+      ]
+    },
+    "vocabulary": [
+      "grapes",
+      "watermelons",
+      "pumpkins",
+      "mushrooms",
+      "cucumbers",
+      "lemons"
+    ],
+    "structures": [
+      "He’s/She’s got some grapes.",
+      "He/She hasn’t got any mushrooms.",
+      "A: What has he/she got?",
+      "B: He’s/She’s got some cucumbers."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six fruits and vegetables (grapes, watermelons, pumpkins, mushrooms, cucumbers, lemons) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Display fruit/veg flashcards. Say: “He’s got some grapes.” Students point to the picture. Then quiz: “Who’s got lemons?”"
+      ],
+      "stretchStrategies": [
+        "Students design a “Fruit & Veg Menu” in pairs, choosing 4–5 items with sentences like “She’s got some grapes. He hasn’t got any lemons.” They present their menus."
+      ]
+    },
+    {
+      "outcome": "Students can say simple statements about fruits and vegetables using “He’s/She’s got some...” / “He/She hasn’t got any...” and ask and answer questions using “What has he/she got?” / “He’s/She’s got some...”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Use cutout characters. Students ask: “What has she got?” Partner answers with: “She’s got some pumpkins.” Do a mingle activity to ask multiple classmates."
+      ],
+      "stretchStrategies": [
+        "Students design a “Fruit & Veg Menu” in pairs, choosing 4–5 items with sentences like “She’s got some grapes. He hasn’t got any lemons.” They present their menus."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “He’s/She’s got some ___.” / “He/She hasn’t got any ___.” and ask and answer using “What has he/she got?” / “He’s/She’s got some ___.” to talk about fruits and vegetables.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Board match: students sort sentence halves into positive and negative: “He’s got some ___” / “He hasn’t got any ___.” Then practise with realia or flashcards."
+      ],
+      "stretchStrategies": [
+        "Students design a “Fruit & Veg Menu” in pairs, choosing 4–5 items with sentences like “She’s got some grapes. He hasn’t got any lemons.” They present their menus."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric: banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "3. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

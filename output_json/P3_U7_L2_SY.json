@@ -1,0 +1,125 @@
+{
+  "lesson": {
+    "id": 53
+  },
+  "lessonOverview": {
+    "title": "Unit 7 - Lesson 2",
+    "topic": "Class Activities",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 25-26",
+        "activities": [
+          {
+            "name": "Activity A - Page 25"
+          },
+          {
+            "name": "Activity B - Page 25"
+          },
+          {
+            "name": "Activity Speaking - Page 26"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 79",
+        "activities": [
+          {
+            "name": "Activity A - Page 79"
+          },
+          {
+            "name": "Activity B - Page 79"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 80",
+      "materials": [
+        "Unit 7 Lesson 2 FCs",
+        "Memory Game cards"
+      ]
+    },
+    "vocabulary": [
+      "paint pictures",
+      "solve maths problems",
+      "do experiments",
+      "sing songs",
+      "read maps",
+      "play sports"
+    ],
+    "structures": [
+      "A: What do you do in art class?",
+      "B: I paint pictures.",
+      "A: What does he/she do in maths class?",
+      "B: He/She solves maths problems."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six class activities (paint pictures, solve maths problems, do experiments, sing songs, read maps, play sports) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Act out class activities (e.g. pretend to sing, solve maths problems). Students guess: “You’re doing music!” then point to SB image."
+      ],
+      "stretchStrategies": [
+        "Class Fashion Show – Students work in groups. One models while the others describe: “She’s wearing a dress and trainers.” Rotate roles. Adds fun, repetition, and authentic use of target Q&A structures."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about school activities using “What do you do in ___ class?” / “What does he/she do in ___ class?” and respond with “I...” / “He/She...”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) In pairs, show a subject flashcard. Partner asks: “What do you do in ___ class?” Student replies using target language."
+      ],
+      "stretchStrategies": [
+        "Class Fashion Show – Students work in groups. One models while the others describe: “She’s wearing a dress and trainers.” Rotate roles. Adds fun, repetition, and authentic use of target Q&A structures."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “What do you do in ___?” / “What does he/she do in ___?” / “I ___.” / “He/She ___.” to talk about class activities.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Display sentence strips: “What does he do in ___?” / “He paints pictures.” Mix them up—students reorder and practise aloud."
+      ],
+      "stretchStrategies": [
+        "Class Fashion Show – Students work in groups. One models while the others describe: “She’s wearing a dress and trainers.” Rotate roles. Adds fun, repetition, and authentic use of target Q&A structures."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "3. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

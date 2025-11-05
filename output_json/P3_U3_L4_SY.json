@@ -1,0 +1,112 @@
+{
+  "lesson": {
+    "id": 20
+  },
+  "lessonOverview": {
+    "title": "Unit 3 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 31-32",
+        "activities": [
+          {
+            "name": "Activity A - Page 31"
+          },
+          {
+            "name": "Activity B - Page 31"
+          },
+          {
+            "name": "Activity Presentation - Page 32"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 85",
+        "activities": [
+          {
+            "name": "Activity A - Page 85"
+          },
+          {
+            "name": "Activity B - Page 85"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 86",
+      "materials": [
+        "Six bottles per group of four students"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to spoken descriptions and select the correct foods.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Read clues aloud: “It’s yellow. You use it on bread.” Students guess: “It’s butter!” Do this as a game where teams earn points."
+      ],
+      "stretchStrategies": [
+        "Students play “Fridge Mystery Game” in teams. One student secretly chooses 3 foods for their fridge and describes them with hints. Others guess and write: “He’s got some ___.”"
+      ]
+    },
+    {
+      "outcome": "Students can write about what their friends have in their fridges using complete sentences.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Model: “My friend has some grapes and some cheese in her fridge.” Students write about their own friend’s imaginary fridge using the same structure."
+      ],
+      "stretchStrategies": [
+        "Students play “Fridge Mystery Game” in teams. One student secretly chooses 3 foods for their fridge and describes them with hints. Others guess and write: “He’s got some ___.”"
+      ]
+    },
+    {
+      "outcome": "Students can present what their friends have in their fridges to the class using complete sentences.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Presentation) Students create a mini poster with a fridge picture and list 4–5 foods inside. Present using full sentences."
+      ],
+      "stretchStrategies": [
+        "Students play “Fridge Mystery Game” in teams. One student secretly chooses 3 foods for their fridge and describes them with hints. Others guess and write: “He’s got some ___.”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric: banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "3. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

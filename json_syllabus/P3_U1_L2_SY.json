@@ -1,0 +1,132 @@
+{
+  "lesson": {
+    "id": 3
+  },
+  "lessonOverview": {
+    "title": "Unit 1 - Lesson 2",
+    "topic": "Beach Activities ",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 5-6",
+        "activities": [
+          {
+            "name": "Activity A - Page 5"
+          },
+          {
+            "name": "Activity B - Page 5"
+          },
+          {
+            "name": "Activity Speaking - Page 6"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 59",
+        "activities": [
+          {
+            "name": "Activity A - Page 59"
+          },
+          {
+            "name": "Activity B - Page 59"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 60",
+      "materials": [
+        "Unit 1 Lesson 2 FCs",
+        "Coin per pair"
+      ]
+    },
+    "vocabulary": [
+      "make sandcastles",
+      "play Frisbee",
+      "eat ice cream",
+      "collect",
+      "shells",
+      "explore rock pools",
+      "have a picnic"
+    ],
+    "structures": [
+      "A: What do you do at the beach?",
+      "B: I make sandcastles.",
+      "A: What does he/she do at the beach?",
+      "B: He/She collects shells."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six beach activities (make sandcastles, play Frisbee, eat ice cream, collect shells, explore rock pools, have a picnic) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Mime beach activities (e.g., making a sandcastle). Students guess and name the activity. Then write it in their notebooks."
+      ],
+      "stretchStrategies": [
+        "Students role-play “A Day at the Beach,” sequencing 3 activities they and a friend do, then present it to another pair."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about beach activities using “What do you do at the beach?” / “What does he/she do at the beach?” and respond with “I...” / “He/She...”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Pair Q&A: “What do you do at the beach?” / “I collect shells.” Swap partners after 2 questions."
+      ],
+      "stretchStrategies": [
+        "Students role-play “A Day at the Beach,” sequencing 3 activities they and a friend do, then present it to another pair."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “What do you do at the beach?” / “What does he/she do at the beach?” / “I ___.” / “He/She ___.” to talk about beach activities.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Board drill: teacher gives a prompt card (e.g., “he / play Frisbee”), students form and say: “He plays Frisbee.”"
+      ],
+      "stretchStrategies": [
+        "Students role-play “A Day at the Beach,” sequencing 3 activities they and a friend do, then present it to another pair."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "3. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Holidays and travel:",
+      "items": [
+        "Certain common holiday activities are less likely to overlap with those of Western kids (eating seafood at the beach, going on tours in large groups)"
+      ]
+    },
+    {
+      "section": "6. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

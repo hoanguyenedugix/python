@@ -1,0 +1,104 @@
+{
+  "lesson": {
+    "id": 62
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 39-40",
+        "activities": [
+          {
+            "name": "Activity A - Page 39"
+          },
+          {
+            "name": "Activity B - Page 39"
+          },
+          {
+            "name": "Activity Presentation - Page 40"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 93",
+        "activities": [
+          {
+            "name": "Activity A - Page 93"
+          },
+          {
+            "name": "Activity B - Page 93"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 94",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to spoken descriptions and select the correct places and ways to travel.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say: “It’s between the post office and the bakery.” Students point to or circle the place on a printed town map."
+      ],
+      "stretchStrategies": [
+        "My Town, My Travel – Students design a mini “my town” map in groups. They write and share 2–3 sentences: “I go to the bank by bike.” “The pet shop is next to the hospital.” Adds creativity + personalised use of grammar."
+      ]
+    },
+    {
+      "outcome": "Students can write about places in their town and how they travel to them using complete sentences.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Provide sentence starters on the board: “I go to the ___ by ___.” Students complete 2–3 sentences in notebooks or mini whiteboards."
+      ],
+      "stretchStrategies": [
+        "My Town, My Travel – Students design a mini “my town” map in groups. They write and share 2–3 sentences: “I go to the bank by bike.” “The pet shop is next to the hospital.” Adds creativity + personalised use of grammar."
+      ]
+    },
+    {
+      "outcome": "Students can present about their town and how they travel to different places using complete sentences.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Collaboration) In groups, students draw a simple town map and present how they get to each place using target sentences."
+      ],
+      "stretchStrategies": [
+        "My Town, My Travel – Students design a mini “my town” map in groups. They write and share 2–3 sentences: “I go to the bank by bike.” “The pet shop is next to the hospital.” Adds creativity + personalised use of grammar."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Things around town:",
+      "items": [
+        "Certain common places will not overlap in style or popular concept with their Western equivalents (fire station, post office, bakery, library), whereas others are more comparable (hair salon, shopping centre)"
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

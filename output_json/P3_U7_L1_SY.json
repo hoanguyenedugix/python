@@ -1,0 +1,127 @@
+{
+  "lesson": {
+    "id": 52
+  },
+  "lessonOverview": {
+    "title": "Unit 7 - Lesson 1",
+    "topic": "School Subjects",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 23-24",
+        "activities": [
+          {
+            "name": "Activity A - Page 23"
+          },
+          {
+            "name": "Activity B - Page 23"
+          },
+          {
+            "name": "Activity C - Page 24"
+          },
+          {
+            "name": "Activity D - Page 24"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 77",
+        "activities": [
+          {
+            "name": "Activity A - Page 77"
+          },
+          {
+            "name": "Activity B - Page 77"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 78",
+      "materials": [
+        "Unit 7 Lesson 1 FCs"
+      ]
+    },
+    "vocabulary": [
+      "art",
+      "maths",
+      "science",
+      "music",
+      "social studies",
+      "PE"
+    ],
+    "structures": [
+      "A: When have you got PE?",
+      "B: I’ve got PE on Friday.",
+      "A: When has he/she got music?",
+      "B: He’s/She’s got music on Monday."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six school subjects (art, maths, science, music, social studies, PE) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Show subject flashcards. Play “Fast Point”: T says “Maths!”—students point to the correct image on the board or in their SB."
+      ],
+      "stretchStrategies": [
+        "Lost & Found Roleplay – Create a “lost property desk” in class. One student is the staff member, others come up asking: “Whose watch is this?” “It’s Lan’s.” Use objects/cards to practise vocab + speaking + grammar in context."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about school subjects using “When have you got...?” / “When has he/she got...?” and respond with “I’ve got... on (day).” / “He’s/She’s got... on (day).”",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Do a mingle: Students walk and ask “When have you got PE?” Partners answer and record one answer on their timetable sheet."
+      ],
+      "stretchStrategies": [
+        "Lost & Found Roleplay – Create a “lost property desk” in class. One student is the staff member, others come up asking: “Whose watch is this?” “It’s Lan’s.” Use objects/cards to practise vocab + speaking + grammar in context."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “When have you got ___?” / “When has he/she got ___?” / “I’ve got ___ on ___.” / “He’s/She’s got ___ on ___.” to talk about school subjects.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write a weekly timetable on the board. Ask Qs: “When has Anna got music?” Students respond using full sentence frames."
+      ],
+      "stretchStrategies": [
+        "Lost & Found Roleplay – Create a “lost property desk” in class. One student is the staff member, others come up asking: “Whose watch is this?” “It’s Lan’s.” Use objects/cards to practise vocab + speaking + grammar in context."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "3. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

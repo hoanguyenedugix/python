@@ -1,0 +1,118 @@
+{
+  "lesson": {
+    "id": 4
+  },
+  "lessonOverview": {
+    "title": "Unit 1 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 7-8",
+        "activities": [
+          {
+            "name": "Activity A - Page 7"
+          },
+          {
+            "name": "Activity B - Page 7"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 8"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 61",
+        "activities": [
+          {
+            "name": "Activity A - Page 61"
+          },
+          {
+            "name": "Activity B - Page 61"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 62",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: a_e, i_e"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters, sea animals, and activities mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before playing story, pre-teach 5–6 key nouns/verbs. Students listen and tick them on a checklist as they hear them."
+      ],
+      "stretchStrategies": [
+        "Students work in groups to extend the story by adding one new sea animal and one new activity, then share a mini performance."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Give students role cards from the story. In groups, they practise and perform with support from the SB text."
+      ],
+      "stretchStrategies": [
+        "Students work in groups to extend the story by adding one new sea animal and one new activity, then share a mini performance."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or performing it.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Ask: “What could happen next?” Students write or draw a new ending, then share in pairs or small groups."
+      ],
+      "stretchStrategies": [
+        "Students work in groups to extend the story by adding one new sea animal and one new activity, then share a mini performance."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "3. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Holidays and travel:",
+      "items": [
+        "Certain common holiday activities are less likely to overlap with those of Western kids (eating seafood at the beach, going on tours in large groups)"
+      ]
+    },
+    {
+      "section": "6. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

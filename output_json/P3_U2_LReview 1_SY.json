@@ -1,0 +1,93 @@
+{"lesson": {
+   "id": 16
+ },
+ "lessonOverview": {
+   "title": "Review 1",
+   "topic": "",
+   "resources": {
+     "studentBook": {
+       "pages": "Page 23-24",
+       "activities": [
+         {
+           "name": "Activity A - Page 23"
+         },
+         {
+           "name": "Activity B - Page 23"
+         },
+         {
+           "name": "Activity C - Page 24"
+         },
+         {
+           "name": "Activity D - Page 24"
+         }
+       ]
+     },
+     "activityBook": {
+       "pages": "Page 77",
+       "activities": [
+         {
+           "name": "Activity A - Page 77"
+         },
+         {
+           "name": "Activity B - Page 77"
+         }
+       ]
+     },
+     "phonicsBook": {
+       "pages": "",
+       "activities": []
+     },
+     "homework": "AB 78",
+     "materials": []
+   },
+   "vocabulary": [],
+   "structures": [],
+   "phonics": []
+ },
+ "lessonOutcomes": [
+   {
+     "outcome": "Students can read and understand a text containing the units' target language.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Reading) Before reading, write 3–4 key vocabulary items from recent units on the board. Students scan the text and circle the words they find."
+     ],
+     "stretchStrategies": []
+   },
+   {
+     "outcome": "Students can listen and identify the units' target language correctly.",
+     "category": "Communication",
+     "supportStrategies": [
+       "(Listening) Play short chunks of the review audio. After each, ask: “What word did you hear?” Students point to matching picture or write it down."
+     ],
+     "stretchStrategies": []
+   },
+   {
+     "outcome": "Students can reflect on their learning across the units and say what they can do. "I can say colours. I know toys..."",
+     "category": "Learning to Learn",
+     "supportStrategies": [
+       "(Reflection) Draw a mind map on the board with topics (e.g., food, transport, school). Students suggest words or sentences they remember for each."
+     ],
+     "stretchStrategies": []
+   }
+ ],
+ "languageTransferAnalysis": [
+   {
+     "section": "1. Consonant clusters:",
+     "items": [
+       "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+     ]
+   },
+   {
+     "section": "2. Unstressed vowels (schwa):",
+     "items": [
+       "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+     ]
+   },
+   {
+     "section": "3. Contractions:",
+     "items": [
+       "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+     ]
+   }
+ ],
+ "lessonPlan": null}

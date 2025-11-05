@@ -1,0 +1,114 @@
+{
+  "lesson": {
+    "id": 46
+  },
+  "lessonOverview": {
+    "title": "Unit 6 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 15-16",
+        "activities": [
+          {
+            "name": "Activity A - Page 15"
+          },
+          {
+            "name": "Activity B - Page 15"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 16"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 69",
+        "activities": [
+          {
+            "name": "Activity A - Page 69"
+          },
+          {
+            "name": "Activity B - Page 69"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 70",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: ai, ay"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters and clothes mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before the story, predict: “What clothes will we hear?” Write guesses on the board. After listening, tick which ones were correct."
+      ],
+      "stretchStrategies": [
+        "Story Remix – After acting out the story, groups create an extra scene where one character changes appearance (e.g., grows old, gets curly hair). They draw or perform the new scene, using target language. Builds listening + speaking + creativity."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Group read the story aloud with roles. Ask: “What’s he wearing in the story?” Students answer with full sentences."
+      ],
+      "stretchStrategies": [
+        "Story Remix – After acting out the story, groups create an extra scene where one character changes appearance (e.g., grows old, gets curly hair). They draw or perform the new scene, using target language. Builds listening + speaking + creativity."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or performing it.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Pause before the final page. Ask: “What happens next?” In groups, students draw and describe the new ending."
+      ],
+      "stretchStrategies": [
+        "Story Remix – After acting out the story, groups create an extra scene where one character changes appearance (e.g., grows old, gets curly hair). They draw or perform the new scene, using target language. Builds listening + speaking + creativity."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "2. Present continuous:",
+      "items": [
+        "form:",
+        "The -ing is often forgotten. Vietnamese does not have different forms of the same verb. I like eat rice."
+      ]
+    },
+    {
+      "section": "3. Clothing:",
+      "items": [
+        "VYL: many words starting in sibilants prove extremely difficult (shirt, shorts, socks, shoes). Plurals for singular items (trousers, shorts)"
+      ]
+    },
+    {
+      "section": "4. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "5. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    },
+    {
+      "section": "6. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

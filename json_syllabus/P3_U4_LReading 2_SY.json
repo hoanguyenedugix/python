@@ -1,0 +1,54 @@
+{
+  "lesson": {
+    "id": 36
+  },
+  "lessonOverview": {
+    "title": "Reader 2",
+    "topic": "Reader 2",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Reader 2 CPT",
+        "Reader 2 worksheets",
+        "Book: Jack and the Beanstalk"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can prepare and perform a short scene from the story using clear speech and expressive body language.",
+      "category": "Communication",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can collaborate in groups to assign roles, create props or costumes, and perform with confidence in front of others.",
+      "category": "Future Skills",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can recognise their own strengths in group work, show appreciation for classmates’ efforts, and reflect on the importance of teamwork and participation.",
+      "category": "SEL",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

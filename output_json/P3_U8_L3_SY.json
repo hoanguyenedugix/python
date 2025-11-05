@@ -1,0 +1,106 @@
+{
+  "lesson": {
+    "id": 61
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 37-38",
+        "activities": [
+          {
+            "name": "Activity A - Page 37"
+          },
+          {
+            "name": "Activity B - Page 37"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 38"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 91",
+        "activities": [
+          {
+            "name": "Activity A - Page 91"
+          },
+          {
+            "name": "Activity B - Page 91"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 92",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: ie, y"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters, locations, and ways to travel mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before listening, write “bank,” “bus,” “walk,” and other key words on the board. Students listen and circle which ones they hear."
+      ],
+      "stretchStrategies": [
+        "Story Map Rebuild – After acting the story, students work in groups to redraw the journey of the characters on a blank map, adding who went where and how (on foot, by bus). Groups present their map version."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Assign roles in the story. Students act out using props or flashcards and then ask/answer questions about transport used."
+      ],
+      "stretchStrategies": [
+        "Story Map Rebuild – After acting the story, students work in groups to redraw the journey of the characters on a blank map, adding who went where and how (on foot, by bus). Groups present their map version."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or performing it.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Pause the story before the end. Ask: “What happens next?” Students draw and present their own endings."
+      ],
+      "stretchStrategies": [
+        "Story Map Rebuild – After acting the story, students work in groups to redraw the journey of the characters on a blank map, adding who went where and how (on foot, by bus). Groups present their map version."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Things around town:",
+      "items": [
+        "Certain common places will not overlap in style or popular concept with their Western equivalents (fire station, post office, bakery, library), whereas others are more comparable (hair salon, shopping centre)"
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

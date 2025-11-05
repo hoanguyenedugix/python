@@ -1,0 +1,66 @@
+{
+  "lesson": {
+    "id": 1
+  },
+  "lessonOverview": {
+    "title": "Unit 0 - Starter",
+    "topic": "Starter",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 1-2",
+        "activities": [
+          {
+            "name": "Activity A - Page 1"
+          },
+          {
+            "name": "Activity B - Page 1"
+          },
+          {
+            "name": "Activity C - Page 2"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 103-104",
+        "activities": [
+          {
+            "name": "Activity A - Page 103"
+          },
+          {
+            "name": "Activity B - Page 103"
+          },
+          {
+            "name": "Activity A - Page 104"
+          },
+          {
+            "name": "Activity B - Page 104"
+          }
+        ]
+      },
+      "homework": null,
+      "materials": [
+        "Starter FCs"
+      ]
+    },
+    "vocabulary": [
+      "Monday-Sunday",
+      "spring",
+      "summer",
+      "autumn",
+      "winter",
+      "1st-20th"
+    ],
+    "structures": [
+      "A: What day is it today?",
+      "B: It’s Monday."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

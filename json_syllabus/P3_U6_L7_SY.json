@@ -1,0 +1,98 @@
+{
+  "lesson": {
+    "id": 50
+  },
+  "lessonOverview": {
+    "title": "Unit 6 - Lesson 7",
+    "topic": "Unit Test & Video",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Unit 6 Project Gallery",
+        "Unit 6 Video"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a video and answer comprehension questions about clothes in Ghana.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before the video, ask: “What clothes do you think people wear in Ghana?” Write guesses, then confirm during listening."
+      ],
+      "stretchStrategies": [
+        "Family Web Debate – After watching the video, groups make a “family web” chart comparing Sam’s family and their own. Then discuss: “Why are families important?” Groups write one reason on a sticky note, place on class board, and vote on strongest ideas. Blends listening, social studies, and critical thinking."
+      ]
+    },
+    {
+      "outcome": "Students can explain how clothing in Ghana is similar to or different from their own clothing.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Compare clothing using a T-chart: Ghana vs. Vietnam. Ask: “What’s similar?” “What’s different?” Use SB visuals."
+      ],
+      "stretchStrategies": [
+        "Family Web Debate – After watching the video, groups make a “family web” chart comparing Sam’s family and their own. Then discuss: “Why are families important?” Groups write one reason on a sticky note, place on class board, and vote on strongest ideas. Blends listening, social studies, and critical thinking."
+      ]
+    },
+    {
+      "outcome": "Students can politely listen to others and share opinions about what to do with old clothes.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Discussion) Ask: “What can we do with old clothes?” Brainstorm ideas on the board (give, reuse, recycle) and vote as a class."
+      ],
+      "stretchStrategies": [
+        "Family Web Debate – After watching the video, groups make a “family web” chart comparing Sam’s family and their own. Then discuss: “Why are families important?” Groups write one reason on a sticky note, place on class board, and vote on strongest ideas. Blends listening, social studies, and critical thinking."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "2. Present continuous:",
+      "items": [
+        "form:",
+        "The -ing is often forgotten. Vietnamese does not have different forms of the same verb. I like eat rice."
+      ]
+    },
+    {
+      "section": "3. Clothing:",
+      "items": [
+        "VYL: many words starting in sibilants prove extremely difficult (shirt, shorts, socks, shoes). Plurals for singular items (trousers, shorts)"
+      ]
+    },
+    {
+      "section": "4. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "5. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    },
+    {
+      "section": "6. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

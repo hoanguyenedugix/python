@@ -1,0 +1,90 @@
+{
+  "lesson": {
+    "id": 65
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 7",
+    "topic": "Unit Test & Video",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Unit 8 Project Gallery",
+        "Unit 8 Video"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a video and answer comprehension questions about crazy forms of transport.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Write 3 preview Qs on the board (e.g., “What crazy vehicle do you see?”). Students answer as they watch, then discuss in pairs."
+      ],
+      "stretchStrategies": [
+        "Crazy Transport Expo – After the video, groups design and draw their own “crazy transport.” They label it, explain how it works, and where it can go. Groups present in an expo-style walk-around, using unit Q&A language."
+      ]
+    },
+    {
+      "outcome": "Students can learn about unique types of transport and compare them to transport they use.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Science) Show 3 images of transport types. Ask: “Which one is good for animals/the planet?” Discuss why in small groups."
+      ],
+      "stretchStrategies": [
+        "Crazy Transport Expo – After the video, groups design and draw their own “crazy transport.” They label it, explain how it works, and where it can go. Groups present in an expo-style walk-around, using unit Q&A language."
+      ]
+    },
+    {
+      "outcome": "Students can think creatively about what kind of crazy transport they’d like to invent and discuss how transport could be improved for the planet and animals.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Critical Thinking) Ask: “What crazy transport would you make?” Students draw and describe using 1–2 full sentences."
+      ],
+      "stretchStrategies": [
+        "Crazy Transport Expo – After the video, groups design and draw their own “crazy transport.” They label it, explain how it works, and where it can go. Groups present in an expo-style walk-around, using unit Q&A language."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Things around town:",
+      "items": [
+        "Certain common places will not overlap in style or popular concept with their Western equivalents (fire station, post office, bakery, library), whereas others are more comparable (hair salon, shopping centre)"
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

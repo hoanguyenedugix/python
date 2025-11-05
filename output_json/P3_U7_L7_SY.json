@@ -1,0 +1,96 @@
+{
+  "lesson": {
+    "id": 58
+  },
+  "lessonOverview": {
+    "title": "Unit 7 - Lesson 7",
+    "topic": "Unit Test & Video",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Unit 7 Project Gallery",
+        "Unit 7 Video"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a video and answer comprehension questions about school life in the past.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before watching, predict: “What was school like in the past?” Watch in short chunks and tick what was true."
+      ],
+      "stretchStrategies": [
+        "Clothing Culture Gallery – After watching the Ghana video, students create mini posters comparing Ghana and Vietnam clothing. Add 1 idea for recycling clothes. Posters are displayed gallery-style, and students walk around asking: “What’s different?” “What can we do with old clothes?”"
+      ]
+    },
+    {
+      "outcome": "Students can understand and explain how school life is different now compared to the past.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) T-chart on the board: “Past” and “Now.” Students list 2 differences after the video, then share as a class."
+      ],
+      "stretchStrategies": [
+        "Clothing Culture Gallery – After watching the Ghana video, students create mini posters comparing Ghana and Vietnam clothing. Add 1 idea for recycling clothes. Posters are displayed gallery-style, and students walk around asking: “What’s different?” “What can we do with old clothes?”"
+      ]
+    },
+    {
+      "outcome": "Students can politely share opinions and discuss why some children still don’t go to school and how that affects their future.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Discussion) Ask: “Why do some kids not go to school today?” Students pair and share ideas, then write one as a class response."
+      ],
+      "stretchStrategies": [
+        "Clothing Culture Gallery – After watching the Ghana video, students create mini posters comparing Ghana and Vietnam clothing. Add 1 idea for recycling clothes. Posters are displayed gallery-style, and students walk around asking: “What’s different?” “What can we do with old clothes?”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "3. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

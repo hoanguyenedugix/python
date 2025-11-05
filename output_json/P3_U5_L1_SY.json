@@ -1,0 +1,115 @@
+{
+  "lesson": {
+    "id": 37
+  },
+  "lessonOverview": {
+    "title": "Unit 5 - Lesson 1",
+    "topic": "Appearance",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 1-2",
+        "activities": [
+          {
+            "name": "Activity A - Page 1"
+          },
+          {
+            "name": "Activity B - Page 1"
+          },
+          {
+            "name": "Activity C - Page 2"
+          },
+          {
+            "name": "Activity D - Page 2"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 55",
+        "activities": [
+          {
+            "name": "Activity A - Page 55"
+          },
+          {
+            "name": "Activity B - Page 55"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 56",
+      "materials": [
+        "Unit 5 Lesson 1 FCs"
+      ]
+    },
+    "vocabulary": [
+      "tall",
+      "short",
+      "pretty",
+      "handsome",
+      "old",
+      "young"
+    ],
+    "structures": [
+      "A: Is he/she tall?",
+      "B: Yes, he/she is. / No, he/she isn’t. He’s/She’s short.",
+      "A: Are they tall?",
+      "B: Yes, they are. / No, they aren’t. They’re short."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six appearance adjectives (tall, short, pretty, handsome, old, young) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Show flashcards of people with different appearances. Students match adjectives from the board (e.g., tall, old) to the pictures."
+      ],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about appearance using “Is he/she ___?” / “Are they ___?” and respond with “Yes, he/she is.” / “No, he/she isn’t. He’s/She’s ___.” or “Yes, they are.” / “No, they aren’t. They’re ___.”",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Pair work: Show a classmate card. Ask: “Is he short?” Partner responds using full sentence: “No, he isn’t. He’s tall.” Swap roles."
+      ],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can use the target structures “Is he/she ___?” / “Yes, he/she is.” / “No, he/she isn’t. He’s/She’s ___.” and “Are they ___?” / “Yes, they are.” / “No, they aren’t. They’re ___.” to talk about appearance.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write questions: “Is she…?” / “Are they…?” on the board. Use two puppet props or pictures for modelling and practice in groups."
+      ],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Adjective-noun ordering:",
+      "items": [
+        "Tóc dài >> hair long [long hair]"
+      ]
+    },
+    {
+      "section": "2. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

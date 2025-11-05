@@ -1,0 +1,123 @@
+{
+  "lesson": {
+    "id": 49
+  },
+  "lessonOverview": {
+    "title": "Unit 6 - Lesson 6",
+    "topic": "Grammar & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 20",
+        "activities": [
+          {
+            "name": "Activity A - Page 20"
+          },
+          {
+            "name": "Activity B - Page 20"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 110-112",
+        "activities": [
+          {
+            "name": "Activity A - Page 110"
+          },
+          {
+            "name": "Activity B - Page 110"
+          },
+          {
+            "name": "Activity A - Page 111"
+          },
+          {
+            "name": "Activity B - Page 111"
+          },
+          {
+            "name": "Activity C - Page 112"
+          },
+          {
+            "name": "Activity D - Page 112"
+          }
+        ]
+      },
+      "homework": "AB 74",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "tch, ch, dg"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can revise the question word “Whose” and recognise its usage in possessive structures.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write four example sentences on the board, some correct, some incorrect (e.g., “Whose are this?”). Students correct them in pairs."
+      ],
+      "stretchStrategies": [
+        "Adjective Interview – Students pair up and interview each other about a family member or friend. Qs: “What does he/she look like?” “What’s he/she like?” Write 3–4 sentences and share. Mixes grammar, writing, and speaking practice."
+      ]
+    },
+    {
+      "outcome": "Students can write questions and answers using “Whose” accurately.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Display the question “Whose ___ is this?” Students create 3 short Q&A sentences using SB visuals or flashcards."
+      ],
+      "stretchStrategies": [
+        "Adjective Interview – Students pair up and interview each other about a family member or friend. Qs: “What does he/she look like?” “What’s he/she like?” Write 3–4 sentences and share. Mixes grammar, writing, and speaking practice."
+      ]
+    },
+    {
+      "outcome": "Students can pronounce words with the “-tch”, “-ch”, and “-dg” sounds correctly.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Dictate: “match, badge, cheese, watch.” Students write, underline the sounds, and say aloud in pairs."
+      ],
+      "stretchStrategies": [
+        "Adjective Interview – Students pair up and interview each other about a family member or friend. Qs: “What does he/she look like?” “What’s he/she like?” Write 3–4 sentences and share. Mixes grammar, writing, and speaking practice."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "2. Present continuous:",
+      "items": [
+        "form:",
+        "The -ing is often forgotten. Vietnamese does not have different forms of the same verb. I like eat rice."
+      ]
+    },
+    {
+      "section": "3. Clothing:",
+      "items": [
+        "VYL: many words starting in sibilants prove extremely difficult (shirt, shorts, socks, shoes). Plurals for singular items (trousers, shorts)"
+      ]
+    },
+    {
+      "section": "4. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "5. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    },
+    {
+      "section": "6. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

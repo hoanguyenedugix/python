@@ -1,0 +1,113 @@
+{
+  "lesson": {
+    "id": 64
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 6",
+    "topic": "Grammar & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 42",
+        "activities": [
+          {
+            "name": "Activity A - Page 42"
+          },
+          {
+            "name": "Activity B - Page 42"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 122-124",
+        "activities": [
+          {
+            "name": "Activity A - Page 122"
+          },
+          {
+            "name": "Activity B - Page 122"
+          },
+          {
+            "name": "Activity A - Page 123"
+          },
+          {
+            "name": "Activity B - Page 123"
+          },
+          {
+            "name": "Activity C - Page 124"
+          },
+          {
+            "name": "Activity D - Page 124"
+          }
+        ]
+      },
+      "homework": "AB 96",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can revise and correctly use prepositions of place (e.g., next to, in front of, behind, between).",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Use a classroom object setup. Ask: “Where’s the pencil case?” Students respond with “It’s next to the board.” Practice with real items."
+      ],
+      "stretchStrategies": [
+        "Classroom Preposition Maze – Rearrange classroom items into a mini “town.” In pairs, one student hides an object, then guides partner: “It’s behind the chair, next to the bag.” Partner follows to find it. Adds movement + grammar focus."
+      ]
+    },
+    {
+      "outcome": "Students can complete sentences using correct prepositions of place.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Model on the board: “The ___ is ___ the ___.” Students write 3 sentences using visuals from the SB or classroom setup."
+      ],
+      "stretchStrategies": [
+        "Classroom Preposition Maze – Rearrange classroom items into a mini “town.” In pairs, one student hides an object, then guides partner: “It’s behind the chair, next to the bag.” Partner follows to find it. Adds movement + grammar focus."
+      ]
+    },
+    {
+      "outcome": "Students can pronounce words with a range of phonics sounds clearly and accurately.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say words like “boy, air, match, juice.” Students listen and hold up phoneme cards or sort into categories on the board."
+      ],
+      "stretchStrategies": [
+        "Classroom Preposition Maze – Rearrange classroom items into a mini “town.” In pairs, one student hides an object, then guides partner: “It’s behind the chair, next to the bag.” Partner follows to find it. Adds movement + grammar focus."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Things around town:",
+      "items": [
+        "Certain common places will not overlap in style or popular concept with their Western equivalents (fire station, post office, bakery, library), whereas others are more comparable (hair salon, shopping centre)"
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

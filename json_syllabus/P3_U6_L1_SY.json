@@ -1,0 +1,129 @@
+{
+  "lesson": {
+    "id": 44
+  },
+  "lessonOverview": {
+    "title": "Unit 6 - Lesson 1",
+    "topic": "Objects",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 11-12",
+        "activities": [
+          {
+            "name": "Activity A - Page 11"
+          },
+          {
+            "name": "Activity B - Page 11"
+          },
+          {
+            "name": "Activity C - Page 12"
+          },
+          {
+            "name": "Activity D - Page 12"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 65",
+        "activities": [
+          {
+            "name": "Activity A - Page 65"
+          },
+          {
+            "name": "Activity B - Page 65"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 66",
+      "materials": [
+        "Unit 6 Lesson 1 FCs"
+      ]
+    },
+    "vocabulary": [
+      "mobile phone",
+      "lunchbox",
+      "ring",
+      "watch",
+      "key",
+      "glasses"
+    ],
+    "structures": [
+      "A: Whose lunchbox is this?",
+      "B: It’s Rosa’s lunchbox.",
+      "A: Whose glasses are these?",
+      "B: They’re Tim’s glasses."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six objects (mobile phone, lunchbox, ring, watch, key, glasses) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Play “What’s Missing?” with flashcards (e.g. mobile phone, glasses). Show all, cover one, and ask: “What’s gone?”"
+      ],
+      "stretchStrategies": [
+        "Appearance Detective – Students play a “Who am I?” game. One student secretly chooses a person card, the class asks yes/no questions: “Is he tall?” “Is she young?” until they guess correctly. Builds vocab + grammar Q&A."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about objects using “Whose... is this?” / “Whose... are these?” and respond with “It’s ___’s.” / “They’re ___’s.”",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Use classroom items (real or picture cards). Ask: “Whose is this?” Students answer: “It’s Nam’s watch.” Swap roles in pairs."
+      ],
+      "stretchStrategies": [
+        "Appearance Detective – Students play a “Who am I?” game. One student secretly chooses a person card, the class asks yes/no questions: “Is he tall?” “Is she young?” until they guess correctly. Builds vocab + grammar Q&A."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structures “Whose ___ is this? It’s ___’s ___.” and “Whose ___ are these? They’re ___’s ___.” to talk about possessions.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write question frames on the board: “Whose ___ is this?” and “Whose ___ are these?” Use a mystery box to practise ownership."
+      ],
+      "stretchStrategies": [
+        "Appearance Detective – Students play a “Who am I?” game. One student secretly chooses a person card, the class asks yes/no questions: “Is he tall?” “Is she young?” until they guess correctly. Builds vocab + grammar Q&A."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "2. Present continuous:",
+      "items": [
+        "form:",
+        "The -ing is often forgotten. Vietnamese does not have different forms of the same verb. I like eat rice."
+      ]
+    },
+    {
+      "section": "3. Clothing:",
+      "items": [
+        "VYL: many words starting in sibilants prove extremely difficult (shirt, shorts, socks, shoes). Plurals for singular items (trousers, shorts)"
+      ]
+    },
+    {
+      "section": "4. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "5. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    },
+    {
+      "section": "6. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

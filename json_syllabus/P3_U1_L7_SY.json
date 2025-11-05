@@ -1,0 +1,102 @@
+{
+  "lesson": {
+    "id": 8
+  },
+  "lessonOverview": {
+    "title": "Unit 1 - Lesson 7",
+    "topic": "Unit Test & Video",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Unit 1 Project Gallery",
+        "Unit 1 Video"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a video and answer comprehension questions about Alyssa’s favourite sea animal and beach activities.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Watch short video clips. Pause to ask: “What is Alyssa doing?” Students write or circle answers."
+      ],
+      "stretchStrategies": [
+        "Students create a quick poster or role-play as “Ocean Protectors,” each giving one problem and one solution in a full sentence."
+      ]
+    },
+    {
+      "outcome": "Students can explain how plastic bags and other rubbish can harm sea creatures like turtles.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Science) Show two images: one clean sea, one with rubbish. Ask: “How do animals feel?” Students list 2 dangers and solutions."
+      ],
+      "stretchStrategies": [
+        "Students create a quick poster or role-play as “Ocean Protectors,” each giving one problem and one solution in a full sentence."
+      ]
+    },
+    {
+      "outcome": "Students can discuss why rubbish is harmful to sea animals and suggest creative solutions to reduce pollution.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Critical Thinking) Small group brainstorm: “How can we protect sea animals?” Each group shares one idea with the class."
+      ],
+      "stretchStrategies": [
+        "Students create a quick poster or role-play as “Ocean Protectors,” each giving one problem and one solution in a full sentence."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "3. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Holidays and travel:",
+      "items": [
+        "Certain common holiday activities are less likely to overlap with those of Western kids (eating seafood at the beach, going on tours in large groups)"
+      ]
+    },
+    {
+      "section": "6. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

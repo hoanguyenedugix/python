@@ -1,0 +1,76 @@
+{
+  "lesson": {
+    "id": 66
+  },
+  "lessonOverview": {
+    "title": "Review 4",
+    "topic": "",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 43-44",
+        "activities": [
+          {
+            "name": "Activity A - Page 43"
+          },
+          {
+            "name": "Activity B - Page 43"
+          },
+          {
+            "name": "Activity C - Page 44"
+          },
+          {
+            "name": "Activity D - Page 44"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 97",
+        "activities": [
+          {
+            "name": "Activity A - Page 97"
+          },
+          {
+            "name": "Activity B - Page 97"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can read and understand a text containing the units' target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Before reading, write 3–4 key vocabulary items from recent units on the board. Students scan the text and circle the words they find."
+      ],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can listen and identify the units' target language correctly.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Play short chunks of the review audio. After each, ask: “What word did you hear?” Students point to matching picture or write it down."
+      ],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can reflect on their learning across the units and say what they can do.",
+      "category": "Learning to Learn",
+      "supportStrategies": [
+        "(Reflection) Draw a mind map on the board with topics (e.g., food, transport, school). Students suggest words or sentences they remember for each."
+      ],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

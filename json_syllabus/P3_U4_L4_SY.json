@@ -1,0 +1,104 @@
+{
+  "lesson": {
+    "id": 27
+  },
+  "lessonOverview": {
+    "title": "Unit 4 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 41-42",
+        "activities": [
+          {
+            "name": "Activity A - Page 41"
+          },
+          {
+            "name": "Activity B - Page 41"
+          },
+          {
+            "name": "Activity Presentation - Page 42"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 95",
+        "activities": [
+          {
+            "name": "Activity A - Page 95"
+          },
+          {
+            "name": "Activity B - Page 95"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 96",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to spoken descriptions and select the correct jobs.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Give students three pictures of jobs. Read one job description aloud. Students hold up or point to the correct one."
+      ],
+      "stretchStrategies": [
+        "Students interview 2–3 classmates about what job they want in the future. Then they report back: “She wants to be a ___.” “He wants to be a ___.”"
+      ]
+    },
+    {
+      "outcome": "Students can write about their own and their friends’ future jobs using complete sentences.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Ask students to complete: “I want to be a ___. My friend wants to be a ___.” Display sentence frame on board for reference."
+      ],
+      "stretchStrategies": [
+        "Students interview 2–3 classmates about what job they want in the future. Then they report back: “She wants to be a ___.” “He wants to be a ___.”"
+      ]
+    },
+    {
+      "outcome": "Students can present their friends’ future jobs to the class using complete sentences.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Presentation) Students draw themselves doing their dream job and say 1–2 sentences: “I want to be a ___ because ___.”"
+      ],
+      "stretchStrategies": [
+        "Students interview 2–3 classmates about what job they want in the future. Then they report back: “She wants to be a ___.” “He wants to be a ___.”"
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "3. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

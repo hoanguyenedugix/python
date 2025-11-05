@@ -4,7 +4,7 @@ import json
 import json5  # pip install json5
 
 # === CONFIG ===
-input_file = "Syllabus.txt"   # file đầu vào (.txt)
+input_file = "4. Primary 1 - Syllabus.txt"   # file đầu vào (.txt)
 output_dir = "output_json"
 os.makedirs(output_dir, exist_ok=True)
 
@@ -14,7 +14,8 @@ with open(input_file, "r", encoding="utf-8") as f:
 
 # === TÌM CÁC KHỐI JSON ===
 # Hỗ trợ mọi dạng tiêu đề: P1_U2_LReview 1_SY / P1_U4_LTest: 1A (Listening, Reading, Writing)_SY
-pattern = r"--\s*\d+\.\s*([^\n-]+?)\s*--\s*\{(.*?)\}(?=\s*(--|$))"
+# pattern = r"--\s*\d+\.\s*([^\n-]+?)\s*--\s*\{(.*?)\}(?=\s*(--|$))"
+pattern = r"--\s*\d+\.\s*(.+?)\s*--\s*\{(.*?)\}(?=\s*(--|$))"
 matches = re.findall(pattern, content, flags=re.DOTALL)
 
 print(f"🔍 Found {len(matches)} JSON blocks\n")
@@ -50,7 +51,8 @@ for idx, (raw_name, json_body, _) in enumerate(matches, start=1):
     data = safe_parse_json(json_text)
 
     # Làm sạch tên file (tránh ký tự không hợp lệ trong hệ thống)
-    safe_name = re.sub(r'[\\/:*?"<>|]', "_", file_name)
+    # safe_name = re.sub(r'[\\/:*?"<>|]', "_", file_name)
+    safe_name = re.sub(r'[\\/*?"<>|]'," ", file_name).strip()
     output_path = os.path.join(output_dir, f"{safe_name}.json")
 
     if data is None:

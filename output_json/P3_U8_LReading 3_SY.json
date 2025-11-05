@@ -1,0 +1,54 @@
+{
+  "lesson": {
+    "id": 70
+  },
+  "lessonOverview": {
+    "title": "Reader 3",
+    "topic": "Reader 3",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": [
+        "Reader 3 CPT",
+        "Reader 3 worksheets",
+        "Book: Jack and the Beanstalk"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can reread key scenes, act them out in groups, and complete a story map to organise and retell the main events.",
+      "category": "Communication",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can work creatively with a partner to retell the story using voice, movement, and facial expression to reflect the characters’ feelings.",
+      "category": "Future Skills",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can identify how Jack learns from his choices and explain what lesson they can take away from the story.",
+      "category": "SEL",
+      "supportStrategies": [],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

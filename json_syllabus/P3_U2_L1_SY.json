@@ -1,0 +1,124 @@
+{
+  "lesson": {
+    "id": 9
+  },
+  "lessonOverview": {
+    "title": "Unit 2 - Lesson 1",
+    "topic": "Today's Date",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 13-14",
+        "activities": [
+          {
+            "name": "Activity A - Page 13"
+          },
+          {
+            "name": "Activity B - Page 13"
+          },
+          {
+            "name": "Activity C - Page 14"
+          },
+          {
+            "name": "Activity D - Page 14"
+          },
+          {
+            "name": "Activity E - Page 14"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 67",
+        "activities": [
+          {
+            "name": "Activity A - Page 67"
+          },
+          {
+            "name": "Activity B - Page 67"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 68",
+      "materials": [
+        "Unit 2 Lesson 1 FCs"
+      ]
+    },
+    "vocabulary": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "structures": [
+      "A: What’s the date today?",
+      "B: It’s the 3rd of January.",
+      "A: When is your birthday?",
+      "B: It’s on the 8th of February."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name the twelve months of the year when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Display the months on the board. Say them aloud as students repeat. Then play “Find the Month” – point and say the wrong word for students to correct."
+      ],
+      "stretchStrategies": [
+        "Students create a “Birthday Calendar Wall” by writing their birthdays on sticky notes and arranging them by month, then ask 2–3 classmates about their birthdays."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about dates using “What’s the date today?” and “When is your birthday?” and respond with “It’s the... of...” / “It’s on the... of...”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Pair activity: Students take turns asking “When is your birthday?” and answering with “It’s on the 10th of July.” Use birthday flashcards for support."
+      ],
+      "stretchStrategies": [
+        "Students create a “Birthday Calendar Wall” by writing their birthdays on sticky notes and arranging them by month, then ask 2–3 classmates about their birthdays."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structures “What’s the date today? It’s the ___ of ___.” and “When is your birthday? It’s on the ___ of ___.” to talk about dates.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write model Q&A frames on board: “What’s the date today? – It’s the ___ of ___.” Students complete with today’s date and practise in pairs."
+      ],
+      "stretchStrategies": [
+        "Students create a “Birthday Calendar Wall” by writing their birthdays on sticky notes and arranging them by month, then ask 2–3 classmates about their birthdays."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

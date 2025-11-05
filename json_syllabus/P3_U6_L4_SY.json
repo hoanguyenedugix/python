@@ -1,0 +1,112 @@
+{
+  "lesson": {
+    "id": 47
+  },
+  "lessonOverview": {
+    "title": "Unit 6 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 17-18",
+        "activities": [
+          {
+            "name": "Activity A - Page 17"
+          },
+          {
+            "name": "Activity B - Page 17"
+          },
+          {
+            "name": "Activity Speaking - Page 18"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 71",
+        "activities": [
+          {
+            "name": "Activity A - Page 71"
+          },
+          {
+            "name": "Activity B - Page 71"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 72",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to spoken descriptions and select the correct objects and clothes.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Say: “It’s round. It helps you see.” Students guess: “Glasses!” Play audio and ask them to match descriptions to objects/images."
+      ],
+      "stretchStrategies": [
+        "Future Me Posters – Students draw a poster of themselves in 20 years, label features (“I’ll be tall. I’ll have short hair.”), and present to class. Combines listening to descriptions, writing, and oral presentation."
+      ]
+    },
+    {
+      "outcome": "Students can write answers to questions about people’s possessions and what people are wearing using full sentences.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Write a model sentence on the board: “Whose phone is this? It’s Mai’s.” Students answer 3 similar questions in notebooks using SB images."
+      ],
+      "stretchStrategies": [
+        "Future Me Posters – Students draw a poster of themselves in 20 years, label features (“I’ll be tall. I’ll have short hair.”), and present to class. Combines listening to descriptions, writing, and oral presentation."
+      ]
+    },
+    {
+      "outcome": "Students can work together politely and take turns to complete a collaborative activity.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Collaboration) Students work in pairs. One describes a person’s clothes, the other draws it. Compare and describe drawings together."
+      ],
+      "stretchStrategies": [
+        "Future Me Posters – Students draw a poster of themselves in 20 years, label features (“I’ll be tall. I’ll have short hair.”), and present to class. Combines listening to descriptions, writing, and oral presentation."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "2. Present continuous:",
+      "items": [
+        "form:",
+        "The -ing is often forgotten. Vietnamese does not have different forms of the same verb. I like eat rice."
+      ]
+    },
+    {
+      "section": "3. Clothing:",
+      "items": [
+        "VYL: many words starting in sibilants prove extremely difficult (shirt, shorts, socks, shoes). Plurals for singular items (trousers, shorts)"
+      ]
+    },
+    {
+      "section": "4. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "5. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    },
+    {
+      "section": "6. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

@@ -1,0 +1,119 @@
+{
+  "lesson": {
+    "id": 60
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 2",
+    "topic": "Transport",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 35-36",
+        "activities": [
+          {
+            "name": "Activity A - Page 35"
+          },
+          {
+            "name": "Activity B - Page 35"
+          },
+          {
+            "name": "Activity Speaking - Page 36"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 89",
+        "activities": [
+          {
+            "name": "Activity A - Page 89"
+          },
+          {
+            "name": "Activity B - Page 89"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 90",
+      "materials": [
+        "Flashcards Unit 8 Lesson 2",
+        "Paperclip per pair"
+      ]
+    },
+    "vocabulary": [
+      "by bike",
+      "by motorbike",
+      "by taxi",
+      "by bus",
+      "by car",
+      "on foot"
+    ],
+    "structures": [
+      "A: How do you go there?",
+      "B: I go there by bike.",
+      "A: How does he/she go to the bank?",
+      "B: He/She goes there by motorbike."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six ways to travel (by bike, by motorbike, by taxi, by bus, by car, on foot) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Mime actions for “by bike,” “on foot,” etc. Students guess and say the mode of transport. Then match to SB visuals."
+      ],
+      "stretchStrategies": [
+        "How Do We Get There Relay – Teacher calls out a place: “Hospital!” First student asks: “How do you go there?” Partner answers: “I go there by taxi.” Next pair continues with a new place. Creates a fast-paced speaking chain."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about ways to travel using “How do you go there?” / “How does he/she go to the (place)?” and respond with “I go there by...” / “He/She goes there by...”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Ask: “How do you go to school?” Students answer using “I go there by bus.” Extend by asking about family members."
+      ],
+      "stretchStrategies": [
+        "How Do We Get There Relay – Teacher calls out a place: “Hospital!” First student asks: “How do you go there?” Partner answers: “I go there by taxi.” Next pair continues with a new place. Creates a fast-paced speaking chain."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “How do you go there?” / “How does he/she go to the ___?” / “I go there by ___.” / “He/She goes there by ___.” to talk about transport.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) On the board, write two prompts: “How do you go to ___?” and “I go there by ___.” Practice in pairs using places from the SB."
+      ],
+      "stretchStrategies": [
+        "How Do We Get There Relay – Teacher calls out a place: “Hospital!” First student asks: “How do you go there?” Partner answers: “I go there by taxi.” Next pair continues with a new place. Creates a fast-paced speaking chain."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Things around town:",
+      "items": [
+        "Certain common places will not overlap in style or popular concept with their Western equivalents (fire station, post office, bakery, library), whereas others are more comparable (hair salon, shopping centre)"
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

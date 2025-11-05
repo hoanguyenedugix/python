@@ -1,0 +1,112 @@
+{
+  "lesson": {
+    "id": 19
+  },
+  "lessonOverview": {
+    "title": "Unit 3 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 29-30",
+        "activities": [
+          {
+            "name": "Activity A - Page 29"
+          },
+          {
+            "name": "Activity B - Page 29"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 30"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 83",
+        "activities": [
+          {
+            "name": "Activity A - Page 83"
+          },
+          {
+            "name": "Activity B - Page 83"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 84",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: ee, ea"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters, locations, and foods mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before playing the story, ask: “What foods do you think they’ll talk about?” Students check predictions while listening."
+      ],
+      "stretchStrategies": [
+        "Students change the end of the story by adding a fridge full of food. They act out what the characters eat or cook, using the unit’s target sentences."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Read the story aloud. Assign roles. Students read, then act out using food props or gestures. Finish with simple comprehension Qs."
+      ],
+      "stretchStrategies": [
+        "Students change the end of the story by adding a fridge full of food. They act out what the characters eat or cook, using the unit’s target sentences."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or performing it.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Pause before the story ends. Ask: “What could be in their fridge?” or “What will they cook?” Students draw or explain in pairs."
+      ],
+      "stretchStrategies": [
+        "Students change the end of the story by adding a fridge full of food. They act out what the characters eat or cook, using the unit’s target sentences."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Food:",
+      "items": [
+        "Food in syllabi typically Western-centric: banh mi >> bread"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "3. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

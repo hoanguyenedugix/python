@@ -1,0 +1,100 @@
+{
+  "lesson": {
+    "id": 11
+  },
+  "lessonOverview": {
+    "title": "Unit 2 - Lesson 3",
+    "topic": "Story",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 17-18",
+        "activities": [
+          {
+            "name": "Activity A - Page 17"
+          },
+          {
+            "name": "Activity B - Page 17"
+          },
+          {
+            "name": "Activity Tongue Twisters - Page 18"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 71",
+        "activities": [
+          {
+            "name": "Activity A - Page 71"
+          },
+          {
+            "name": "Activity B - Page 71"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 72",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "Tongue Twisters: ir, er"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to a story and identify key characters, dates, and weather mentioned.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Before listening, ask students to predict the date and weather they might hear. During listening, they check or change their answers."
+      ],
+      "stretchStrategies": [
+        "In groups, students change the story ending by adding a new date and weather, then act out or present the “next chapter” to the class."
+      ]
+    },
+    {
+      "outcome": "Students can read the story aloud, act it out, and answer questions using the target language.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Assign story roles. Students rehearse with SB open, then close books and act out with gestures. Ask follow-up Qs: “What was the weather?”"
+      ],
+      "stretchStrategies": [
+        "In groups, students change the story ending by adding a new date and weather, then act out or present the “next chapter” to the class."
+      ]
+    },
+    {
+      "outcome": "Students can create a simple, imaginative ending to the story by drawing or performing it.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Creativity) Show the final story scene and ask: “What happens next month?” Students draw or write a new scene using date/weather language."
+      ],
+      "stretchStrategies": [
+        "In groups, students change the story ending by adding a new date and weather, then act out or present the “next chapter” to the class."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

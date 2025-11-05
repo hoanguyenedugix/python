@@ -1,0 +1,123 @@
+{
+  "lesson": {
+    "id": 48
+  },
+  "lessonOverview": {
+    "title": "Unit 6 - Lesson 5",
+    "topic": "Skills Up! & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 19",
+        "activities": [
+          {
+            "name": "Activity A - Page 19"
+          },
+          {
+            "name": "Activity B - Page 19"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 107-109",
+        "activities": [
+          {
+            "name": "Activity A - Page 107"
+          },
+          {
+            "name": "Activity B - Page 107"
+          },
+          {
+            "name": "Activity A - Page 108"
+          },
+          {
+            "name": "Activity B - Page 108"
+          },
+          {
+            "name": "Activity A - Page 109"
+          },
+          {
+            "name": "Activity B - Page 109"
+          }
+        ]
+      },
+      "homework": "AB 73",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "tch, ch, dg"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can practise pronouncing words with the “tch”, “ch”, and “dg” sounds accurately.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say: “watch, catch, bridge, match.” Students repeat. Write the endings (-tch, -ch, -dg) on the board. Students sort example words by sound."
+      ],
+      "stretchStrategies": [
+        "Animal Fact Cards – In groups, students design a trading card for one of the animals from the reading. Include: picture, appearance features, what it eats, where it lives. Share cards with another group and ask Qs (“What does it look like?”). Links reading + science + vocab."
+      ]
+    },
+    {
+      "outcome": "Students can read a short text about lost property on the London Underground and find key details such as objects and numbers.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Reading) Read the text together. Ask: “What did people lose?” Students underline key nouns and numbers (e.g., 10 watches, 5 keys)."
+      ],
+      "stretchStrategies": [
+        "Animal Fact Cards – In groups, students design a trading card for one of the animals from the reading. Include: picture, appearance features, what it eats, where it lives. Share cards with another group and ask Qs (“What does it look like?”). Links reading + science + vocab."
+      ]
+    },
+    {
+      "outcome": "Students can learn interesting facts about what people lose on the London Underground.",
+      "category": "Real world learning",
+      "supportStrategies": [
+        "(Social Studies) Ask: “What do people lose in Vietnam?” Students list items and compare with the UK list. Tally as a class."
+      ],
+      "stretchStrategies": [
+        "Animal Fact Cards – In groups, students design a trading card for one of the animals from the reading. Include: picture, appearance features, what it eats, where it lives. Share cards with another group and ask Qs (“What does it look like?”). Links reading + science + vocab."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "2. Present continuous:",
+      "items": [
+        "form:",
+        "The -ing is often forgotten. Vietnamese does not have different forms of the same verb. I like eat rice."
+      ]
+    },
+    {
+      "section": "3. Clothing:",
+      "items": [
+        "VYL: many words starting in sibilants prove extremely difficult (shirt, shorts, socks, shoes). Plurals for singular items (trousers, shorts)"
+      ]
+    },
+    {
+      "section": "4. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "5. Inversion in questions:",
+      "items": [
+        "Bạn muốn ăn gì? >> you want to eat what? [what do you want to eat?]",
+        "This is extremely difficult to master, especially combined with do-support."
+      ]
+    },
+    {
+      "section": "6. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

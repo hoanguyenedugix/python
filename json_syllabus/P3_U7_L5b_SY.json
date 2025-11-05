@@ -1,0 +1,121 @@
+{
+  "lesson": {
+    "id": 57
+  },
+  "lessonOverview": {
+    "title": "Unit 7 - Lesson 6",
+    "topic": "Grammar & Phonics",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 32",
+        "activities": [
+          {
+            "name": "Activity A - Page 32"
+          },
+          {
+            "name": "Activity B - Page 32"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "Page 116-118",
+        "activities": [
+          {
+            "name": "Activity A - Page 116"
+          },
+          {
+            "name": "Activity B - Page 116"
+          },
+          {
+            "name": "Activity A - Page 117"
+          },
+          {
+            "name": "Activity B - Page 117"
+          },
+          {
+            "name": "Activity C - Page 118"
+          },
+          {
+            "name": "Activity D - Page 118"
+          }
+        ]
+      },
+      "homework": "AB 86",
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": [
+      "soft c - ce ci cy, soft g - ge gig y"
+    ]
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can revise prepositions of time (e.g., on, at, in) and identify errors in usage.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write incorrect examples on the board: “on Monday morning,” “at 8 o’clock,” “in Tuesday.” Students correct them in pairs."
+      ],
+      "stretchStrategies": [
+        "Whose Room Mystery – Teacher shows a picture of a messy room with different objects. Students ask and answer: “Whose glasses are these?” “They’re Minh’s.” Extend with writing 2–3 Q&A sentences."
+      ]
+    },
+    {
+      "outcome": "Students can complete a paragraph using the correct prepositions of time.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Sentence scramble: Cut sentence strips with missing prepositions. Students rebuild full, correct sentences in teams."
+      ],
+      "stretchStrategies": [
+        "Whose Room Mystery – Teacher shows a picture of a messy room with different objects. Students ask and answer: “Whose glasses are these?” “They’re Minh’s.” Extend with writing 2–3 Q&A sentences."
+      ]
+    },
+    {
+      "outcome": "Students can pronounce words with the “soft c” and “soft g” sounds clearly and correctly.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Phonics) Say words like “giant,” “juice,” “centre.” Students hold up “g” or “c” cards to identify the soft sound."
+      ],
+      "stretchStrategies": [
+        "Whose Room Mystery – Teacher shows a picture of a messy room with different objects. Students ask and answer: “Whose glasses are these?” “They’re Minh’s.” Extend with writing 2–3 Q&A sentences."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "2. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "3. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

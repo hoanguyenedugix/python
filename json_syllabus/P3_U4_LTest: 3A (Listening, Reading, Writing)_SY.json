@@ -1,0 +1,31 @@
+{
+  "lesson": {
+    "id": 34
+  },
+  "lessonOverview": {
+    "title": "LRW Test",
+    "topic": "P3A: Listening, Reading, Writing Test",
+    "resources": {
+      "studentBook": {
+        "pages": "",
+        "activities": []
+      },
+      "activityBook": {
+        "pages": "",
+        "activities": []
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": null,
+      "materials": []
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [],
+  "languageTransferAnalysis": [],
+  "lessonPlan": null
+}

@@ -1,0 +1,100 @@
+{
+  "lesson": {
+    "id": 12
+  },
+  "lessonOverview": {
+    "title": "Unit 2 - Lesson 4",
+    "topic": "Wrap Up",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 19-20",
+        "activities": [
+          {
+            "name": "Activity A - Page 19"
+          },
+          {
+            "name": "Activity B - Page 19"
+          },
+          {
+            "name": "Activity Speaking - Page 20"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 73",
+        "activities": [
+          {
+            "name": "Activity A - Page 73"
+          },
+          {
+            "name": "Activity B - Page 73"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 74",
+      "materials": [
+        "Coin per pair"
+      ]
+    },
+    "vocabulary": [],
+    "structures": [],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can listen to spoken descriptions and select the correct dates and types of weather.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Listening) Play short weather/date descriptions. Students match each to flashcards or fill in a mini calendar chart with the correct words."
+      ],
+      "stretchStrategies": [
+        "Students play “Mystery Calendar & Weather” where one student describes a date and weather, and others guess and write it in their mini calendar charts."
+      ]
+    },
+    {
+      "outcome": "Students can write answers to questions about dates and weather using complete sentences.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Writing) Provide question prompts: “What’s the date today?” “What’s the weather like?” Students write full-sentence answers using the SB calendar or visuals."
+      ],
+      "stretchStrategies": [
+        "Students play “Mystery Calendar & Weather” where one student describes a date and weather, and others guess and write it in their mini calendar charts."
+      ]
+    },
+    {
+      "outcome": "Students can work together politely and take turns to play a competitive game.",
+      "category": "Future Skills",
+      "supportStrategies": [
+        "(4Cs – Collaboration) Team game: Students race to complete sentences like “It’s ___ in ___.” Each correct answer earns points."
+      ],
+      "stretchStrategies": [
+        "Students play “Mystery Calendar & Weather” where one student describes a date and weather, and others guess and write it in their mini calendar charts."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "3. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

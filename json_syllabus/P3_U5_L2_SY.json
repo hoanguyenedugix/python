@@ -1,0 +1,112 @@
+{
+  "lesson": {
+    "id": 38
+  },
+  "lessonOverview": {
+    "title": "Unit 5 - Lesson 2",
+    "topic": "Appearance",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 3-4",
+        "activities": [
+          {
+            "name": "Activity A - Page 3"
+          },
+          {
+            "name": "Activity B - Page 3"
+          },
+          {
+            "name": "Activity Speaking - Page 4"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 57",
+        "activities": [
+          {
+            "name": "Activity A - Page 57"
+          },
+          {
+            "name": "Activity B - Page 57"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 58",
+      "materials": [
+        "Unit 5 Lesson 2 FCs"
+      ]
+    },
+    "vocabulary": [
+      "short hair",
+      "long hair",
+      "curly hair",
+      "straight hair",
+      "a beard",
+      "big eyes",
+      "freckles",
+      "a round face"
+    ],
+    "structures": [
+      "A: What does he/she look like?",
+      "B: He’s/She’s got short hair."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name eight facial and hair descriptions (short hair, long hair, curly hair, straight hair, a beard, big eyes, freckles, a round face) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Use SB visuals. Say: “Who’s got curly hair?” Students point or circle the correct face. Review new terms with actions (e.g., pretend to curl hair)."
+      ],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about appearance using “What does he/she look like?” and respond with “He’s/She’s got...”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Do “Guess Who?” pair game: one student describes, the other guesses: “She’s got big eyes and freckles.” “It’s number 3!”"
+      ],
+      "stretchStrategies": []
+    },
+    {
+      "outcome": "Students can use the target structure “What does he/she look like?” / “He’s/She’s got ___.” to describe people’s appearance.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Write Q&A: “What does she look like?” → “She’s got short hair.” Do a chain drill where students describe someone and the class guesses."
+      ],
+      "stretchStrategies": []
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Adjective-noun ordering:",
+      "items": [
+        "Tóc dài >> hair long [long hair]"
+      ]
+    },
+    {
+      "section": "2. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

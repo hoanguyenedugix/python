@@ -1,0 +1,133 @@
+{
+  "lesson": {
+    "id": 2
+  },
+  "lessonOverview": {
+    "title": "Unit 1 - Lesson 1",
+    "topic": "Sea Animals",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 3-4",
+        "activities": [
+          {
+            "name": "Activity A - Page 3"
+          },
+          {
+            "name": "Activity B - Page 3"
+          },
+          {
+            "name": "Activity C - Page 4"
+          },
+          {
+            "name": "Activity D - Page 4"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 57",
+        "activities": [
+          {
+            "name": "Activity A - Page 57"
+          },
+          {
+            "name": "Activity B - Page 57"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 58",
+      "materials": [
+        "Unit 1 Lesson 1 FCs"
+      ]
+    },
+    "vocabulary": [
+      "dolphin",
+      "shark",
+      "seahorse",
+      "seal",
+      "octopus",
+      "crab"
+    ],
+    "structures": [
+      "A: What’s your favourite sea animal?",
+      "B: My favourite sea animal is the dolphin.",
+      "A: What’s his/her favourite sea animal?",
+      "B: His/Her favourite sea animal is the shark."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six sea animals (dolphin, shark, seahorse, seal, octopus, crab) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Use SB images or flashcards. Call out a sea animal, students race to point or label it. Then ask: “What colour is it?” to extend."
+      ],
+      "stretchStrategies": [
+        "Students create a short “Sea Animal Interview Show,” asking and answering about favourites, then present 1 fact or reason about their chosen animal."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about sea animals using “What’s your favourite sea animal?” / “What’s his/her favourite sea animal?” and respond with “My favourite sea animal is the...” / “His/Her favourite sea animal is the...”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Create a class survey: students ask 3 peers “What’s your favourite sea animal?” and report to the class."
+      ],
+      "stretchStrategies": [
+        "Students create a short “Sea Animal Interview Show,” asking and answering about favourites, then present 1 fact or reason about their chosen animal."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “What’s your favourite sea animal?” / “What’s his/her favourite sea animal?” / “My favourite sea animal is the ___.” / “His/Her favourite sea animal is the ___.” to talk about preferences.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Display sentence frames: “My favourite sea animal is…” / “His favourite is…” Students practise by guessing their partner’s favourite."
+      ],
+      "stretchStrategies": [
+        "Students create a short “Sea Animal Interview Show,” asking and answering about favourites, then present 1 fact or reason about their chosen animal."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Consonant clusters:",
+      "items": [
+        "Consonant clusters do not exist in Vietnamese words, so they need special attention. Remember that clusters don't come only at the beginning of words – end clusters can be even harder (dogs, task, crisp, crisps, snacks)"
+      ]
+    },
+    {
+      "section": "2. Hobbies and activities:",
+      "items": [
+        "A wide variety of syllabus hobbies may be less popular or available to some Vietnamese students (practising the flute; seeing famous paintings), although many overlap"
+      ]
+    },
+    {
+      "section": "3. Plural nouns:",
+      "items": [
+        "Hai con chó >> two dog [two dogs]. Not only the form, but the pronunciation is tough here, as it changes depending on the final sound of the noun [s,z,iz]"
+      ]
+    },
+    {
+      "section": "4. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "5. Holidays and travel:",
+      "items": [
+        "Certain common holiday activities are less likely to overlap with those of Western kids (eating seafood at the beach, going on tours in large groups)"
+      ]
+    },
+    {
+      "section": "6. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}

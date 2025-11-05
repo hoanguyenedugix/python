@@ -1,0 +1,121 @@
+{
+  "lesson": {
+    "id": 59
+  },
+  "lessonOverview": {
+    "title": "Unit 8 - Lesson 1",
+    "topic": "Places",
+    "resources": {
+      "studentBook": {
+        "pages": "Page 33-34",
+        "activities": [
+          {
+            "name": "Activity A - Page 33"
+          },
+          {
+            "name": "Activity B - Page 33"
+          },
+          {
+            "name": "Activity C - Page 34"
+          },
+          {
+            "name": "Activity D - Page 34"
+          }
+        ]
+      },
+      "activityBook": {
+        "pages": "Page 87",
+        "activities": [
+          {
+            "name": "Activity A - Page 87"
+          },
+          {
+            "name": "Activity B - Page 87"
+          }
+        ]
+      },
+      "phonicsBook": {
+        "pages": "",
+        "activities": []
+      },
+      "homework": "AB 88",
+      "materials": [
+        "Flashcards Unit 8 Lesson 1"
+      ]
+    },
+    "vocabulary": [
+      "bakery",
+      "bank",
+      "pet shop",
+      "fire station",
+      "hospital",
+      "post office"
+    ],
+    "structures": [
+      "A: Where’s the bank/pet shop?",
+      "B: It’s next to/opposite the hospital.",
+      "A: Where’s the pet shop?",
+      "B: It’s between the post office and the bank."
+    ],
+    "phonics": []
+  },
+  "lessonOutcomes": [
+    {
+      "outcome": "Students can recognise and name six places (bakery, bank, pet shop, fire station, hospital, post office) when listening and looking at visual prompts.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Vocab) Use town map visuals or SB images. Point to a place and ask: “What is it?” Students respond with “It’s a hospital.” Practice with choral repetition."
+      ],
+      "stretchStrategies": [
+        "Town Map Treasure Hunt – Give pairs a mini town map with hidden “treasure spots.” One asks: “Where’s the bakery?” The other answers with prepositions: “It’s between the bank and the hospital.” They race to find all places."
+      ]
+    },
+    {
+      "outcome": "Students can ask and answer simple questions about places using “Where’s the...?” and respond with “It’s (preposition) the...” / “It’s between the... and the...”.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Speaking) Draw a mini map on the board. Ask: “Where’s the bank?” Students answer using “It’s next to the ___” or “It’s between ___ and ___.”"
+      ],
+      "stretchStrategies": [
+        "Town Map Treasure Hunt – Give pairs a mini town map with hidden “treasure spots.” One asks: “Where’s the bakery?” The other answers with prepositions: “It’s between the bank and the hospital.” They race to find all places."
+      ]
+    },
+    {
+      "outcome": "Students can use the target structure “Where’s the ___?” / “It’s ___ the ___.” / “It’s between the ___ and the ___.” to talk about places.",
+      "category": "Communication",
+      "supportStrategies": [
+        "(Grammar) Prepare sentence halves on the board (e.g., “Where’s the pet shop?” – “It’s ___ the ___.”). Students match and say the complete sentence aloud."
+      ],
+      "stretchStrategies": [
+        "Town Map Treasure Hunt – Give pairs a mini town map with hidden “treasure spots.” One asks: “Where’s the bakery?” The other answers with prepositions: “It’s between the bank and the hospital.” They race to find all places."
+      ]
+    }
+  ],
+  "languageTransferAnalysis": [
+    {
+      "section": "1. Unstressed vowels (schwa):",
+      "items": [
+        "Unstressed vowels do not really exist in Vietnamese, so these need extra practice. Make sure the final vowel of computer is a light schwa, not a heavy com-pu-TER. Same with the final vowel of banana. Or the second syllable of elephant. And so on."
+      ]
+    },
+    {
+      "section": "2. Things around town:",
+      "items": [
+        "Certain common places will not overlap in style or popular concept with their Western equivalents (fire station, post office, bakery, library), whereas others are more comparable (hair salon, shopping centre)"
+      ]
+    },
+    {
+      "section": "3. Released final consonants:",
+      "items": [
+        "In Vietnamese, final consonants are 'held in' – you don't actually hear them released. But in English, the final consonant of cat, top, rock, and so on are released with a puff of air. Make sure you are aware of this difference."
+      ]
+    },
+    {
+      "section": "4. Contractions:",
+      "items": [
+        "Do not exist in standard Vietnamese, written or spoken. The hardest part for YLs is learning to pronounce them naturally: there's a dog rather than there is a dog."
+      ]
+    }
+  ],
+  "lessonPlan": null
+}
